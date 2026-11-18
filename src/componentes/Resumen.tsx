@@ -6,11 +6,10 @@ export function Resumen({ peliculas, funciones, verDudosas, alCambiarDudosas }: 
   return (
     <div className="resumen">
       <p className="sutil">
-        {plural(peliculas, "película", "películas")} · {plural(funciones, "función", "funciones")}
+        {plural(peliculas, "película", "películas")}, {plural(funciones, "función", "funciones")}. Subtituladas en 2D salvo indicación.
       </p>
-      <label className="interruptor">
+      <label className="casilla">
         <input type="checkbox" checked={verDudosas} onChange={(evento) => alCambiarDudosas(evento.target.checked)} />
-        <span className="interruptor-pista" aria-hidden="true" />
         Incluir castellano sin idioma confirmado
       </label>
     </div>

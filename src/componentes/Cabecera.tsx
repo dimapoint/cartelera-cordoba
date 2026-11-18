@@ -14,18 +14,14 @@ type Propiedades = {
 
 export function Cabecera({ generado, hoy, dias, dia, alElegirDia, cinesElegidos, alAlternarCine }: Propiedades) {
   return (
-    <header className="cabecera">
+    <>
+      <header className="contenedor cabezal">
+        <h1>Cartelera</h1>
+        <p className="volanta">Funciones en versión original en Córdoba, actualizadas el {formatearMarca(generado)}</p>
+      </header>
+      {/* Solo la barra de días y cines queda fija: el cabezal se va con el scroll. */}
+      <div className="cabecera">
       <div className="contenedor">
-        <div className="marca-sitio">
-          <span className="sello" aria-hidden="true">
-            VOS
-          </span>
-          <div>
-            <h1>Cartelera en versión original</h1>
-            <p className="sutil">Córdoba · actualizada el {formatearMarca(generado)}</p>
-          </div>
-        </div>
-
         <nav className="dias" aria-label="Elegir día">
           {dias.map((opcion) => (
             <button key={opcion} className="dia" aria-pressed={opcion === dia} onClick={() => alElegirDia(opcion)}>
@@ -44,6 +40,7 @@ export function Cabecera({ generado, hoy, dias, dia, alElegirDia, cinesElegidos,
           ))}
         </div>
       </div>
-    </header>
+      </div>
+    </>
   )
 }
