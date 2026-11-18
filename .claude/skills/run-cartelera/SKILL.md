@@ -92,7 +92,7 @@ Abre en http://localhost:5173/. Ctrl+C para parar. La página lee `public/cartel
 bun test
 ```
 
-121 tests, sin red (fixtures reales en `scraper/fixtures/`, `traer` falso inyectado en cada fuente, servidor local para los reintentos HTTP). Tarda menos de 1 s.
+122 tests, sin red (fixtures reales en `scraper/fixtures/`, `traer` falso inyectado en cada fuente, servidor local para los reintentos HTTP). Tarda menos de 1 s.
 
 ```bash
 bunx tsc --noEmit -p .
@@ -111,6 +111,8 @@ bun run build
 - **Wikidata devuelve 403 con User-Agent de navegador**: usa `AGENTE_WIKIMEDIA`. El buscador de IMDb (`v3.sg.media-imdb.com`) no es oficial.
 - **Idioma original mal o película que sobra**: `datos/overrides.json`, por título como lo publica el cine: `{ "Cordobeces": { "ocultar": true } }` o `{ "X": { "idiomaOriginal": "es" } }`. Gana sobre todo lo demás.
 - **Capturas con pósters en blanco**: las imágenes son `loading=lazy`; el driver las fuerza a cargar antes de capturar. Las pastillas de día tienen transición de 0,15 s: el driver espera antes de la captura.
+- **La tira de días agrupa por mes** (etiquetas "nov", "dic"; un renglón por mes en escritorio, una tira deslizable en celular). Las preventas de diciembre existen en los datos pero están lejos de hoy: para ver una, hacer clic en su día (por ejemplo, el 17/12) y comprobar que aparezcan Avengers y Duna.
+- **La vista previa de Claude puede servir otra carpeta** si el proyecto se movió: si no aparecen los cambios, liberar el puerto 5173 y levantar `bun run dev` desde la carpeta correcta.
 - **Locators por `aria-pressed`** cambian al hacer clic: recorrer todos los `.chip` y mirar el atributo de cada uno.
 
 ## Troubleshooting

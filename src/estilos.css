@@ -88,24 +88,29 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   margin: 8px 0 0;
 }
 
-.dias {
-  display: flex;
-  overflow-x: auto;
-  scrollbar-width: none;
-  margin: 0 -16px;
-  padding: 0 16px;
-  border-bottom: 1px solid var(--filete);
+/* Un renglón por mes en escritorio; en celular una sola tira que se desliza. */
+.dias { display: flex; flex-direction: column; border-bottom: 1px solid var(--filete); }
+.mes { display: flex; border-bottom: 1px solid var(--filete); }
+.mes:last-child { border-bottom: 0; }
+.mes-nombre {
+  flex: none;
+  width: 4.2rem;
+  display: grid;
+  align-items: center;
+  padding-left: 2px;
+  font: 600 0.68rem var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
 }
-.dias::-webkit-scrollbar { display: none; }
 .dia {
   flex: none;
   display: grid;
   justify-items: center;
   min-width: 52px;
   padding: 8px 8px 7px;
-  border-right: 1px solid var(--filete);
+  border-left: 1px solid var(--filete);
 }
-.dia:first-child { border-left: 1px solid var(--filete); }
+.mes .dia:last-child { border-right: 1px solid var(--filete); }
 .dia-nombre { font: 500 0.62rem var(--mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--gris); }
 .dia-numero { font-size: 1.45rem; font-weight: 700; line-height: 1.05; font-variant-numeric: lining-nums tabular-nums; }
 .dia:hover .dia-numero { text-decoration: underline; text-underline-offset: 3px; }
@@ -194,6 +199,19 @@ a.horario:hover .hora { text-decoration: underline; text-underline-offset: 3px; 
 @media (max-width: 520px) {
   body { font-size: 16px; }
   .cabezal { padding-top: 12px; padding-bottom: 8px; }
+  .dias {
+    flex-direction: row;
+    overflow-x: auto;
+    scrollbar-width: none;
+    margin: 0 -16px;
+    padding: 0 16px;
+    /* el degradé de la derecha avisa que hay más días (y meses) al deslizar */
+    mask-image: linear-gradient(to right, #000 calc(100% - 36px), transparent);
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 36px), transparent);
+  }
+  .dias::-webkit-scrollbar { display: none; }
+  .mes { flex: none; border-bottom: 0; }
+  .mes-nombre { width: 2.6rem; }
   .filtros { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 8px 16px 9px; }
   .filtros::-webkit-scrollbar { display: none; }
   .chip { flex: none; }

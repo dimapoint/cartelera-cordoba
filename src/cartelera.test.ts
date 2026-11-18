@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { agruparPorPelicula, diasConFunciones, esVisible, etiquetaDelDia, formatearMarca } from "./cartelera"
+import { agruparDiasPorMes, agruparPorPelicula, diasConFunciones, esVisible, etiquetaDelDia, formatearMarca } from "./cartelera"
 import { ahoraEnCordoba, sumarDias } from "./fechas"
 import type { Cine, Funcion, IdiomaOriginal, Pelicula } from "./tipos"
 
@@ -65,6 +65,12 @@ describe("días y fechas", () => {
     expect(etiquetaDelDia("2026-11-30", "2026-11-30")).toBe("Hoy")
     expect(etiquetaDelDia("2026-12-01", "2026-11-30")).toBe("Mañana")
     expect(etiquetaDelDia("2026-11-19", "2026-11-16")).toBe("jue")
+  })
+  test("agrupa los días por mes, también cuando hay un hueco de semanas, y anota el año solo si cambia", () => {
+    const grupos = agruparDiasPorMes(["2026-11-30", "2026-12-01", "2026-12-02", "2026-12-15", "2026-12-29", "2027-01-02"], "2026-11-18")
+    expect(grupos.map((grupo) => [grupo.nombre, grupo.dias.length])).toEqual([["nov", 1], ["dic", 4], ["ene 2027", 1]])
+    expect(grupos[1].dias).toEqual(["2026-12-01", "2026-12-02", "2026-12-15", "2026-12-29"])
+    expect(agruparDiasPorMes([], "2026-11-18")).toEqual([])
   })
   test("sumarDias cruza meses, años y febrero", () => {
     expect(sumarDias("2026-12-31", 1)).toBe("2027-01-01")

@@ -1,4 +1,4 @@
-import { etiquetaDelDia, formatearMarca } from "../cartelera"
+import { agruparDiasPorMes, etiquetaDelDia, formatearMarca } from "../cartelera"
 import { CINES } from "../cines"
 import type { Cine } from "../tipos"
 
@@ -23,11 +23,16 @@ export function Cabecera({ generado, hoy, dias, dia, alElegirDia, cinesElegidos,
       <div className="cabecera">
       <div className="contenedor">
         <nav className="dias" aria-label="Elegir día">
-          {dias.map((opcion) => (
-            <button key={opcion} className="dia" aria-pressed={opcion === dia} onClick={() => alElegirDia(opcion)}>
-              <span className="dia-nombre">{etiquetaDelDia(opcion, hoy)}</span>
-              <span className="dia-numero">{Number(opcion.slice(8, 10))}</span>
-            </button>
+          {agruparDiasPorMes(dias, hoy).map((grupo) => (
+            <div key={grupo.mes} className="mes" role="group" aria-label={grupo.nombre}>
+              <span className="mes-nombre">{grupo.nombre}</span>
+              {grupo.dias.map((opcion) => (
+                <button key={opcion} className="dia" aria-pressed={opcion === dia} onClick={() => alElegirDia(opcion)}>
+                  <span className="dia-nombre">{etiquetaDelDia(opcion, hoy)}</span>
+                  <span className="dia-numero">{Number(opcion.slice(8, 10))}</span>
+                </button>
+              ))}
+            </div>
           ))}
         </nav>
 
