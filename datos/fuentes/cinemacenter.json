@@ -1,0 +1,96 @@
+{
+ "actualizado": "2026-11-18T16:21",
+ "funciones": [
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "MADRE SINIESTRA",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/5826"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T17:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6073"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "EL GATO CON SOMBRERO",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T17:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "COMO ROBAR UN BANCO",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T19:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6104"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "COMO ROBAR UN BANCO",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6107"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6108"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "PLUMAS OPERACION RESCATE",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "PLUMAS OPERACION RESCATE",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T19:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
+  }
+ ],
+ "cubreHasta": "2026-11-18"
+}

@@ -1,0 +1,59 @@
+name: Actualizar cartelera
+
+on:
+  schedule:
+    # 10, 13, 16, 19 y 22 h de Córdoba (UTC-3)
+    - cron: "0 13,16,19,22,1 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: cartelera
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.publicar.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: "1.4.3"
+      - run: bun install --frozen-lockfile
+      - run: bun test
+
+      # Si una fuente se cae, el scraper usa sus datos anteriores y termina con error:
+      # se publica igual y el job falla al final para que llegue el mail.
+      - name: Bajar horarios
+        id: scraper
+        continue-on-error: true
+        run: bun run actualizar
+
+      # Commitear los datos guarda el historial y además mantiene activo el cron (GitHub lo apaga tras 60 días sin actividad).
+      - name: Guardar datos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/cartelera.json datos
+          git diff --cached --quiet || (git commit -m "Actualizar cartelera" && git push)
+
+      - run: bun run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - id: publicar
+        uses: actions/deploy-pages@v4
+
+      - name: Avisar si alguna fuente falló
+        if: steps.scraper.outcome == 'failure'
+        run: exit 1

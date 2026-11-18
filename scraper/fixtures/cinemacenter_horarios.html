@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" class="bg_1">
+<head>
+<link type="image/x-icon" href="favicon.ico" rel="icon"/>
+<link type="image/x-icon" href="favicon.ico" rel="shortcut icon"/>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>CINEMACENTER</title>
+<meta name="description" content="Cinemacenter. Circuito Cinemacenter es un equipo de profesionales especializados en la operación comercial y artística de salas de espectáculos públicos. Ofrece servicios de programación y asesoramiento a grupos de empresarios independientes que son parte de la industria del entretenimiento en Argentina." />
+<meta name="keywords" content="Cinemacenter, Una companía argentina con años de trayectoria, cines, cine, películas, Argentina" />
+<meta name="robots" content="all" />
+
+<script type="text/javascript" src="https://www.cinemacenter.com.ar/js/jquery-1.8.0.min.js"></script>
+<script type="text/javascript" src="https://www.cinemacenter.com.ar/js/jquery.pngFix.js"></script>
+<script type="text/javascript" src="https://www.cinemacenter.com.ar/js/common.lib.js"></script>
+<script type="text/javascript" src="https://www.cinemacenter.com.ar/js/jquery.stepgallery.js"></script>
+<script type="text/javascript" src="https://www.cinemacenter.com.ar/js/jquery.sb.js"></script>
+
+<link rel="stylesheet" type="text/css" href="https://www.cinemacenter.com.ar/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="https://www.cinemacenter.com.ar/css/fonts.css?1327938714" />
+<link type="text/css" rel="stylesheet" href="https://www.cinemacenter.com.ar/css/stepgallery.css" />
+<link type="text/css" rel="stylesheet" href="https://www.cinemacenter.com.ar/css/jquery.sb.css" />
+<link type="text/css" rel="stylesheet" href="https://www.cinemacenter.com.ar/css/board.css" />
+<link rel="stylesheet" type="text/css" href="https://www.cinemacenter.com.ar/css/main.css?1776908379" />
+
+	<script language="JavaScript">
+	$(function() {seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,5826,1)});
+	$(function () {
+		var params = { width: 960, height: 434, prevnext: true, interval: 20000, transition: 'circular' }
+		$('#board').stepgallery( params );
+		
+		$('.topnav select').sb({
+			optionFormat: function() {
+				if ($(this).attr("alt")) {
+					return $(this).attr("alt");
+				} else {
+					return $(this).text();
+				}
+			}
+		});
+		
+		$('#city').change(function() {
+			window.location = 'https://www.cinemacenter.com.ar/actions.php?action=select_city&cityid=' + $(this).val();
+			return false;
+		});
+		
+		$('#movie').change(function() {
+			window.location = $(this).val();
+			return false;
+		});
+	});
+	
+$(function () { var params = { width: 294, height: 215, interval: 7500,speed: 1500 }; $('#promos').stepgallery( params ); });
+
+function slideSwitch() {
+    var $active = $('#footer-fade-slideshow .frame.active');
+    if ( $active.length == 0 ) $active = $('#footer-fade-slideshow .frame:last');
+
+    var $next =  $active.next().length ? $active.next()
+        : $('#footer-fade-slideshow .frame:first');
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+$(function() {
+	setInterval( "slideSwitch()", 20000 );
+});
+	</script>
+
+	
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NWXZF4P');
+</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body id="horarios">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NWXZF4P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- INICIO ADS -->
+<!-- e-planning v4 - Comienzo espacio Cinemacenter.com.ar _ ROS _ 300x250 -->
+<script type="text/javascript" language="Javascript1.1">var oIF = true;</script>
+<script type="text/javascript" language="Javascript1.1" src="https://us.img.e-planning.net/layers/epl-41.js"></script>
+<script type="text/javascript" language="Javascript1.1">
+<!--
+var eplArgs = { sV:"ads.e-planning.net",vV:4,sI:"11cad",kVs:{  }};
+var eplAdsArray=new Array();
+function eplInit() {
+	if (this.readyState == 'complete') {
+		document.epl.eplInit(eplArgs);
+		for (var i=0; i<eplAdsArray.length; i++) {
+			if (eplAdsArray[i][1].custF) document.epl.setCustomAdShow(eplAdsArray[i][0],eplAdsArray[i][1].custF);
+			document.epl.setSpace(eplAdsArray[i][0], eplAdsArray[i][1]);
+		}
+	}
+}
+if (document.epl != undefined) {
+	document.epl.eplInit(eplArgs);
+} else {
+	var array = document.getElementsByTagName('script');
+	var e = undefined;
+	for (var i=0; i<array.length; i++) {
+		if (array[i].src.indexOf('epl-41.js') != -1) {
+			e = array[i];
+		}
+	}
+	if (e != undefined) { e.onreadystatechange = eplInit; }
+}
+function eplAD4(eID,opts) {
+	document.write('<div id="eplAdDiv'+ eID +'"></div>');
+	if (!opts) opts = {t:2};
+	if (document.epl != undefined) {
+		if (opts.custF) document.epl.setCustomAdShow(eID,opts.custF);
+		document.epl.setSpace(eID, opts);
+	} else {
+		eplAdsArray.push(new Array(eID, opts));
+	}
+}
+//--></script>
+<!-- FIN ADS -->
+<!-- CUERPO -->
+<div class="page_wrapper">
+	<!-- HEADER -->
+	<div class="header">
+		<div class="header_top">
+			<div class="header_inner">
+				<a href="https://www.cinemacenter.com.ar" class="main_logo">
+					<img src="https://www.cinemacenter.com.ar/images/logo-cca2.png" alt="CCA - Circuito Cines Argentinos" />
+				</a>
+				<div class="follow">
+					<span id="fecha" style="text-transform:uppercase;">Lunes 16 de Noviembre de 2026</span> &nbsp;&nbsp;SEGUINOS EN&nbsp;&nbsp;|&nbsp;
+					<a target="_blank" href="https://www.facebook.com/CinemacenterArgentina"><img src="https://www.cinemacenter.com.ar/images/icon-facebook.png" alt="Facebook"></a>
+					<a target="_blank" href="https://twitter.com/intent/user?screen_name=cinemacenter3D"><img src="https://www.cinemacenter.com.ar/images/icon-twitter.png" alt="Twitter"></a>
+					<a target="_blank" href="https://www.youtube.com/Webcinemacenter"><img src="https://www.cinemacenter.com.ar/images/icon-youtube.png" alt="YouTube"></a>
+					<a target="_blank" href="https://www.instagram.com/cinemacenterarg/?hl=es-la"><img src="https://www.cinemacenter.com.ar/images/icon-insta_cc.png" alt="Instagram"></a>
+					<a target="_blank" href="https://whatsapp.com/channel/0029VaZil3159PwXpf9Lk13H"><img src="https://www.cinemacenter.com.ar/images/icon-wa_cc.png" alt="Whatsapp"></a>
+					
+				</div>
+				<div class="sub-menu_wrapper">
+	<ul class="sub-menu">
+		<li ><a
+			href="https://www.cinemacenter.com.ar/inicio/">INICIO</a>
+		</li>
+		<li class="separator">&middot;</li>
+		<li
+		class="active"><a
+			href="https://www.cinemacenter.com.ar/empresa/#contenido">NOSOTROS</a>
+		</li>
+		<li class="separator">&middot;</li>
+		<li
+		class="active"><a
+			href="https://www.cinemacenter.com.ar/complejos/#contenido">COMPLEJOS</a>
+		</li>
+		<li class="separator">&middot;</li>
+		<li ><a
+			href="https://www.cinemacenter.com.ar/rrhh#contenido">RRHH</a>
+		</li>
+		<li class="separator">&middot;</li>
+		<li
+		><a
+			href="https://www.cinemacenter.com.ar/marketing#contenido">VENTAS CORPORATIVAS</a>
+		</li>
+		<li class="separator">&middot;</li>
+		<li
+		><a
+			href="https://www.cinemacenter.com.ar/calificaciones#contenido">CALIFICACIONES</a>
+		</li>
+		<li class="separator">&middot;</li>
+		<li
+		><a
+			href="https://www.cinemacenter.com.ar/consideracionesgrales#contenido">CONSIDERACIONES GENERALES</a>
+		</li>
+	</ul>
+</div>
+			</div>
+		</div>
+		<div class="header_menu_wrapper">
+			<div class="header_menu">
+				<ul class="menu">
+	<li ><a
+		href="https://www.cinemacenter.com.ar/cartelera#contenido">CARTELERA</a>
+	</li>
+	<li class="active"><a
+		href="https://www.cinemacenter.com.ar/horarios#contenido">HORARIOS</a>
+	</li>
+	<li ><a
+		href="https://www.cinemacenter.com.ar/precios#contenido">PRECIOS</a>
+	</li>
+	<li	><a
+		href="https://www.cinemacenter.com.ar/supercombos#contenido">COMBOS</a>
+	</li>
+	<li ><a
+		href="https://www.cinemacenter.com.ar/beneficios#contenido">PROMOCIONES</a>
+	</li>
+	<li ><a
+		href="https://www.cinemacenter.com.ar/estrenos#contenido">PROXIMOS ESTRENOS</a>
+	</li>
+	<li ><a
+		href="https://www.cinemacenter.com.ar/contacto#contenido">CONTACTO</a>
+	</li>
+</ul>
+				</div>
+		</div>
+		<div class="main-top-shadow"></div>
+	</div>
+	<!-- FIN HEADER -->
+	<!-- CONTENIDO -->
+    <div id="epl_skin_div">	
+		<div class="content">
+			<div class="clear"></div>		
+			
+<div id="main-board">
+	<div class="clear"></div>		
+	
+	<div id="ciudad"></div>
+	<div class="topnav">
+		<select class="cities" id="city">
+			<option value="1" selected>Alta Gracia</option>			
+			<option value="2" >Bahía Blanca</option>			
+			<option value="3" >Catamarca</option>			
+			<option value="23" >Cordoba Capital</option>			
+			<option value="4" >Corrientes</option>			
+			<option value="5" >Florencio Varela</option>			
+			<option value="15" >La Rioja</option>			
+			<option value="6" >Mar del Plata</option>			
+			<option value="17" >Mendoza</option>			
+			<option value="18" >Miramar</option>			
+			<option value="7" >Resistencia</option>			
+			<option value="16" >Río Cuarto</option>			
+			<option value="24" >Río Segundo</option>			
+			<option value="9" >San Juan</option>			
+			<option value="10" >San Luis</option>			
+			<option value="12" >Tandil</option>			
+			<option value="13" >Tucuman</option>			
+		</select>
+		<select class="movie" id="movie">
+			<option alt="<span>SELECCIONA</span> TU PELICULA" value="">SELECCIONA TU PELICULA</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6091-LOS-JUEGOS-DEL-HAMBRE-AMANECER-EN-LA-COSECHA---2D-SUB#contenido">LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA - 2D SUB</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6104-COMO-ROBAR-UN-BANCO---2D-CAST#contenido">COMO ROBAR UN BANCO - 2D CAST</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6107-COMO-ROBAR-UN-BANCO---2D-SUB#contenido">COMO ROBAR UN BANCO - 2D SUB</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6108-EBENEZER-LOS-FANTASMAS-DE-NAVIDAD---2D-CAST#contenido">EBENEZER: LOS FANTASMAS DE NAVIDAD - 2D CAST</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6109-EBENEZER-LOS-FANTASMAS-DE-NAVIDAD---2D-SUB#contenido">EBENEZER: LOS FANTASMAS DE NAVIDAD - 2D SUB</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6111-PLUMAS-OPERACION-RESCATE---2D-CAST#contenido">PLUMAS OPERACION RESCATE - 2D CAST</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6078-EL-GATO-CON-SOMBRERO---2D-CAST#contenido">EL GATO CON SOMBRERO - 2D CAST</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/6073-WILDWOOD-EL-BOSQUE-SALVAJE---2D-CAST#contenido">WILDWOOD: EL BOSQUE SALVAJE - 2D CAST</option>
+			<option value="https://www.cinemacenter.com.ar/ficha/5826-MADRE-SINIESTRA---2D-SUB#contenido">MADRE SINIESTRA - 2D SUB</option>
+		</select>
+	</div>
+
+
+	
+	<div class="slider-wrapper" id="slider-header" style="height: 434px" >
+		<ul id="board">
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.miboleteria.com.ar" target="_blank" ><img src="https://www.cinemacenter.com.ar/images/bannervaduna317122026.jpg" /></a>
+				<div class="label" style="display: none">
+					<div class="title">
+						<a href="https://www.miboleteria.com.ar">DUNA 3 17/12</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.miboleteria.com.ar" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.miboleteria.com.ar" target="_blank" ><img src="https://www.cinemacenter.com.ar/images/banneravdoomsday.png" /></a>
+				<div class="label" style="display: none">
+					<div class="title">
+						<a href="https://www.miboleteria.com.ar">DOOMSDAY 17/12</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.miboleteria.com.ar" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.cinemacenter.com.ar/cartelera#3605" target="" ><img src="https://www.cinemacenter.com.ar/img_movies/3605_img1.jpg" /></a>
+				<div class="label" style="display: block">
+					<div class="title">
+						<a href="https://www.cinemacenter.com.ar/cartelera#3605">EBENEZER</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.cinemacenter.com.ar/cartelera#3605" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.cinemacenter.com.ar/cartelera#3687" target="" ><img src="https://www.cinemacenter.com.ar/img_movies/3687_img1.jpg" /></a>
+				<div class="label" style="display: block">
+					<div class="title">
+						<a href="https://www.cinemacenter.com.ar/cartelera#3687">PLUMAS OPERACIÓN RESCATE</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.cinemacenter.com.ar/cartelera#3687" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.cinemacenter.com.ar/cartelera#3572" target="" ><img src="https://www.cinemacenter.com.ar/img_movies/3572_img1.jpg" /></a>
+				<div class="label" style="display: block">
+					<div class="title">
+						<a href="https://www.cinemacenter.com.ar/cartelera#3572">CÓMO ROBAR UN BANCO</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.cinemacenter.com.ar/cartelera#3572" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.cinemacenter.com.ar/cartelera#3269" target="" ><img src="https://www.cinemacenter.com.ar/img_movies/3269_img1.jpg" /></a>
+				<div class="label" style="display: block">
+					<div class="title">
+						<a href="https://www.cinemacenter.com.ar/cartelera#3269">EL GATO CON SOMBRERO</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.cinemacenter.com.ar/cartelera#3269" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.cinemacenter.com.ar/cartelera#3614" target="" ><img src="https://www.cinemacenter.com.ar/img_movies/3614_img1.jpg" /></a>
+				<div class="label" style="display: block">
+					<div class="title">
+						<a href="https://www.cinemacenter.com.ar/cartelera#3614">WILDWOOD: EL BOSQUE SALVAJE</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.cinemacenter.com.ar/cartelera#3614" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="https://www.cinemacenter.com.ar/cartelera#3602" target="" ><img src="https://www.cinemacenter.com.ar/img_movies/3602_img1.jpg" /></a>
+				<div class="label" style="display: block">
+					<div class="title">
+						<a href="https://www.cinemacenter.com.ar/cartelera#3602">MADRE SINIESTRA</a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="https://www.cinemacenter.com.ar/cartelera#3602" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+			<li class="page">
+				<div class="topframe">
+				</div>
+				<a href="http://www.cinemashop.com.ar/" target="_blank" ><img src="https://www.cinemacenter.com.ar/images/bannercinemashop052024.jpg" /></a>
+				<div class="label" style="display: none">
+					<div class="title">
+						<a href="http://www.cinemashop.com.ar/"></a>
+					</div>
+					<div class="moreinfowrapper">						
+						<div class="moreinfo"><a href="http://www.cinemashop.com.ar/" >+ MAS INFO</a></div>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<div class="clear"></div>	
+	<div class="bigshadow"></div>
+</div>
+			<div class="sidebar">
+				<div class="block benefits">
+	
+	
+	
+	<div class="ros" style="margin-left: 5px;">
+
+		<script>eplAD4("4402c7d390267bee",{t:1,timeout:0,ma:1,custF:null,wh:"300x250",sd:"11cad!!https://ads.e-planning.net/!!"});</script>
+
+	</div>
+
+	
+	
+
+	
+	
+
+	<div class="block-title">
+		<img class="block-icon" src="https://www.cinemacenter.com.ar/images/icon-promos.png" alt="" />
+		<em>BENEFICIOS</em>
+		<span class="small"><span class="separator short">&middot;</span>PROMOCIONES</span>
+	</div>
+	<div class="block-content">
+		<div class="slider-wrapper" style="height: 211px; margin-left: 3px">
+			<ul id="promos">
+								<li>
+					<a href="https://www.cinemacenter.com.ar/beneficios/225#promo225" class="poster">
+						<img src="https://www.cinemacenter.com.ar/img_promos/225_img1.jpg" alt="LUNES, MARTES Y MIÉRCOLES 50% EN ENTRADAS" />
+					</a>
+					<div class="bottombar">
+						<div class="info">
+							<a href="https://www.cinemacenter.com.ar/beneficios/225#promo225">Click aqui para <em>Mas Info</em></a>
+						</div>
+						<div class="title">LUNES, MARTES Y MIÉRCOLES 50% EN ENTRADAS</div>
+					</div>
+				</li>
+								<li>
+					<a href="https://www.cinemacenter.com.ar/beneficios/232#promo232" class="poster">
+						<img src="https://www.cinemacenter.com.ar/img_promos/232_img1.jpg" alt="CINEMA HAPPY HOUR" />
+					</a>
+					<div class="bottombar">
+						<div class="info">
+							<a href="https://www.cinemacenter.com.ar/beneficios/232#promo232">Click aqui para <em>Mas Info</em></a>
+						</div>
+						<div class="title">CINEMA HAPPY HOUR</div>
+					</div>
+				</li>
+							</ul>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>
+
+<div class="block draws">
+	<!--<div class="block-title">
+		<img class="block-icon"
+			src="https://www.cinemacenter.com.ar/images/icon-clapperboard.png" alt="" />
+		<em>SORTEOS</em> <b>SEMANALES</b>
+	</div>-->
+	<div class="block-content">
+		<!--<div class="draw">
+			<a href="https://www.cinemacenter.com.ar/sorteos#contenido">
+				<img src="https://www.cinemacenter.com.ar/images/ccachica.jpg" alt="Sorteos" />
+			</a>
+		</div>-->
+		<div class="draw">
+			<a href="https://www.cinemacenter.com.ar/newsletter#contenido"> <img
+				src="https://www.cinemacenter.com.ar/images/sidebar-newsletter.png"
+				alt="Newsletter" /> </a>
+		</div>
+		<div class="newsletter">
+			<a href="https://www.cinemacenter.com.ar/rrhh#contenido"> <img
+				src="https://www.cinemacenter.com.ar/images/sidebar-rrhh.jpg"
+				alt="Formulario Recursos Humanos" /> </a>
+		</div>
+	</div>
+</div>
+
+<div class="block social">
+	<div class="block-content">
+		<div class="facebook">
+			<div class="fb_head">
+				<img src="https://www.cinemacenter.com.ar/images/icon-facebook-likebox.png" alt="[Facebook]" /> Seguinos en Facebook
+			</div>
+			<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FCinemacenterArgentina&amp;width=298&amp;height=258&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;show_border=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:298px; height:258px;" allowTransparency="true"></iframe>
+		</div>
+		<!--<div class="twitter">
+			<div class="tw_head">
+				<img src="https://www.cinemacenter.com.ar/images/icon-twitter-bird.png"
+					alt="[Twitter]" /> Seguinos en twitter
+			</div>
+			<div class="profile">
+				<img class="avatar"
+					src="https://www.cinemacenter.com.ar/images/cca-twitter.png" />
+				<div class="name">
+					<a href="http://twitter.com/intent/follow?screen_name=Cinemacenter3D">CINEMACENTER ARG.</a><br /> ARGENTINA
+				</div>
+			</div>
+			<div class="clear"></div>
+						<div class="twitter_wrapper">
+				<a class="twitter-timeline" data-chrome="nofooter noheader" width="298" height="150" data-link-color="#7cb8d1" href="https://twitter.com/Cinemacenter3D" data-widget-id="345223940609818625">Tweets por @Cinemacenter3D</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+		</div>-->
+		<div class="clear"></div>
+	</div>
+</div>
+						</div>
+			<div id="contenido" class="main-content">
+				<script language="JavaScript">
+
+function seleccionarMovie(cinemaTitle,cityTitle,cinemaId,showId,cityId)
+{
+
+$(".movieLink").removeClass("active");
+$("#divTitleCinema").html(cinemaTitle);
+$("#divTitleCity").html(cityTitle);
+$("#"+cinemaId+"_"+showId).addClass("active");
+$(".cinema_note").css("display", "none");
+$("#cinema_"+cinemaId).css("display", "block");
+
+ajax_cargarMovieInfo(cinemaId,showId,showId);
+ajax_cargarShowHorario(cinemaId,showId,cityId);
+}
+
+function ajax_cargarMovieInfo(cinemaId,showId,movieId)
+{
+
+	$("#divMovieSlider").load("https://www.cinemacenter.com.ar/modules/parts/ajax_movieSlider.php",	
+			{
+			movieId:movieId
+			},
+			function (response,status,xhr)
+			{
+				if(status=="success")
+				{
+					//alert("ok");
+				}
+				
+			}		
+
+			);
+}
+
+function ajax_cargarShowHorario(cinemaId,showId,cityId)
+{
+
+	$("#divHorariosAjax").load("https://www.cinemacenter.com.ar/modules/parts/ajax_horariosShow.php",	
+			{
+			showId:showId,
+			cityId:cityId,
+			cinemaId:cinemaId
+			},
+			function (response,status,xhr)
+			{
+				if(status=="success")
+				{
+					//alert("ok");
+				}
+				
+				bindBuyConfirm();
+				
+			}		
+
+			);
+}
+</script>
+<script type="text/javascript" src="//services.brid.tv/player/build/brid.min.js"></script>
+<div class="block shedules">
+	<div class="block-title">
+		<div class="advanced">
+			<a href="https://www.cinemacenter.com.ar/buscador#contenido"><img src="https://www.cinemacenter.com.ar/images/advsearch.png" alt="B&uacute;squeda avanzada" /></a>
+		</div>
+		<img class="block-icon" src="https://www.cinemacenter.com.ar/images/icon-movies.png" alt=""/>
+		<em>HORARIOS</em>
+		<span class="separator">&middot;</span>
+		<span class="slim grey" id="divTitleCity">Alta Gracia</span>
+		<!-- <span class="separator">&middot;</span> -->
+		<!-- <span class="slim grey" id="divTitleCinema"></span> -->
+	</div>
+	<div class="block-content">
+		<div class="movielist">
+			<div class="title">
+				<em>SELECCIONA</em> TU PELICULA
+			</div>
+			<ul class="cinemas">
+			
+				<li>
+					<div class="cinema-title"><a href="#">Cinemacenter Alta Gracia</a> &middot; Alta Gracia</div>
+					<ul class="movies">
+						<li class="movieLink" id="9_5826"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,5826,1)">MADRE SINIESTRA - 2D SUB</a></li>
+						<li class="movieLink" id="9_6073"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6073,1)">WILDWOOD: EL BOSQUE SALVAJE - 2D CAST</a></li>
+						<li class="movieLink" id="9_6078"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6078,1)">EL GATO CON SOMBRERO - 2D CAST</a></li>
+						<li class="movieLink" id="9_6091"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6091,1)">LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA - 2D SUB</a></li>
+						<li class="movieLink" id="9_6104"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6104,1)">COMO ROBAR UN BANCO - 2D CAST</a></li>
+						<li class="movieLink" id="9_6107"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6107,1)">COMO ROBAR UN BANCO - 2D SUB</a></li>
+						<li class="movieLink" id="9_6108"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6108,1)">EBENEZER: LOS FANTASMAS DE NAVIDAD - 2D CAST</a></li>
+						<li class="movieLink" id="9_6109"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6109,1)">EBENEZER: LOS FANTASMAS DE NAVIDAD - 2D SUB</a></li>
+						<li class="movieLink" id="9_6111"><a href="javascript:seleccionarMovie('Cinemacenter Alta Gracia','Alta Gracia',9,6111,1)">PLUMAS OPERACION RESCATE - 2D CAST</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="timetable" id="divHorariosAjax">
+			<div class="datelimit">DESDE EL 12/11/2026 AL <em>18/11/2026</em></div>
+			<div class="title">
+				<em>HORARIOS</em>
+			</div>
+			
+			
+			
+		</div>
+		<div class="clear"></div>
+		<div class="cinema_note" id="cinema_9" style="display: none;">
+			<div class="footnotes">
+				
+			</div>
+		</div>
+		<div class="clear"></div>
+		<div id="divMovieSlider" >
+			
+		</div>
+		<!--
+		<div class="footnote" >
+			HORARIOS DE LAS BOLETERIAS:<br />
+			Cinema y Cines del Paseo: Abierto desde las 10 todos los d&iacute;as.<br />
+			Ambassador: Abierto mi&eacute;rcoles, s&aacute;bado y feriados desde las 10. Resto de los d&iacute;as una hora antes de la primer funci&oacute;n.<br />
+		</div>
+		-->
+	</div>
+</div>
+<script type="text/javascript">
+<!--
+function selectTime4Buy(cineId,showId,cityId,performanceId,performanceDate)
+{
+$('#cineId').val(cineId);
+$('#showId').val(showId);
+$('#cityId').val(cityId);
+$('#performanceId').val(performanceId);
+$('#performanceDate').val(performanceDate);
+$('#formBuy').submit();
+}
+//-->
+</script>
+<form action="https://miboleteria.com.ar/compraExterna.php" id='formBuy' target="_blank" method="post" enctype="application/x-www-form-urlencoded">
+<input type="hidden" id="cineId" name="cineId"/>
+<input type="hidden" id="showId" name="showId"/>
+<input type="hidden" id="cityId" name="cityId"/>
+<input type="hidden" id="performanceId" name="performanceId" />
+<input type="hidden" id="performanceDate" name="performanceDate" />
+</form>				<div class="clear"></div>		
+							</div>
+			<div class="clear"></div>		
+		</div>
+		<!-- FIN CONTENIDO -->
+		<div class="clear"></div>		
+		<!-- FOOTER -->
+			<div class="footer" id="footer">
+<script type="text/javascript">eplAD4M("VOLADOR_RM");</script>
+	<div class="footer_top">
+		<a href="https://www.cinemacenter.com.ar">
+			<img class="ccalogo" src="https://www.cinemacenter.com.ar/images/footer-cca.png" alt="CCA" />
+		</a>
+		<div class="footer_qrs" style="position: absolute;right: 5px;bottom: 5px;">
+			<a href="http://qr.afip.gob.ar/?qr=1y8AH3VZ8Jvc5aMRophbaA,," title="HONFLEUR">
+				<img class="afipqrs" src="https://www.cinemacenter.com.ar/images/DATAWEB.jpg" alt="CCA" />
+			</a>
+			<a href="http://qr.afip.gob.ar/?qr=h1_un1A9ngVAeKZhVigbsg,," title="TEYCI">
+				<img class="afipqrs" src="https://www.cinemacenter.com.ar/images/DATAWEB.jpg" alt="CCA" />
+			</a>
+			<a href="http://qr.afip.gob.ar/?qr=HzSERz_OPvimpuhveIde9A,," title="UNTS">
+				<img class="afipqrs" src="https://www.cinemacenter.com.ar/images/DATAWEB.jpg" alt="CCA" />
+			</a>
+			<a href="http://qr.afip.gob.ar/?qr=UUuQIV7G959RBvx95rPNrw,," title="RIOCIN SA">
+				<img class="afipqrs" src="https://www.cinemacenter.com.ar/images/DATAWEB.jpg" alt="CCA" />
+			</a>
+			<a href="http://qr.afip.gob.ar/?qr=eZjBYLTI16The3PV_7WuSg,," title="MARLETT SA">
+				<img class="afipqrs" src="https://www.cinemacenter.com.ar/images/DATAWEB.jpg" alt="CCA" />
+			</a>
+			<a href="http://qr.afip.gob.ar/?qr=XIzG3sq-CieyBdnYd-xwHA,," title="FIDEICOMISO LUMIERE">
+				<img class="afipqrs" src="https://www.cinemacenter.com.ar/images/DATAWEB.jpg" alt="CCA" />
+			</a>
+		</div>
+		<div class="frames">
+			<div class="frame cinemacenter">
+				<div class="title">Cinemacenter</div>
+				<ul>
+					<li><a href="https://www.cinemacenter.com.ar/mendoza" >Mendoza</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/miramar" >Miramar</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/resistencia" >Resistencia</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/riocuarto" >Rio Cuarto</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/riosegundo" >Rio Segundo</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/sanjuan" >San Juan</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/sanluis" >San Luis</a></li>
+					<!--<li><a href="https://www.cinemacenter.com.ar/santiagodelestero" >Santiago del Estero</a></li>-->
+					<li><a href="https://www.cinemacenter.com.ar/tandil" >Tandil</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/tucuman" >Tucum&aacute;n</a></li>
+				</ul>
+				<ul>
+					<li><a href="https://www.cinemacenter.com.ar/altagracia"  class="active" >Alta Gracia</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/bahiablanca" >Bah&iacute;a Blanca</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/catamarca" >Catamarca</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/cordoba" >C&oacute;rdoba Capital</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/corrientes" >Corrientes</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/florenciovarela" >Florencio Varela</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/larioja" >La Rioja</a></li>
+					<li><a href="https://www.cinemacenter.com.ar/mardelplata" >Mar del Plata</a></li>
+				</ul>
+			</div>
+			<div class="frame contacts">
+				<div class="title">
+					Direcciones<br />
+					<!--<small>y tel&eacute;fonos</small>-->
+				</div>
+
+
+							
+				<ul>
+					<li>
+						<a href="#">Alta Gracia</a><br />
+						Belgrano 466 CP 5187<br />
+						<!--Tel (03547) 422459-->
+					</li>
+				</ul>
+				
+				
+								
+								
+										
+								
+								
+								
+
+											
+
+					
+
+						
+
+									
+
+						
+				
+					
+																							</div>
+		</div>
+	</div>
+	<div class="footer_btm">
+		<div class="dinamix_logo">
+			<a href="http://www.dinamixstudio.com/"target="_blank"><img src="https://www.cinemacenter.com.ar/images/dinamix-studio.png" alt="DINAMIX | STUDIO" /></a>
+		</div>
+		<div class="menu_footer">
+			<ul>
+				<li><a href="https://www.cinemacenter.com.ar">Inicio</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/cartelera/#contenido">Cartelera</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/horarios/#contenido">Horarios</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/precios/#contenido">Precios</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/supercombos/#contenido">Combos</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/beneficios/#contenido">Promociones</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/estrenos/#contenido">Pr&oacute;ximos Estrenos</a></li>
+				<li class="separator">|</li>
+				<li><a href="https://www.cinemacenter.com.ar/contacto/#contenido">Contacto</a></li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+		<div class="copyright">
+			&copy; Copyright <a href="https://www.cinemacenter.com.ar">CinemaCenter</a>  Argentina. Todos los derechos reservados.	
+		</div>
+	</div>
+</div>
+		<!-- FIN FOOTER -->
+	</div>
+</div>
+</body>
+</html>

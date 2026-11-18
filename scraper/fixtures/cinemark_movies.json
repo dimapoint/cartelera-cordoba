@@ -1,0 +1,119 @@
+{
+ "data": [
+  {
+   "id": "9b0704ac-177f-4f1b-b01e-0908b751e94f",
+   "corporateId": "114046",
+   "slug": "ebenezer-los-fantasmas-de-navidad",
+   "title": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+   "recommended": true,
+   "openingDate": "2026-11-12T00:00:00.000Z",
+   "runTime": 115,
+   "premiere": true,
+   "status": "SHOWING_NOW",
+   "posterUrl": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
+   "rating": "SP",
+   "hasRelaxedFunctions": false,
+   "tags": [],
+   "formats": [
+    {
+     "name": "2D",
+     "shortName": "2D"
+    },
+    {
+     "name": "COMFORT",
+     "shortName": "Comfort"
+    },
+    {
+     "name": "D-BOX",
+     "shortName": "DBOX"
+    },
+    {
+     "name": "PREMIER",
+     "shortName": "PRE"
+    }
+   ],
+   "order": 1,
+   "languages": [
+    {
+     "name": "CASTELLANO",
+     "shortName": "CAST"
+    },
+    {
+     "name": "SUBTITULADA",
+     "shortName": "SUB"
+    }
+   ]
+  },
+  {
+   "id": "83c43116-881f-42d1-b73a-4fe9bbeffc8e",
+   "corporateId": "109355",
+   "slug": "avengers-doomsday",
+   "title": "AVENGERS: DOOMSDAY",
+   "recommended": false,
+   "openingDate": "2026-12-17T00:00:00.000Z",
+   "runTime": 165,
+   "premiere": false,
+   "status": "PRESALE",
+   "posterUrl": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "rating": "R-13",
+   "hasRelaxedFunctions": false,
+   "tags": [
+    {
+     "deletedBy": null,
+     "deletedAt": null,
+     "createdBy": null,
+     "createdAt": null,
+     "updatedBy": null,
+     "updatedAt": null,
+     "id": 5,
+     "label": "Sin promociones"
+    }
+   ],
+   "formats": [
+    {
+     "name": "3D",
+     "shortName": "3D"
+    },
+    {
+     "name": "INFINITY VISION",
+     "shortName": "IV"
+    },
+    {
+     "name": "D-BOX",
+     "shortName": "DBOX"
+    },
+    {
+     "name": "4D E-MOTION",
+     "shortName": "4D"
+    },
+    {
+     "name": "2D",
+     "shortName": "2D"
+    },
+    {
+     "name": "COMFORT",
+     "shortName": "Comfort"
+    },
+    {
+     "name": "XD DIGITAL",
+     "shortName": "XD"
+    },
+    {
+     "name": "PREMIER",
+     "shortName": "PRE"
+    }
+   ],
+   "order": 1,
+   "languages": [
+    {
+     "name": "CASTELLANO",
+     "shortName": "CAST"
+    },
+    {
+     "name": "SUBTITULADA",
+     "shortName": "SUB"
+    }
+   ]
+  }
+ ]
+}

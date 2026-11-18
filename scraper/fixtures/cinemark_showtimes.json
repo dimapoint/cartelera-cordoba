@@ -1,0 +1,149 @@
+{
+ "data": [
+  {
+   "movieId": "HO00013392",
+   "movieName": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+   "corporateId": "114046",
+   "tags": [],
+   "language": {
+    "id": "3967bae2-8288-4f36-995f-259683c67f21",
+    "name": "SUBTITULADA",
+    "shortName": "SUB"
+   },
+   "formats": [
+    {
+     "id": "4",
+     "name": "D-BOX",
+     "shortName": "DBOX"
+    },
+    {
+     "id": "3",
+     "name": "2D",
+     "shortName": "2D"
+    }
+   ],
+   "theaterId": "105",
+   "theaterRoom": "3",
+   "sessionId": "106562",
+   "sessionFormat": "DBOX 2D",
+   "sessionDateTime": "2026-11-16T13:40:00.000Z",
+   "sessionDisplayDate": "2026-11-16",
+   "isLateNightSession": false,
+   "occupation": {
+    "availableSeats": 18,
+    "capacity": 18,
+    "status": "HIGH"
+   },
+   "premiere": true
+  },
+  {
+   "movieId": "HO00013388",
+   "movieName": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+   "corporateId": "114046",
+   "tags": [],
+   "language": {
+    "id": "3967bae2-8288-4f36-995f-259683c67f21",
+    "name": "SUBTITULADA",
+    "shortName": "SUB"
+   },
+   "formats": [
+    {
+     "id": "3",
+     "name": "2D",
+     "shortName": "2D"
+    }
+   ],
+   "theaterId": "105",
+   "theaterRoom": "3",
+   "sessionId": "106562",
+   "sessionFormat": "2D",
+   "sessionDateTime": "2026-11-16T13:40:00.000Z",
+   "sessionDisplayDate": "2026-11-16",
+   "isLateNightSession": false,
+   "occupation": {
+    "availableSeats": 179,
+    "capacity": 183,
+    "status": "HIGH"
+   },
+   "premiere": true
+  },
+  {
+   "movieId": "HO00012877",
+   "movieName": "AVENGERS: DOOMSDAY",
+   "corporateId": "109355",
+   "tags": [
+    {
+     "deletedBy": null,
+     "deletedAt": null,
+     "createdBy": null,
+     "createdAt": null,
+     "updatedBy": null,
+     "updatedAt": null,
+     "id": 5,
+     "label": "Sin promociones"
+    }
+   ],
+   "language": {
+    "id": "3967bae2-8288-4f36-995f-259683c67f21",
+    "name": "SUBTITULADA",
+    "shortName": "SUB"
+   },
+   "formats": [
+    {
+     "id": "4",
+     "name": "D-BOX",
+     "shortName": "DBOX"
+    },
+    {
+     "id": "2",
+     "name": "3D",
+     "shortName": "3D"
+    }
+   ],
+   "theaterId": "105",
+   "theaterRoom": "3",
+   "sessionId": "105249",
+   "sessionFormat": "DBOX 3D",
+   "sessionDateTime": "2026-12-16T00:00:00.000Z",
+   "sessionDisplayDate": "2026-12-15",
+   "isLateNightSession": true,
+   "occupation": {
+    "availableSeats": 0,
+    "capacity": 18,
+    "status": "FULL"
+   },
+   "premiere": false
+  },
+  {
+   "movieId": "HO00013403",
+   "movieName": "ANIQUILACIÓN",
+   "corporateId": "114047",
+   "tags": [],
+   "language": {
+    "id": "c3beee39-d7e5-4c81-af9c-ca3a3e8bec66",
+    "name": "CASTELLANO",
+    "shortName": "CAST"
+   },
+   "formats": [
+    {
+     "id": "3",
+     "name": "2D",
+     "shortName": "2D"
+    }
+   ],
+   "theaterId": "106",
+   "theaterRoom": "7",
+   "sessionId": "132384",
+   "sessionFormat": "2D",
+   "sessionDateTime": "2026-11-16T13:40:00.000Z",
+   "sessionDisplayDate": "2026-11-16",
+   "isLateNightSession": false,
+   "occupation": {
+    "availableSeats": 104,
+    "capacity": 106,
+    "status": "HIGH"
+   },
+   "premiere": true
+  }
+ ]
+}
