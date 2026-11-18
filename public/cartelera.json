@@ -1,45 +1,20 @@
 {
- "generado": "2026-11-18T16:44",
+ "generado": "2026-11-18T17:04",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-18T16:44"
+   "actualizado": "2026-11-18T17:04"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-18T16:44"
+   "actualizado": "2026-11-18T17:04"
   },
   "cinemacenter": {
-   "ok": false,
-   "actualizado": "2026-11-18T16:29",
-   "error": "The operation timed out. en https://www.cinemacenter.com.ar/horarios"
+   "ok": true,
+   "actualizado": "2026-11-18T17:04"
   }
  },
  "peliculas": [
-  {
-   "id": "tt15799564",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idiomas es, en; título original)"
-  },
-  {
-   "id": "tt32261958",
-   "titulo": "VERITY: LA SOMBRA DE UN ENGAÑO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012617.jpg",
-   "duracion": 114,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt34890576",
-   "titulo": "CLAYFACE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012619.jpg",
-   "duracion": 108,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
   {
    "id": "tt2321555",
    "titulo": "EL GATO CON SOMBRERO",
@@ -47,6 +22,14 @@
    "duracion": 114,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt15799564",
+   "titulo": "CABALLO SALVAJE NUEVE",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "duracion": 118,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idiomas es, en; título original)"
   },
   {
    "id": "tt35866986",
@@ -73,18 +56,18 @@
    "decididoPor": "Wikidata (idioma original: ja)"
   },
   {
-   "id": "tt2056785",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
    "id": "tt38773219",
    "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
    "duracion": 115,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt2056785",
+   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
+   "duracion": 132,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -245,17 +228,6 @@
    "estado": "ok"
   },
   {
-   "cine": "patioolmos",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T16:45",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
-  },
-  {
    "cine": "altagracia",
    "pelicula": "tt31520900",
    "diaDeCine": "2026-11-18",
@@ -280,17 +252,6 @@
    "estado": "ok"
   },
   {
-   "cine": "patioolmos",
-   "pelicula": "tt32261958",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/verity-la-sombra-de-un-engano",
-   "estado": "ok"
-  },
-  {
    "cine": "altagracia",
    "pelicula": "tt2321555",
    "diaDeCine": "2026-11-18",
@@ -312,17 +273,6 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3186&pid=578",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt34890576",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/clayface",
    "estado": "ok"
   },
   {
@@ -462,17 +412,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt38773219",
    "diaDeCine": "2026-11-18",
    "inicio": "2026-11-18T19:10",
@@ -480,6 +419,17 @@
    "version": "SUB",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt2056785",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T19:10",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
    "estado": "ok"
   },
   {
@@ -2864,7 +2814,7 @@
    "inicio": "2026-11-21T16:00",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -2875,7 +2825,7 @@
    "inicio": "2026-11-21T16:00",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 4",
+   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -3223,7 +3173,7 @@
    "inicio": "2026-11-21T20:15",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -3234,7 +3184,7 @@
    "inicio": "2026-11-21T20:15",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 4",
+   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
