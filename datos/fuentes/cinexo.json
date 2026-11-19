@@ -1,18 +1,6 @@
 {
- "actualizado": "2026-11-18T21:47",
+ "actualizado": "2026-11-18T23:53",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El corazón de la bestia",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3165&pid=522",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -40,30 +28,6 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D+2D",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T21:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3054&pid=553",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F553%2Fprimario.png?alt=media",
-   "duracion": 150
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T22:00",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3039&pid=576",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
    "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-18",
    "inicio": "2026-11-18T22:30",
@@ -72,18 +36,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3237&pid=577",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Caballo Salvaje Nueve",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T22:00",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3208&pid=579",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F579%2Fprimario.png?alt=media",
-   "duracion": 118
   },
   {
    "fuente": "cinexo",
@@ -2503,41 +2455,6 @@
    "fuente": "cinexo",
    "cine": "altagracia",
    "titulo": "LOS JUEGOS EL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T22:00",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18777&pid=407",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F407%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "CÓMO ROBAR UN BANCO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18757&pid=460",
-   "duracion": 132
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "MADRE SINIESTRA",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T21:30",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18736&pid=481",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F481%2Fprimario.png?alt=media",
-   "duracion": 93
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS EL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-19",
    "inicio": "2026-11-19T18:40",
    "formato": "2D",
@@ -3237,7 +3154,7 @@
    "diaDeCine": "2026-12-16",
    "inicio": "2026-12-17T00:01",
    "formato": "2D",
-   "version": "CAST",
+   "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18376&pid=463",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F463%2Fprimario.png?alt=media",
    "duracion": 160
