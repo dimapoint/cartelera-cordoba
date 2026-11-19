@@ -1,6 +1,6 @@
 ---
 name: run-cartelera
-description: Build, run, test and drive the cartelera VOS (horarios en versión original de 4 cines de Córdoba). Use when asked to start the site, run the scraper (`bun run actualizar`), run the tests, build it, take screenshots of the page, check one cinema source, or verify a change in the running app.
+description: Build, run, test and drive the cartelera de subtituladas (horarios en versión original de 4 cines de Córdoba). Use when asked to start the site, run the scraper (`bun run actualizar`), run the tests, build it, take screenshots of the page, check one cinema source, or verify a change in the running app.
 ---
 
 Dos piezas: un scraper (Bun) que baja Cinemark, Cinexo y Cinemacenter y escribe `public/cartelera.json`, y una página React (Vite) que lo muestra.
