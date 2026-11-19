@@ -1,110 +1,6 @@
 {
- "actualizado": "2026-11-19T18:06",
+ "actualizado": "2026-11-19T20:01",
  "funciones": [
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T18:40",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T18:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T19:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T19:40",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T19:40",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132
-  },
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
@@ -120,19 +16,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
    "diaDeCine": "2026-11-19",
@@ -143,6 +26,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
    "duracion": 115
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-19",
+   "inicio": "2026-11-19T20:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -809,19 +705,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
    "diaDeCine": "2026-11-20",
@@ -832,6 +715,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
    "duracion": 115
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-20",
+   "inicio": "2026-11-20T20:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -1199,6 +1095,19 @@
   },
   {
    "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
+   "diaDeCine": "2026-11-21",
+   "inicio": "2026-11-21T16:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
+   "duracion": 195
+  },
+  {
+   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
    "diaDeCine": "2026-11-21",
@@ -1213,19 +1122,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
-   "duracion": 195
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
    "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
    "diaDeCine": "2026-11-21",
    "inicio": "2026-11-21T16:00",
@@ -1446,6 +1342,19 @@
   },
   {
    "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
+   "diaDeCine": "2026-11-21",
+   "inicio": "2026-11-21T20:15",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
+   "duracion": 195
+  },
+  {
+   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
    "diaDeCine": "2026-11-21",
@@ -1466,19 +1375,6 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
-   "duracion": 195
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T20:15",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
    "duracion": 195
