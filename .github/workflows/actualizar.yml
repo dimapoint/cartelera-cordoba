@@ -44,7 +44,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public/cartelera.json datos
-          git diff --cached --quiet || (git commit -m "chore(datos): actualizar cartelera" && git push)
+          git diff --cached --quiet || (git commit -m "chore(datos): actualizar cartelera" && git pull --rebase -X theirs -q && git push)
 
       - run: bun run build
       - uses: actions/configure-pages@v5
