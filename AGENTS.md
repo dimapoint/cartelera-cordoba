@@ -23,7 +23,7 @@ Use Bun's built-in test runner. Name test files `*.test.ts` and keep them beside
 
 ## Commits and Pull Requests
 
-Recent commits use short, imperative Spanish summaries, such as `Rediseño con estilo de cartelera de diario`. Keep each commit focused. Pull requests should explain the user-visible change, list verification commands run, and include screenshots for visual changes. Note any schedule-source or language-resolution behavior that changes.
+Use Conventional Commits with a Spanish, imperative summary: `tipo(alcance): resumen`, for example `feat(ui): rediseño con estilo de cartelera de diario` or `fix(cinemark): ...`. Types in use are `feat`, `fix`, `refactor`, `test`, `docs`, `chore` and `style`; scopes are usually a module (`ui`, `cinemark`, `cinexo`, `cinemacenter`, `idioma`, `unificacion`, `datos`). Keep each commit focused. Commits made before this convention (and the bot's `Actualizar cartelera` ones in the history) are not rewritten. Pull requests should explain the user-visible change, list verification commands run, and include screenshots for visual changes. Note any schedule-source or language-resolution behavior that changes.
 
 ## Data and Secrets
 

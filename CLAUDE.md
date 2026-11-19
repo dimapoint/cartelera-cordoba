@@ -49,7 +49,7 @@ La página (`src/`) es estática: `useCartelera` carga el JSON, `cartelera.ts` c
 
 ## Despliegue
 
-`.github/workflows/actualizar.yml` corre al empujar a `main` y por cron (10, 13, 16, 19 y 22 h de Córdoba): tests, scraper, commit de los datos por el bot, build y deploy a Pages. Si una fuente falló, publica igual y el último paso falla a propósito para que llegue el mail. Como el bot commitea a `main`, hacer `git pull --rebase` antes de cada push.
+`.github/workflows/actualizar.yml` corre al empujar a `main` y por cron (10, 13, 16, 19 y 22 h de Córdoba): tests, scraper, commit de los datos por el bot, build y deploy a Pages. Si una fuente falló, publica igual y el último paso falla a propósito para que llegue el mail. Como el bot commitea a `main`, hacer `git pull --rebase` antes de cada push. Los commits siguen Conventional Commits en español (`feat(ui): ...`, `fix(cinexo): ...`); el detalle está en `AGENTS.md`.
 
 ## Diseño
 
