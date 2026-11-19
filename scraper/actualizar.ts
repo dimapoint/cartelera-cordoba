@@ -1,3 +1,4 @@
+import { fuentesCriticasCaidas } from "../src/cartelera"
 import { ahoraEnCordoba } from "../src/fechas"
 import type { Cartelera } from "../src/tipos"
 import { escribirJson, leerJson, RUTAS } from "./almacen"
@@ -32,5 +33,9 @@ console.log(
   `${peliculas.length} películas, ${funciones.length} funciones` +
     ` (conflictos ${contar("conflicto")}, sospechosas ${contar("sospechosa")}, una fuente ${contar("una_fuente")})`,
 )
-// Falla la corrida si alguna fuente se rompió, para que GitHub avise por mail.
-if (Object.values(estados).some((estado) => !estado.ok)) process.exitCode = 1
+// Una fuente opcional caída solo deja una advertencia en el log de la Action.
+for (const [fuente, estado] of Object.entries(estados)) {
+  if (!estado.ok && process.env.GITHUB_ACTIONS) console.log(`::warning title=${fuente} no respondió::${estado.error}`)
+}
+// Falla la corrida si se cayó una fuente que importa, para que GitHub avise por mail.
+if (fuentesCriticasCaidas(estados).length) process.exitCode = 1

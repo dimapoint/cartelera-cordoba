@@ -1,5 +1,6 @@
+import { FUENTES_OPCIONALES } from "./cines"
 import { sumarDias } from "./fechas"
-import type { Cine, Funcion, Pelicula } from "./tipos"
+import type { Cine, EstadoFuente, Fuente, Funcion, Pelicula } from "./tipos"
 
 const DIA_SEMANA = new Intl.DateTimeFormat("es-AR", { weekday: "short", timeZone: "UTC" })
 
@@ -8,6 +9,13 @@ export function esVisible(funcion: Funcion, pelicula: Pelicula, verDudosas: bool
   const versiones = [funcion.version, ...Object.values(funcion.segun ?? {})]
   if (versiones.includes("SUB") || pelicula.idiomaOriginal === "es") return true
   return verDudosas && pelicula.idiomaOriginal === "desconocido"
+}
+
+/** Fuentes caídas que sí importan: las opcionales no avisan en la página ni hacen fallar la Action. */
+export function fuentesCriticasCaidas(fuentes: Record<Fuente, EstadoFuente>): Fuente[] {
+  return (Object.entries(fuentes) as [Fuente, EstadoFuente][])
+    .filter(([fuente, estado]) => !estado.ok && !FUENTES_OPCIONALES.includes(fuente))
+    .map(([fuente]) => fuente)
 }
 
 export function diasConFunciones(funciones: Funcion[]): string[] {

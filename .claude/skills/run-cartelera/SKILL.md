@@ -33,7 +33,7 @@ Tarda de 2 a 3 minutos (pausas por el rate limit de Cinexo y una consulta por ca
 27 películas, 970 funciones (conflictos 0, sospechosas 10, una fuente 0)
 ```
 
-Si una fuente falla, usa su último resguardo, escribe igual y sale con código 1. Si el JSON nuevo no pasa `validarCartelera`, no lo escribe y sale con 1.
+Si una fuente falla, usa su último resguardo y escribe igual; sale con código 1 solo si la caída es de Cinemark o Cinexo (Cinemacenter es opcional y solo deja una advertencia). Si el JSON nuevo no pasa `validarCartelera`, no lo escribe y sale con 1.
 
 Una sola fuente, sin el resto de la cadena:
 

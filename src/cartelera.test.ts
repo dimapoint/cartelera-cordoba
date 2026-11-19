@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { agruparDiasPorMes, agruparPorPelicula, diasConFunciones, esVisible, etiquetaDelDia, formatearMarca } from "./cartelera"
+import { agruparDiasPorMes, agruparPorPelicula, diasConFunciones, esVisible, etiquetaDelDia, formatearMarca, fuentesCriticasCaidas } from "./cartelera"
 import { ahoraEnCordoba, sumarDias } from "./fechas"
 import type { Cine, Funcion, IdiomaOriginal, Pelicula } from "./tipos"
 
@@ -54,6 +54,22 @@ describe("agruparPorPelicula", () => {
     expect(agruparPorPelicula(funciones, peliculas, "2026-11-19", todos).map((grupo) => grupo.pelicula.id)).toEqual(["tt1"])
     expect(agruparPorPelicula(funciones, peliculas, "2026-11-18", new Set<Cine>(["nuevocentro"])).map((grupo) => grupo.pelicula.id)).toEqual(["tt2"])
     expect(agruparPorPelicula(funciones, peliculas, "2026-11-18", new Set())).toEqual([])
+  })
+})
+
+describe("fuentesCriticasCaidas", () => {
+  const bien = { ok: true, actualizado: "2026-11-18T10:00" }
+  const mal = { ok: false, actualizado: "2026-11-18T07:00", error: "timeout" }
+
+  test("Cinemacenter caído no cuenta: ni avisa en la página ni hace fallar la Action", () => {
+    expect(fuentesCriticasCaidas({ cinemark: bien, cinexo: bien, cinemacenter: mal })).toEqual([])
+  })
+  test("Cinemark o Cinexo caídos sí cuentan, aunque Cinemacenter también lo esté", () => {
+    expect(fuentesCriticasCaidas({ cinemark: mal, cinexo: bien, cinemacenter: mal })).toEqual(["cinemark"])
+    expect(fuentesCriticasCaidas({ cinemark: mal, cinexo: mal, cinemacenter: bien })).toEqual(["cinemark", "cinexo"])
+  })
+  test("con todo bien no hay nada que avisar", () => {
+    expect(fuentesCriticasCaidas({ cinemark: bien, cinexo: bien, cinemacenter: bien })).toEqual([])
   })
 })
 

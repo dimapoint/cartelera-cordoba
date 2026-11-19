@@ -9,7 +9,7 @@ Cartelera de cine en versión original para Córdoba: un scraper (Bun) baja los 
 ```bash
 bun install
 bun run dev                  # Vite en http://localhost:5173/ (lee public/cartelera.json)
-bun run actualizar           # pega a los sitios reales; 2 a 3 min; sale con 1 si alguna fuente falló
+bun run actualizar           # pega a los sitios reales; 2 a 3 min; sale con 1 si falló Cinemark o Cinexo
 bun test                     # offline, sin red
 bun test scraper/fuentes/cinexo.test.ts          # un archivo
 bun test -t "trasnoche"                          # tests por nombre
@@ -26,7 +26,7 @@ La regla de negocio es una sola: se muestra toda función subtitulada (`SUB`), y
 
 `scraper/actualizar.ts` encadena el pipeline completo:
 
-1. **`fuentes/todas.ts` → `bajarTodas`** llama a las tres fuentes y guarda cada resultado en `datos/fuentes/*.json`. Si una falla, usa su último resguardo y deja `EstadoFuente.ok = false`, para que la página siga mostrando ese cine con un aviso. Cada fuente devuelve `FuncionCruda[]` (`src/tipos.ts`):
+1. **`fuentes/todas.ts` → `bajarTodas`** llama a las tres fuentes y guarda cada resultado en `datos/fuentes/*.json`. Si una falla, usa su último resguardo y deja `EstadoFuente.ok = false`, para que la página siga mostrando ese cine con un aviso. Cinemacenter es opcional (`FUENTES_OPCIONALES` en `src/cines.ts`): Cinexo ya cubre Alta Gracia, así que su caída ni avisa en la página ni hace fallar la Action, y solo deja una advertencia en el log (`fuentesCriticasCaidas` en `src/cartelera.ts` es la regla compartida). Cada fuente devuelve `FuncionCruda[]` (`src/tipos.ts`):
    - `cinemark.ts`: un único JSON (`bff.cinemark.com.ar`) para Nuevocentro y Patio Olmos.
    - `cinexo.ts`: la API `apifront.cinexo.com.ar` por fecha para Las Tipas y Alta Gracia; las fechas salen del payload RSC de la home.
    - `cinemacenter.ts`: HTML en cp1252 de Alta Gracia, solo la semana en curso (`cubreHasta`).

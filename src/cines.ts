@@ -7,6 +7,9 @@ export const CINES: { id: Cine; nombre: string; corto: string }[] = [
   { id: "altagracia", nombre: "Cinemacenter Alta Gracia", corto: "Alta Gracia" },
 ]
 
+/** Fuentes cuya caída no importa: Cinexo ya cubre Alta Gracia y Cinemacenter solo sirve para contrastar el idioma. */
+export const FUENTES_OPCIONALES: Fuente[] = ["cinemacenter"]
+
 export const NOMBRE_FUENTE: Record<Fuente, string> = {
   cinemark: "Cinemark",
   cinexo: "cinealtagracia.com.ar y Las Tipas",
