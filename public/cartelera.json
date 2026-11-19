@@ -1,41 +1,33 @@
 {
- "generado": "2026-11-18T17:04",
+ "generado": "2026-11-18T21:05",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-18T17:04"
+   "actualizado": "2026-11-18T21:05"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-18T17:04"
+   "actualizado": "2026-11-18T21:05"
   },
   "cinemacenter": {
    "ok": true,
-   "actualizado": "2026-11-18T17:04"
+   "actualizado": "2026-11-18T21:05"
   }
  },
  "peliculas": [
   {
-   "id": "tt2321555",
-   "titulo": "EL GATO CON SOMBRERO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
-   "duracion": 114,
+   "id": "tt34384661",
+   "titulo": "GODZILLA MINUS ZERO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
+   "duracion": 135,
    "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
+   "decididoPor": "Wikidata (idioma original: ja)"
   },
   {
-   "id": "tt15799564",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idiomas es, en; título original)"
-  },
-  {
-   "id": "tt35866986",
-   "titulo": "CÓMO ROBAR UN BANCO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012613.jpg",
-   "duracion": 122,
+   "id": "tt2056785",
+   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
+   "duracion": 132,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -48,12 +40,12 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "tt34384661",
-   "titulo": "GODZILLA MINUS ZERO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
-   "duracion": 135,
+   "id": "tt15799564",
+   "titulo": "CABALLO SALVAJE NUEVE",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
+   "duracion": 118,
    "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: ja)"
+   "decididoPor": "Wikidata (idiomas es, en; título original)"
   },
   {
    "id": "tt38773219",
@@ -64,26 +56,10 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "tt2056785",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt32268691",
-   "titulo": "ANIQUILACIÓN",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013403.jpg",
-   "duracion": 92,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt0075148",
-   "titulo": "ROCKY",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013324.jpg",
-   "duracion": 120,
+   "id": "tt35866986",
+   "titulo": "CÓMO ROBAR UN BANCO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012613.jpg",
+   "duracion": 122,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -92,6 +68,14 @@
    "titulo": "MADRE SINIESTRA",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013170.jpg",
    "duracion": 93,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt2321555",
+   "titulo": "EL GATO CON SOMBRERO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
+   "duracion": 114,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -152,14 +136,6 @@
    "decididoPor": "evento (contenido alternativo)"
   },
   {
-   "id": "tt22084616",
-   "titulo": "Spider-man: Un Nuevo Día",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F518%2Fprimario.png?alt=media",
-   "duracion": 150,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
    "id": "tt7526136",
    "titulo": "El corazón de la bestia",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
@@ -218,38 +194,17 @@
  ],
  "funciones": [
   {
-   "cine": "lastipas",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T16:40",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3101&pid=580",
-   "estado": "ok"
-  },
-  {
    "cine": "altagracia",
    "pelicula": "tt31520900",
    "diaDeCine": "2026-11-18",
    "inicio": "2026-11-18T16:50",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18728&pid=500",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6111",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt22084616",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T16:50",
-   "formato": "3D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3223&pid=518",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -258,22 +213,11 @@
    "inicio": "2026-11-18T17:00",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18743&pid=461",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt35866986",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3186&pid=578",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -282,76 +226,11 @@
    "inicio": "2026-11-18T17:10",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18764&pid=494",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6073",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:10",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3207&pid=579",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:10",
-   "formato": "3D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt7526136",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3164&pid=522",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt35866986",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/como-robar-un-banco",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T18:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -360,88 +239,11 @@
    "inicio": "2026-11-18T19:00",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18729&pid=500",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6111",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3038&pid=576",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt34384661",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:25",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -450,44 +252,11 @@
    "inicio": "2026-11-18T19:30",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18750&pid=460",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6104",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3214&pid=567",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:30",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -496,76 +265,11 @@
    "inicio": "2026-11-18T19:40",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18771&pid=499",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6108",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt35866986",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3187&pid=578",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32268691",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/aniquilacion",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3230&pid=575",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt0075148",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/rocky-50-aniversario",
-   "estado": "ok"
   },
   {
    "cine": "lastipas",
@@ -575,28 +279,6 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3165&pid=522",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:25",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
    "estado": "ok"
   },
   {
@@ -814,17 +496,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T22:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt36586020",
    "diaDeCine": "2026-11-18",
    "inicio": "2026-11-18T22:50",
@@ -832,6 +503,17 @@
    "version": "SUB",
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/madre-siniestra",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-18",
+   "inicio": "2026-11-18T22:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -2814,7 +2496,7 @@
    "inicio": "2026-11-21T16:00",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 4",
+   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -2825,7 +2507,7 @@
    "inicio": "2026-11-21T16:00",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -3173,7 +2855,7 @@
    "inicio": "2026-11-21T20:15",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 4",
+   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -3184,7 +2866,7 @@
    "inicio": "2026-11-21T20:15",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
@@ -7211,6 +6893,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-16",
    "inicio": "2026-12-16T11:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -7292,6 +6985,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1902&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -7423,6 +7127,17 @@
    "estado": "ok"
   },
   {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
    "cine": "lastipas",
    "pelicula": "tt31378509",
    "diaDeCine": "2026-12-16",
@@ -7548,6 +7263,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1934&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -7683,6 +7409,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-17",
    "inicio": "2026-12-17T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -7753,6 +7490,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1905&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -7877,6 +7625,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-17",
    "inicio": "2026-12-17T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -7995,6 +7754,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-17",
    "inicio": "2026-12-17T22:00",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -8093,6 +7863,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-18",
    "inicio": "2026-12-18T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -8163,6 +7944,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1908&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -8287,6 +8079,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-18",
    "inicio": "2026-12-18T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -8399,6 +8202,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1910&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -8525,6 +8339,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-19",
    "inicio": "2026-12-19T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -8595,6 +8420,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1911&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -8719,6 +8555,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-19",
    "inicio": "2026-12-19T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -8831,6 +8678,17 @@
    "formato": "4D",
    "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1913&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -8957,6 +8815,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-20",
    "inicio": "2026-12-20T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -9027,6 +8896,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1914&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -9151,6 +9031,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-20",
    "inicio": "2026-12-20T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -9269,6 +9160,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-20",
    "inicio": "2026-12-20T22:00",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -9356,6 +9258,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-21",
    "inicio": "2026-12-21T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -9426,6 +9339,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1917&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -9550,6 +9474,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-21",
    "inicio": "2026-12-21T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -9668,6 +9603,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-21",
    "inicio": "2026-12-21T22:00",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -9755,6 +9701,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-22",
    "inicio": "2026-12-22T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -9825,6 +9782,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1920&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -9952,6 +9920,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-22",
    "inicio": "2026-12-22T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -10073,6 +10052,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-22",
    "inicio": "2026-12-22T22:00",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -10160,6 +10150,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-23",
    "inicio": "2026-12-23T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -10230,6 +10231,17 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1923&pid=524",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
   {
@@ -10354,6 +10366,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-23",
    "inicio": "2026-12-23T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -10472,6 +10495,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-23",
    "inicio": "2026-12-23T22:00",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -10573,7 +10607,7 @@
    "inicio": "2026-12-29T14:00",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 4",
+   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
    "estado": "ok"
   },
@@ -10584,7 +10618,7 @@
    "inicio": "2026-12-29T14:00",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
    "estado": "ok"
   }

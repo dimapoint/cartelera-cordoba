@@ -1,240 +1,6 @@
 {
- "actualizado": "2026-11-18T17:04",
+ "actualizado": "2026-11-18T21:05",
  "funciones": [
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:10",
-   "formato": "3D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
-   "duracion": 114
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "CÓMO ROBAR UN BANCO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T17:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/como-robar-un-banco",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012613.jpg",
-   "duracion": 122
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T18:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
-   "duracion": 114
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "GODZILLA MINUS ZERO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
-   "duracion": 135
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
-   "duracion": 115
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:25",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:30",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "ANIQUILACIÓN",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/aniquilacion",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013403.jpg",
-   "duracion": 92
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T19:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
-   "duracion": 114
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "ROCKY 50° ANIVERSARIO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/rocky-50-aniversario",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013324.jpg",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
-   "duracion": 114
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
-   "diaDeCine": "2026-11-18",
-   "inicio": "2026-11-18T20:25",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
-   "duracion": 115
-  },
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
@@ -245,7 +11,7 @@
    "version": "SUB",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -271,7 +37,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -297,7 +63,7 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -368,15 +134,15 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "titulo": "MADRE SINIESTRA",
    "diaDeCine": "2026-11-18",
    "inicio": "2026-11-18T22:50",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
+   "sala": "Sala 1",
+   "compra": "https://www.cinemark.com.ar/pelicula/madre-siniestra",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013170.jpg",
+   "duracion": 93
   },
   {
    "fuente": "cinemark",
@@ -388,21 +154,21 @@
    "version": "SUB",
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "MADRE SINIESTRA",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-18",
    "inicio": "2026-11-18T22:50",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/madre-siniestra",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013170.jpg",
-   "duracion": 93
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -479,7 +245,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -505,7 +271,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -562,19 +328,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T14:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-19",
@@ -585,6 +338,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "CABALLO SALVAJE NUEVE",
+   "diaDeCine": "2026-11-19",
+   "inicio": "2026-11-19T14:20",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
+   "duracion": 118
   },
   {
    "fuente": "cinemark",
@@ -635,7 +401,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -648,7 +414,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -791,7 +557,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -861,19 +627,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-19",
@@ -884,6 +637,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
+   "diaDeCine": "2026-11-19",
+   "inicio": "2026-11-19T19:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
+   "duracion": 132
   },
   {
    "fuente": "cinemark",
@@ -1090,7 +856,7 @@
    "version": "SUB",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -1103,7 +869,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -1168,7 +934,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1194,7 +960,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1259,7 +1025,7 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -1324,7 +1090,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1337,7 +1103,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1480,7 +1246,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1550,19 +1316,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
-   "duracion": 132
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-20",
@@ -1573,6 +1326,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "WILDWOOD: EL BOSQUE SALVAJE",
+   "diaDeCine": "2026-11-20",
+   "inicio": "2026-11-20T19:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012754.jpg",
+   "duracion": 132
   },
   {
    "fuente": "cinemark",
@@ -1602,19 +1368,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
-   "duracion": 115
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-20",
@@ -1625,6 +1378,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+   "diaDeCine": "2026-11-20",
+   "inicio": "2026-11-20T20:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
+   "duracion": 115
   },
   {
    "fuente": "cinemark",
@@ -1779,7 +1545,7 @@
    "version": "SUB",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -1792,7 +1558,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -1844,7 +1610,7 @@
    "version": "CAST",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1896,7 +1662,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -1927,19 +1693,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T14:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
-   "duracion": 118
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-21",
@@ -1950,6 +1703,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "CABALLO SALVAJE NUEVE",
+   "diaDeCine": "2026-11-21",
+   "inicio": "2026-11-21T14:20",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
+   "duracion": 118
   },
   {
    "fuente": "cinemark",
@@ -1992,32 +1758,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
-   "duracion": 195
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
-   "duracion": 195
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
    "diaDeCine": "2026-11-21",
@@ -2025,6 +1765,32 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
+   "duracion": 195
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
+   "diaDeCine": "2026-11-21",
+   "inicio": "2026-11-21T16:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
+   "duracion": 195
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
+   "diaDeCine": "2026-11-21",
+   "inicio": "2026-11-21T16:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
    "duracion": 195
@@ -2039,7 +1805,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -2258,7 +2024,7 @@
    "inicio": "2026-11-21T20:15",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 4",
+   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
    "duracion": 195
@@ -2271,7 +2037,7 @@
    "inicio": "2026-11-21T20:15",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 5",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
    "duracion": 195
@@ -2481,7 +2247,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -2507,7 +2273,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -2572,7 +2338,7 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -2637,7 +2403,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -2650,7 +2416,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -2793,7 +2559,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3092,7 +2858,7 @@
    "version": "SUB",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -3105,7 +2871,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -3170,7 +2936,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3196,7 +2962,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3274,7 +3040,7 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -3326,7 +3092,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3339,7 +3105,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3482,7 +3248,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3781,7 +3547,7 @@
    "version": "SUB",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -3794,7 +3560,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -3859,7 +3625,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3885,7 +3651,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -3963,7 +3729,7 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -4015,7 +3781,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4028,7 +3794,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4171,7 +3937,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4470,7 +4236,7 @@
    "version": "SUB",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -4483,7 +4249,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -4548,7 +4314,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4574,7 +4340,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4639,7 +4405,7 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -4704,7 +4470,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4717,7 +4483,7 @@
    "version": "CAST",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -4860,7 +4626,7 @@
    "version": "CAST",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013329.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
    "duracion": 114
   },
   {
@@ -5159,7 +4925,7 @@
    "version": "SUB",
    "sala": "Sala 7",
    "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013383.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
    "duracion": 118
   },
   {
@@ -5172,7 +4938,7 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013297.jpg",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135
   },
   {
@@ -5466,23 +5232,23 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-16",
-   "inicio": "2026-12-16T11:30",
-   "formato": "3D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
+   "inicio": "2026-12-16T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
+   "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-16",
-   "inicio": "2026-12-16T12:10",
-   "formato": "2D",
+   "inicio": "2026-12-16T11:30",
+   "formato": "3D · D-BOX",
    "version": "CAST",
-   "sala": "Sala 8",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5496,6 +5262,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T12:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5548,6 +5327,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5661,6 +5453,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-16",
    "inicio": "2026-12-16T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -5684,19 +5489,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-16",
-   "inicio": "2026-12-16T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-16",
@@ -5704,6 +5496,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5756,6 +5561,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5882,10 +5700,10 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-17",
-   "inicio": "2026-12-17T12:10",
+   "inicio": "2026-12-17T11:00",
    "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5899,6 +5717,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T12:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -5951,6 +5782,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6064,6 +5908,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-17",
    "inicio": "2026-12-17T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -6100,19 +5957,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-17",
-   "inicio": "2026-12-17T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-17",
@@ -6120,6 +5964,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6159,6 +6016,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6269,13 +6139,13 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
+   "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-18",
-   "inicio": "2026-12-18T12:10",
+   "inicio": "2026-12-18T11:00",
    "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6289,6 +6159,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T12:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6341,6 +6224,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6454,6 +6350,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-18",
    "inicio": "2026-12-18T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -6549,6 +6458,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6688,10 +6610,10 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-19",
-   "inicio": "2026-12-19T12:10",
+   "inicio": "2026-12-19T11:00",
    "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6705,6 +6627,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T12:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6757,6 +6692,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6870,6 +6818,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-19",
    "inicio": "2026-12-19T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -6906,19 +6867,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-19",
-   "inicio": "2026-12-19T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-19",
@@ -6926,6 +6874,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6965,6 +6926,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7104,6 +7078,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
    "inicio": "2026-12-20T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -7173,6 +7160,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7286,6 +7286,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
    "inicio": "2026-12-20T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -7322,19 +7335,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-20",
-   "inicio": "2026-12-20T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-20",
@@ -7342,6 +7342,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7381,6 +7394,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7481,6 +7507,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-21",
    "inicio": "2026-12-21T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -7550,6 +7589,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7663,6 +7715,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-21",
    "inicio": "2026-12-21T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -7699,19 +7764,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-21",
-   "inicio": "2026-12-21T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-21",
@@ -7719,6 +7771,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7758,6 +7823,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7858,6 +7936,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T11:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-22",
    "inicio": "2026-12-22T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -7927,6 +8018,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8040,6 +8144,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-22",
    "inicio": "2026-12-22T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -8076,19 +8193,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-22",
-   "inicio": "2026-12-22T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-22",
@@ -8096,6 +8200,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8135,6 +8252,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-22",
+   "inicio": "2026-12-22T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8235,10 +8365,10 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-23",
-   "inicio": "2026-12-23T12:10",
+   "inicio": "2026-12-23T11:00",
    "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8252,6 +8382,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T12:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8304,6 +8447,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T14:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8417,6 +8573,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T18:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-23",
    "inicio": "2026-12-23T18:30",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -8521,6 +8690,19 @@
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T21:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-23",
    "inicio": "2026-12-23T22:00",
    "formato": "3D · D-BOX",
    "version": "CAST",
@@ -8615,6 +8797,19 @@
    "inicio": "2026-12-29T14:00",
    "formato": "2D",
    "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
+   "duracion": 195
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA",
+   "diaDeCine": "2026-12-29",
+   "inicio": "2026-12-29T14:00",
+   "formato": "2D",
+   "version": "SUB",
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
@@ -8629,19 +8824,6 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
-   "duracion": 195
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA",
-   "diaDeCine": "2026-12-29",
-   "inicio": "2026-12-29T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
    "duracion": 195
