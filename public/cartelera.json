@@ -1,17 +1,17 @@
 {
- "generado": "2026-11-18T21:05",
+ "generado": "2026-11-18T21:14",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-18T21:05"
+   "actualizado": "2026-11-18T21:14"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-18T21:05"
+   "actualizado": "2026-11-18T21:14"
   },
   "cinemacenter": {
    "ok": true,
-   "actualizado": "2026-11-18T21:05"
+   "actualizado": "2026-11-18T21:14"
   }
  },
  "peliculas": [
@@ -96,14 +96,6 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "titulo:bts world tour arirang in kaohsiung",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN KAOHSIUNG",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013346.jpg",
-   "duracion": 195,
-   "idiomaOriginal": "otro",
-   "decididoPor": "evento (contenido alternativo)"
-  },
-  {
    "id": "tt45368240",
    "titulo": "PUEDES VERLO TODO",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013414.jpg",
@@ -126,14 +118,6 @@
    "duracion": 165,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "titulo:bts world tour arirang in jakarta",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
-   "duracion": 195,
-   "idiomaOriginal": "otro",
-   "decididoPor": "evento (contenido alternativo)"
   },
   {
    "id": "tt7526136",
@@ -2480,39 +2464,6 @@
   },
   {
    "cine": "nuevocentro",
-   "pelicula": "titulo:bts world tour arirang in kaohsiung",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "titulo:bts world tour arirang in kaohsiung",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "titulo:bts world tour arirang in kaohsiung",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
    "pelicula": "tt2321555",
    "diaDeCine": "2026-11-21",
    "inicio": "2026-11-21T16:10",
@@ -2835,39 +2786,6 @@
    "formato": "3D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3376&pid=549",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "titulo:bts world tour arirang in kaohsiung",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T20:15",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "titulo:bts world tour arirang in kaohsiung",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T20:15",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "titulo:bts world tour arirang in kaohsiung",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T20:15",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-kaohsiung",
    "estado": "ok"
   },
   {
@@ -10587,39 +10505,6 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "titulo:bts world tour arirang in jakarta",
-   "diaDeCine": "2026-12-29",
-   "inicio": "2026-12-29T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "titulo:bts world tour arirang in jakarta",
-   "diaDeCine": "2026-12-29",
-   "inicio": "2026-12-29T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "titulo:bts world tour arirang in jakarta",
-   "diaDeCine": "2026-12-29",
-   "inicio": "2026-12-29T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
    "estado": "ok"
   }
  ]
