@@ -17,7 +17,7 @@ export function Cabecera({ generado, hoy, dias, dia, alElegirDia, cinesElegidos,
     <>
       <header className="contenedor cabezal">
         <h1>Cartelera</h1>
-        <p className="volanta">Funciones en versión original en Córdoba, actualizadas el {formatearMarca(generado)}</p>
+        <p className="volanta">Actualizada el {formatearMarca(generado)}</p>
       </header>
       {/* Solo la barra de días y cines queda fija: el cabezal se va con el scroll. */}
       <div className="cabecera">

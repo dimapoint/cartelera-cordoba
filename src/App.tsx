@@ -3,8 +3,8 @@ import { agruparPorPelicula, diasConFunciones, esVisible } from "./cartelera"
 import { CINES } from "./cines"
 import { AvisosFuentes } from "./componentes/AvisosFuentes"
 import { Cabecera } from "./componentes/Cabecera"
+import { FiltroDudosas } from "./componentes/FiltroDudosas"
 import { Pie } from "./componentes/Pie"
-import { Resumen } from "./componentes/Resumen"
 import { Tarjeta } from "./componentes/Tarjeta"
 import { ahoraEnCordoba } from "./fechas"
 import type { Cine } from "./tipos"
@@ -49,12 +49,7 @@ export function App() {
       />
       <main className="contenedor">
         <AvisosFuentes fuentes={cartelera.fuentes} />
-        <Resumen
-          peliculas={grupos.length}
-          funciones={grupos.reduce((total, grupo) => total + grupo.funciones.length, 0)}
-          verDudosas={verDudosas}
-          alCambiarDudosas={setVerDudosas}
-        />
+        <FiltroDudosas verDudosas={verDudosas} alCambiarDudosas={setVerDudosas} />
         {grupos.length === 0 && (
           <div className="vacio">
             <p className="vacio-titulo">No hay funciones en versión original</p>

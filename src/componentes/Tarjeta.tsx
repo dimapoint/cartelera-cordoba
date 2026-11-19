@@ -25,7 +25,7 @@ export function Tarjeta({ pelicula, funciones, ahora }: { pelicula: Pelicula; fu
               {funciones
                 .filter((funcion) => funcion.cine === cine.id)
                 .map((funcion) => (
-                  <Horario key={`${funcion.inicio}-${funcion.compra}`} funcion={funcion} pelicula={pelicula} pasada={funcion.inicio < ahora} />
+                  <Horario key={`${funcion.inicio}-${funcion.sala}-${funcion.compra}`} funcion={funcion} pelicula={pelicula} pasada={funcion.inicio < ahora} />
                 ))}
             </ul>
           </section>

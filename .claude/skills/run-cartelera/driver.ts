@@ -50,7 +50,7 @@ async function capturar(pagina: Page, nombre: string) {
 const estadoDelDia = (pagina: Page) =>
   pagina.evaluate(() => ({
     dia: document.querySelector('.dia[aria-pressed="true"]')?.textContent,
-    resumen: document.querySelector(".resumen .sutil")?.textContent,
+    funciones: document.querySelectorAll(".horario").length,
     tarjetas: document.querySelectorAll(".tarjeta").length,
     cines: [...new Set([...document.querySelectorAll(".sala h3")].map((nodo) => nodo.textContent))],
     conflictos: document.querySelectorAll(".estado-conflicto").length,

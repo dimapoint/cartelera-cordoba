@@ -67,7 +67,7 @@ curl -sf --retry 30 --retry-connrefused --retry-delay 1 -o /dev/null http://loca
 bun .claude/skills/run-cartelera/driver.ts
 ```
 
-Imprime un JSON con los días, el resumen de cada vista (`tarjetas`, `cines`, `conflictos`, `sospechosas`, avisos de fuentes caídas) y `problemas` (respuestas HTTP ≥ 400, errores de consola, excepciones, scroll horizontal en celular, filtro de cines que no filtra). Sale con 1 si `problemas` no está vacío.
+Imprime un JSON con los días, el estado de cada vista (`tarjetas`, `funciones`, `cines`, `conflictos`, `sospechosas`, avisos de fuentes caídas) y `problemas` (respuestas HTTP ≥ 400, errores de consola, excepciones, scroll horizontal en celular, filtro de cines que no filtra). Sale con 1 si `problemas` no está vacío.
 Capturas en `%TEMP%\cartelera-capturas\` (en Git Bash `/tmp` es `%TEMP%`: `/tmp/cartelera-capturas/`; otra carpeta como segundo argumento):
 `1-primer-dia.png` (escritorio oscuro), `2-segundo-dia.png`, `3-solo-alta-gracia.png` (filtro de cines), `4-celular-claro.png` (375 px). Mirarlas con Read.
 Primer argumento opcional: otra URL (por ejemplo, la de GitHub Pages).

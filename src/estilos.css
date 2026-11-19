@@ -135,8 +135,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* Cuerpo */
 main.contenedor { padding-top: 14px; padding-bottom: 56px; }
 .alerta { border-top: 2px solid var(--rojo); border-bottom: 1px solid var(--rojo); color: var(--rojo); font-style: italic; padding: 8px 0; margin: 0 0 14px; }
-.resumen { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 6px 20px; margin-bottom: 6px; }
-.resumen .sutil { font-style: italic; font-size: 0.95rem; }
+.casilla.filtro-dudosas { display: flex; width: fit-content; margin: 0 0 6px auto; }
 .casilla { display: inline-flex; align-items: center; gap: 7px; font: 0.72rem var(--mono); text-transform: uppercase; letter-spacing: 0.05em; color: var(--gris); cursor: pointer; }
 .casilla input { appearance: none; width: 12px; height: 12px; margin: 0; border: 1px solid var(--tinta); display: grid; place-content: center; cursor: pointer; }
 .casilla input:checked { background: var(--tinta); }
