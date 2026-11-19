@@ -1,18 +1,18 @@
 {
- "generado": "2026-11-19T11:25",
+ "generado": "2026-11-19T18:06",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-19T11:25"
+   "actualizado": "2026-11-19T18:06"
   },
   "cinexo": {
-   "ok": true,
-   "actualizado": "2026-11-19T11:25"
+   "ok": false,
+   "actualizado": "2026-11-19T11:25",
+   "error": "HTTP 500 en https://apifront.cinexo.com.ar/mobile/consultas/peliculas/PeliculasConFuncionesYHorarios?idComplejo=1009&fecha=17/12/2026"
   },
   "cinemacenter": {
-   "ok": false,
-   "actualizado": "2026-11-18T21:44",
-   "error": "The operation timed out. en https://www.cinemacenter.com.ar/horarios"
+   "ok": true,
+   "actualizado": "2026-11-19T18:06"
   }
  },
  "peliculas": [
@@ -21,22 +21,6 @@
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt38773219",
-   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
-   "duracion": 115,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt2321555",
-   "titulo": "EL GATO CON SOMBRERO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
-   "duracion": 114,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -57,14 +41,6 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "tt15799564",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
-   "duracion": 118,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idiomas es, en; título original)"
-  },
-  {
    "id": "tt13609648",
    "titulo": "SENSATEZ Y SENTIMIENTO",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013207.jpg",
@@ -73,12 +49,36 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
+   "id": "tt38773219",
+   "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
+   "duracion": 115,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt15799564",
+   "titulo": "CABALLO SALVAJE NUEVE",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
+   "duracion": 118,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idiomas es, en; título original)"
+  },
+  {
    "id": "tt34384661",
    "titulo": "GODZILLA MINUS ZERO",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
    "duracion": 135,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: ja)"
+  },
+  {
+   "id": "tt2321555",
+   "titulo": "EL GATO CON SOMBRERO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
+   "duracion": 114,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
   },
   {
    "id": "tt34966140",
@@ -171,149 +171,6 @@
  ],
  "funciones": [
   {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T12:00",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T12:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T13:00",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T13:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T13:05",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T13:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T13:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T13:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T14:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T14:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T14:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T14:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
    "cine": "lastipas",
    "pelicula": "tt1756855",
    "diaDeCine": "2026-11-19",
@@ -344,50 +201,6 @@
    "estado": "ok"
   },
   {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T15:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T15:20",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T15:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T15:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
    "cine": "lastipas",
    "pelicula": "tt38773219",
    "diaDeCine": "2026-11-19",
@@ -398,39 +211,6 @@
    "estado": "ok"
   },
   {
-   "cine": "nuevocentro",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T16:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T16:20",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T16:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
    "cine": "altagracia",
    "pelicula": "tt31520900",
    "diaDeCine": "2026-11-19",
@@ -438,7 +218,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18827&pid=500",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -451,17 +235,6 @@
    "estado": "ok"
   },
   {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
    "cine": "altagracia",
    "pelicula": "tt2321555",
    "diaDeCine": "2026-11-19",
@@ -469,7 +242,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18806&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -479,39 +256,6 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3367&pid=569",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:05",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -535,61 +279,6 @@
    "estado": "ok"
   },
   {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-19",
-   "inicio": "2026-11-19T17:55",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
    "cine": "lastipas",
    "pelicula": "tt38773219",
    "diaDeCine": "2026-11-19",
@@ -607,7 +296,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18785&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -639,7 +332,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18820&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -690,7 +387,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18834&pid=501",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -840,7 +541,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18813&pid=502",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -871,7 +576,24 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18778&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "SUB",
+    "cinemacenter": "SUB"
+   }
+  },
+  {
+   "cine": "altagracia",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-19",
+   "inicio": "2026-11-19T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
+   "estado": "una_fuente",
+   "segun": {
+    "cinemacenter": "SUB"
+   }
   },
   {
    "cine": "altagracia",
@@ -881,7 +603,10 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18792&pid=501",
-   "estado": "ok"
+   "estado": "una_fuente",
+   "segun": {
+    "cinexo": "SUB"
+   }
   },
   {
    "cine": "lastipas",
@@ -1301,7 +1026,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18828&pid=500",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -1332,7 +1061,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18807&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -1470,7 +1203,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18786&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -1502,7 +1239,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18821&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -1553,7 +1294,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18835&pid=501",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -1703,7 +1448,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18814&pid=502",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -1734,7 +1483,24 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18779&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "SUB",
+    "cinemacenter": "SUB"
+   }
+  },
+  {
+   "cine": "altagracia",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-20",
+   "inicio": "2026-11-20T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
+   "estado": "una_fuente",
+   "segun": {
+    "cinemacenter": "SUB"
+   }
   },
   {
    "cine": "altagracia",
@@ -1744,7 +1510,10 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18793&pid=501",
-   "estado": "ok"
+   "estado": "una_fuente",
+   "segun": {
+    "cinexo": "SUB"
+   }
   },
   {
    "cine": "lastipas",
@@ -2162,7 +1931,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18829&pid=500",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -2193,7 +1966,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18808&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -2298,7 +2075,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18787&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -2330,7 +2111,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18822&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -2381,7 +2166,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18836&pid=501",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -2498,7 +2287,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18815&pid=502",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -2529,7 +2322,24 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18780&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "SUB",
+    "cinemacenter": "SUB"
+   }
+  },
+  {
+   "cine": "altagracia",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-21",
+   "inicio": "2026-11-21T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
+   "estado": "una_fuente",
+   "segun": {
+    "cinemacenter": "SUB"
+   }
   },
   {
    "cine": "altagracia",
@@ -2539,7 +2349,10 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18794&pid=501",
-   "estado": "ok"
+   "estado": "una_fuente",
+   "segun": {
+    "cinexo": "SUB"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -2946,7 +2759,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18830&pid=500",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -2977,7 +2794,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18809&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -3115,7 +2936,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18788&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -3147,7 +2972,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18823&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -3198,7 +3027,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18837&pid=501",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -3348,7 +3181,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18816&pid=502",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -3379,7 +3216,24 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18781&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "SUB",
+    "cinemacenter": "SUB"
+   }
+  },
+  {
+   "cine": "altagracia",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-22",
+   "inicio": "2026-11-22T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
+   "estado": "una_fuente",
+   "segun": {
+    "cinemacenter": "SUB"
+   }
   },
   {
    "cine": "altagracia",
@@ -3389,7 +3243,10 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18795&pid=501",
-   "estado": "ok"
+   "estado": "una_fuente",
+   "segun": {
+    "cinexo": "SUB"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -3829,7 +3686,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18831&pid=500",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -3860,7 +3721,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18810&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -3998,7 +3863,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18789&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -4030,7 +3899,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18824&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -4081,7 +3954,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18838&pid=501",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -4231,7 +4108,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18817&pid=502",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -4262,7 +4143,24 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18782&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "SUB",
+    "cinemacenter": "SUB"
+   }
+  },
+  {
+   "cine": "altagracia",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-23",
+   "inicio": "2026-11-23T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
+   "estado": "una_fuente",
+   "segun": {
+    "cinemacenter": "SUB"
+   }
   },
   {
    "cine": "altagracia",
@@ -4272,7 +4170,10 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18796&pid=501",
-   "estado": "ok"
+   "estado": "una_fuente",
+   "segun": {
+    "cinexo": "SUB"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -4726,7 +4627,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18811&pid=461",
-   "estado": "sospechosa",
+   "estado": "una_fuente",
    "segun": {
     "cinexo": "CAST"
    }
@@ -4867,7 +4768,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18790&pid=407",
-   "estado": "sospechosa",
+   "estado": "una_fuente",
    "segun": {
     "cinexo": "CAST"
    }
@@ -5109,7 +5010,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18818&pid=502",
-   "estado": "sospechosa",
+   "estado": "una_fuente",
    "segun": {
     "cinexo": "CAST"
    }
@@ -5143,7 +5044,7 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18783&pid=407",
-   "estado": "sospechosa",
+   "estado": "una_fuente",
    "segun": {
     "cinexo": "SUB"
    }
@@ -5579,7 +5480,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18833&pid=500",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -5610,7 +5515,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18812&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -5748,7 +5657,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18791&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -5780,7 +5693,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18826&pid=461",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -5831,7 +5748,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18840&pid=501",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "nuevocentro",
@@ -5981,7 +5902,11 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18819&pid=502",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "CAST",
+    "cinemacenter": "CAST"
+   }
   },
   {
    "cine": "lastipas",
@@ -6012,7 +5937,24 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18784&pid=407",
-   "estado": "ok"
+   "estado": "ok",
+   "segun": {
+    "cinexo": "SUB",
+    "cinemacenter": "SUB"
+   }
+  },
+  {
+   "cine": "altagracia",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-25",
+   "inicio": "2026-11-25T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
+   "estado": "una_fuente",
+   "segun": {
+    "cinemacenter": "SUB"
+   }
   },
   {
    "cine": "altagracia",
@@ -6022,7 +5964,10 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18798&pid=501",
-   "estado": "ok"
+   "estado": "una_fuente",
+   "segun": {
+    "cinexo": "SUB"
+   }
   },
   {
    "cine": "nuevocentro",
