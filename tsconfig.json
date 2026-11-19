@@ -11,5 +11,5 @@
     "allowImportingTsExtensions": true,
     "types": ["bun", "vite/client"]
   },
-  "include": ["src", "scraper", "vite.config.ts"]
+  "include": ["src", "scraper", "scripts", "vite.config.ts"]
 }

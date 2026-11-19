@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- La "C" con el filete doble del cabezal. Todo queda dentro de la zona segura de los íconos "maskable". -->
+  <rect width="512" height="512" fill="#f3efe6"/>
+  <text x="256" y="330" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="300" fill="#151412">C</text>
+  <rect x="136" y="372" width="240" height="6" fill="#151412"/>
+  <rect x="136" y="386" width="240" height="2" fill="#151412"/>
+</svg>

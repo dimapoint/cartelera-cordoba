@@ -15,6 +15,7 @@ bun test scraper/fuentes/cinexo.test.ts          # un archivo
 bun test -t "trasnoche"                          # tests por nombre
 bunx tsc --noEmit -p .       # no hay linter: los tipos son el chequeo estático
 bun run build                # deja el sitio en dist/ con base relativa
+bun run iconos               # rasteriza public/icono.svg a los PNG del manifiesto (usa Edge o Chrome)
 bun .claude/skills/run-cartelera/driver.ts       # maneja la página con Edge/Chrome y saca capturas (necesita el dev server)
 ```
 
@@ -46,6 +47,8 @@ La página (`src/`) es estática: `useCartelera` carga el JSON, `cartelera.ts` c
 - **Las fuentes reciben `traer` o `entorno` por parámetro** (`http.ts` define `Traer`); los tests usan respuestas reales guardadas en `scraper/fixtures/` y nunca la red.
 - **Una decisión puntual sobre un título va en `datos/overrides.json`** (`ocultar` o `idiomaOriginal`), no como regla en la lógica compartida.
 - **`datos/` y `public/cartelera.json` se commitean**: el historial de git muestra cuándo un cine cambió el idioma de una función.
+
+La página es una PWA instalable: `public/manifest.webmanifest`, los íconos y `public/sw.js` (red primero, caché de respaldo, solo mismo origen). El service worker se registra únicamente en la versión compilada y todas las rutas del manifiesto son relativas porque Pages sirve el sitio bajo `/cartelera-cordoba/`. `.claude/skills/run-cartelera/instalable.ts` comprueba instalabilidad y modo sin conexión contra `bun run preview` o la URL publicada.
 
 ## Despliegue
 

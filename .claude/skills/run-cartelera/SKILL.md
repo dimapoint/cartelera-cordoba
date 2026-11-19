@@ -92,16 +92,34 @@ Abre en http://localhost:5173/. Ctrl+C para parar. La página lee `public/cartel
 bun test
 ```
 
-122 tests, sin red (fixtures reales en `scraper/fixtures/`, `traer` falso inyectado en cada fuente, servidor local para los reintentos HTTP). Tarda menos de 1 s.
+129 tests, sin red (fixtures reales en `scraper/fixtures/`, `traer` falso inyectado en cada fuente, servidor local para los reintentos HTTP). Tarda menos de 1 s.
 
 ```bash
 bunx tsc --noEmit -p .
 bun run build
 ```
 
-`build` deja el sitio en `dist/` con `base: "./"`, listo para GitHub Pages. La publicación la hace `.github/workflows/actualizar.yml` (cron, scraper, commit de datos, build y deploy); todavía no se corrió en GitHub.
+`build` deja el sitio en `dist/` con `base: "./"`, listo para GitHub Pages. La publicación la hace `.github/workflows/actualizar.yml` (cron, scraper, commit de datos, build y deploy).
+
+## Instalable (PWA)
+
+La página se puede instalar (manifiesto, íconos y un service worker de red primero que la deja abrir sin señal con los últimos horarios vistos). El service worker solo se registra en la versión compilada, nunca en `bun run dev`. Para comprobar instalabilidad y modo sin conexión:
+
+```bash
+bun run build
+bun run preview -- --port 4173 --strictPort > /tmp/preview.log 2>&1 &
+curl -sf --retry 30 --retry-connrefused --retry-delay 1 -o /dev/null http://localhost:4173/ && echo listo
+bun .claude/skills/run-cartelera/instalable.ts http://localhost:4173/
+```
+
+Imprime `instalable` (según `Page.getInstallabilityErrors` de Chrome), cuántas películas abre sin conexión y `problemas`; sale con 1 si algo falla. Acepta también la URL publicada. Parar el servidor con el mismo `Stop-Process` de arriba, cambiando el puerto a 4173.
+
+Para rehacer los íconos tras tocar `public/icono.svg`: `bun run iconos` (usa Edge o Chrome para rasterizar).
 
 ## Gotchas
+
+- **`instalable.ts` usa un perfil persistente temporal**: con un contexto anónimo de Playwright Chrome responde siempre `in-incognito` y parece que la página no es instalable.
+- **Si se cambian las rutas del manifiesto o de `sw.js`, mantenerlas relativas** (`./`): el sitio vive bajo `/cartelera-cordoba/` en GitHub Pages y una ruta que empiece con `/` rompe la instalación.
 
 - **Cinemark manda la hora con una "Z" falsa** (`13:40:00.000Z` es 13:40 de Córdoba). Si alguien la convierte desde UTC todo se corre 3 h; `parsearCinemark` falla si una trasnoche cae a las 04:00 o más.
 - **Cinexo solo expone las fechas en el payload RSC** (`RSC: 1`). En el HTML común vienen escapadas y la regex no las ve; sin fechas barre 90 días (180 pedidos).
