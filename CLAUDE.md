@@ -48,11 +48,16 @@ La página (`src/`) es estática: `useCartelera` carga el JSON, `cartelera.ts` c
 - **Una decisión puntual sobre un título va en `datos/overrides.json`** (`ocultar` o `idiomaOriginal`), no como regla en la lógica compartida.
 - **`datos/` y `public/cartelera.json` se commitean**: el historial de git muestra cuándo un cine cambió el idioma de una función.
 
-La página es una PWA instalable: `public/manifest.webmanifest`, los íconos y `public/sw.js` (red primero, caché de respaldo, solo mismo origen). El service worker se registra únicamente en la versión compilada y todas las rutas del manifiesto son relativas porque Pages sirve el sitio bajo `/cartelera-cordoba/`. `.claude/skills/run-cartelera/instalable.ts` comprueba instalabilidad y modo sin conexión contra `bun run preview` o la URL publicada.
+- **Cinemacenter se cuelga seguido desde los servidores de GitHub** (timeouts de 30 s que agotan los reintentos), aunque desde una PC responda en menos de un segundo. Por eso es opcional. Si queda caído muchos días, el contraste de idioma de Alta Gracia usa datos cada vez más viejos y nada avisa.
+- **Los archivos pueden estar en CRLF** (Windows): un reemplazo con `sed` o `String.replace` que incluya `\n` puede no encontrar nada sin dar error. Verificar con `grep` después, o usar la herramienta Edit.
+
+## PWA
+
+La página es instalable y abre sin conexión: `public/manifest.webmanifest`, los íconos y `public/sw.js` (red primero, caché de respaldo, solo mismo origen). El service worker se registra únicamente en la versión compilada, y todas las rutas del manifiesto y de `index.html` son relativas porque Pages sirve el sitio bajo `/cartelera-cordoba/`. Para comprobarlo: `bun run build`, `bun run preview -- --port 4173` y `bun .claude/skills/run-cartelera/instalable.ts http://localhost:4173/` (también acepta la URL publicada).
 
 ## Despliegue
 
-`.github/workflows/actualizar.yml` corre al empujar a `main` y por cron (10, 13, 16, 19 y 22 h de Córdoba): tests, scraper, commit de los datos por el bot, build y deploy a Pages. Si una fuente falló, publica igual y el último paso falla a propósito para que llegue el mail. Como el bot commitea a `main`, hacer `git pull --rebase` antes de cada push. Los commits siguen Conventional Commits en español (`feat(ui): ...`, `fix(cinexo): ...`); el detalle está en `AGENTS.md`.
+`.github/workflows/actualizar.yml` corre al empujar a `main` y por cron (10, 13, 16, 19 y 22 h de Córdoba): tests, scraper, commit de los datos por el bot, build y deploy a Pages. Si se cae Cinemark o Cinexo, publica igual con los datos anteriores y el último paso falla a propósito para que llegue el mail; la caída de Cinemacenter solo deja una advertencia. El bot hace `git pull --rebase -X theirs` antes de pushear, así que un push tuyo durante una corrida ya no la rompe (y si chocan los JSON, ganan los datos recién bajados). Aun así, hacer `git pull --rebase` antes de pushear, porque el bot commitea a `main` varias veces por día. Los commits siguen Conventional Commits en español (`feat(ui): ...`, `fix(cinexo): ...`); el detalle está en `AGENTS.md`.
 
 ## Diseño
 
