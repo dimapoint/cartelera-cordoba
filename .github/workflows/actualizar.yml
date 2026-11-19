@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.publicar.outputs.page_url }}
+      url: ${{ steps.publicar_reintento.outputs.page_url || steps.publicar.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
@@ -51,7 +51,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
+      # deploy-pages a veces no encuentra el artefacto recién subido (lag de la API de GitHub):
+      # se reintenta una vez tras una pausa antes de dar el deploy por fallido.
       - id: publicar
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+      - name: Pausa antes de reintentar el deploy
+        if: steps.publicar.outcome == 'failure'
+        run: sleep 60
+      - id: publicar_reintento
+        if: steps.publicar.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
       - name: Avisar si alguna fuente falló
