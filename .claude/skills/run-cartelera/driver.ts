@@ -74,6 +74,13 @@ try {
     ;(resumen.capturas as string[]).push(await capturar(escritorio, "2-segundo-dia"))
   }
 
+  // El último día de la tira es el más lejano: ahí están las preventas de diciembre.
+  resumen.meses = await escritorio.$$eval(".mes-nombre", (nodos) => nodos.map((nodo) => nodo.textContent))
+  await escritorio.locator(".dia").last().click()
+  await escritorio.waitForFunction(() => document.querySelector(".mes:last-child .dia:last-child")?.getAttribute("aria-pressed") === "true")
+  resumen.ultimoDia = await estadoDelDia(escritorio)
+  ;(resumen.capturas as string[]).push(await capturar(escritorio, "2b-ultimo-dia"))
+
   // Filtro de cines: deja solo Alta Gracia y comprueba que no queden horarios de otros cines.
   // Se recorren todos los chips: filtrar por aria-pressed cambia la lista a medida que se hace clic.
   for (const chip of await escritorio.locator(".chip").all()) {
