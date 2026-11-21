@@ -1,28 +1,21 @@
 {
- "generado": "2026-11-20T17:52",
+ "generado": "2026-11-20T23:56",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-20T17:52"
+   "actualizado": "2026-11-20T23:56"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-20T17:52"
+   "actualizado": "2026-11-20T23:56"
   },
   "cinemacenter": {
-   "ok": true,
-   "actualizado": "2026-11-20T17:52"
+   "ok": false,
+   "actualizado": "2026-11-20T17:52",
+   "error": "The operation timed out. en https://www.cinemacenter.com.ar/horarios"
   }
  },
  "peliculas": [
-  {
-   "id": "tt2321555",
-   "titulo": "EL GATO CON SOMBRERO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
-   "duracion": 114,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
   {
    "id": "tt32558705",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
@@ -32,10 +25,10 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "tt11995650",
-   "titulo": "YO SOY ROCKY",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127,
+   "id": "tt2321555",
+   "titulo": "EL GATO CON SOMBRERO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013326.jpg",
+   "duracion": 114,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -48,18 +41,18 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "tt13609648",
-   "titulo": "SENSATEZ Y SENTIMIENTO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013207.jpg",
-   "duracion": 131,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
    "id": "tt38773219",
    "titulo": "EBENEZER: LOS FANTASMAS DE NAVIDAD",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013376.jpg",
    "duracion": 115,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt11995650",
+   "titulo": "YO SOY ROCKY",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
+   "duracion": 127,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -70,6 +63,14 @@
    "duracion": 118,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idiomas es, en; título original)"
+  },
+  {
+   "id": "tt13609648",
+   "titulo": "SENSATEZ Y SENTIMIENTO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013207.jpg",
+   "duracion": 131,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
   },
   {
    "id": "tt34384661",
@@ -112,28 +113,12 @@
    "decididoPor": "Wikidata (idioma original: en)"
   },
   {
-   "id": "tt7526136",
-   "titulo": "El corazón de la bestia",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
    "id": "tt36647890",
    "titulo": "La asistente de la morgue",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F584%2Fprimario.png?alt=media",
    "duracion": 95,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt37194968",
-   "titulo": "Recen por mí: La historia de Francisco",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F585%2Fprimario.png?alt=media",
-   "duracion": 110,
-   "idiomaOriginal": "es",
-   "decididoPor": "Anexo de películas argentinas"
   },
   {
    "id": "titulo:carne",
@@ -144,18 +129,18 @@
    "decididoPor": "Anexo de películas argentinas"
   },
   {
-   "id": "tt37118301",
-   "titulo": "Minotauro",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F587%2Fprimario.png?alt=media",
-   "duracion": 141,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: ru)"
-  },
-  {
    "id": "tt1756855",
    "titulo": "Coyote vs Acme",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F497%2Fprimario.png?alt=media",
    "duracion": 110,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt7526136",
+   "titulo": "El corazón de la bestia",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
+   "duracion": 102,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -166,6 +151,22 @@
    "duracion": 84,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en, th)"
+  },
+  {
+   "id": "tt37194968",
+   "titulo": "Recen por mí: La historia de Francisco",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F585%2Fprimario.png?alt=media",
+   "duracion": 110,
+   "idiomaOriginal": "es",
+   "decididoPor": "Anexo de películas argentinas"
+  },
+  {
+   "id": "tt37118301",
+   "titulo": "Minotauro",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F587%2Fprimario.png?alt=media",
+   "duracion": 141,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: ru)"
   }
  ],
  "funciones": [
@@ -176,22 +177,11 @@
    "inicio": "2026-11-20T16:50",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18828&pid=500",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6111",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt7526136",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3303&pid=522",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -200,63 +190,11 @@
    "inicio": "2026-11-20T17:00",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18807&pid=461",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt34384661",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3368&pid=569",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T17:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3354&pid=583",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt37194968",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3331&pid=585",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T17:55",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T18:20",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3287&pid=580",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -265,34 +203,11 @@
    "inicio": "2026-11-20T18:40",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18786&pid=407",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6090",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T18:40",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T18:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -301,53 +216,11 @@
    "inicio": "2026-11-20T19:00",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18821&pid=461",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:00",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3042&pid=576",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt7526136",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3304&pid=522",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3272&pid=583",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -356,152 +229,11 @@
    "inicio": "2026-11-20T19:30",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18835&pid=501",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6116",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:40",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:40",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt37194968",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3332&pid=585",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:00",
-   "formato": "3D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3395&pid=549",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt13609648",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/sensatez-y-sentimiento",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3056&pid=553",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -510,33 +242,11 @@
    "inicio": "2026-11-20T21:30",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18814&pid=502",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6122",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt37118301",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:30",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3316&pid=587",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -545,10 +255,9 @@
    "inicio": "2026-11-20T21:50",
    "formato": "2D",
    "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18779&pid=407",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "SUB",
     "cinemacenter": "SUB"
    }
   },
@@ -566,19 +275,6 @@
    }
   },
   {
-   "cine": "altagracia",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:00",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18793&pid=501",
-   "estado": "una_fuente",
-   "segun": {
-    "cinexo": "SUB"
-   }
-  },
-  {
    "cine": "lastipas",
    "pelicula": "tt32558705",
    "diaDeCine": "2026-11-20",
@@ -586,28 +282,6 @@
    "formato": "4D",
    "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3043&pid=576",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:00",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -638,94 +312,6 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3382&pid=586",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:40",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T23:00",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T23:05",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt34384661",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T23:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
    "estado": "ok"
   },
   {
@@ -6742,6 +6328,17 @@
   {
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-17T01:00",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 6",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
    "diaDeCine": "2026-12-17",
    "inicio": "2026-12-17T10:30",
    "formato": "2D · D-BOX",
@@ -7672,17 +7269,6 @@
   {
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
-   "diaDeCine": "2026-12-18",
-   "inicio": "2026-12-19T01:30",
-   "formato": "3D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt21357150",
    "diaDeCine": "2026-12-19",
    "inicio": "2026-12-19T11:00",
    "formato": "2D",
@@ -8149,10 +7735,10 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-19",
-   "inicio": "2026-12-20T01:30",
-   "formato": "3D · D-BOX",
+   "inicio": "2026-12-20T01:00",
+   "formato": "2D",
    "version": "CAST",
-   "sala": "Sala 3",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
