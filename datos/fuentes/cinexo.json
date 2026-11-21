@@ -1,66 +1,6 @@
 {
- "actualizado": "2026-11-20T23:56",
+ "actualizado": "2026-11-21T16:54",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:00",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3043&pid=576",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Yo soy Rocky",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3273&pid=583",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F583%2Fprimario.png?alt=media",
-   "duracion": 128
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "La asistente de la morgue",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3344&pid=584",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F584%2Fprimario.png?alt=media",
-   "duracion": 95
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Carne",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T22:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3382&pid=586",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F586%2Fprimario.png?alt=media",
-   "duracion": 115
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Coyote vs Acme",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T14:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3324&pid=497",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F497%2Fprimario.png?alt=media",
-   "duracion": 110
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -84,18 +24,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3306&pid=522",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
    "duracion": 102
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El gato con sombrero",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T14:30",
-   "formato": "3D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3298&pid=549",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F549%2Fprimario.png?alt=media",
-   "duracion": 91
   },
   {
    "fuente": "cinexo",
@@ -126,36 +54,12 @@
    "cine": "lastipas",
    "titulo": "Godzilla Minus Zero",
    "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T14:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3350&pid=569",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F569%2Fprimario.png?alt=media",
-   "duracion": 135
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Godzilla Minus Zero",
-   "diaDeCine": "2026-11-21",
    "inicio": "2026-11-21T17:00",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3369&pid=569",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F569%2Fprimario.png?alt=media",
    "duracion": 135
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T15:10",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3390&pid=576",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
-   "duracion": 158
   },
   {
    "fuente": "cinexo",
@@ -186,35 +90,12 @@
    "cine": "lastipas",
    "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
    "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T15:40",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3288&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
-   "duracion": 116
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
-   "diaDeCine": "2026-11-21",
    "inicio": "2026-11-21T18:20",
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3289&pid=580",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
    "duracion": 116
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Plumas: Operación rescate",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T15:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3362&pid=582",
-   "duracion": 84
   },
   {
    "fuente": "cinexo",
