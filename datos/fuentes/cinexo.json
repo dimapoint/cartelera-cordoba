@@ -1,78 +1,6 @@
 {
- "actualizado": "2026-11-22T17:04",
+ "actualizado": "2026-11-22T23:05",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El corazón de la bestia",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3307&pid=522",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El corazón de la bestia",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3308&pid=522",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El gato con sombrero",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T20:00",
-   "formato": "3D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3397&pid=549",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F549%2Fprimario.png?alt=media",
-   "duracion": 91
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D+2D",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3058&pid=553",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F553%2Fprimario.png?alt=media",
-   "duracion": 150
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Godzilla Minus Zero",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3370&pid=569",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F569%2Fprimario.png?alt=media",
-   "duracion": 135
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:00",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3046&pid=576",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
-   "duracion": 158
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -84,42 +12,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3047&pid=576",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
    "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T18:20",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3291&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
-   "duracion": 116
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Yo soy Rocky",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T17:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3356&pid=583",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F583%2Fprimario.png?alt=media",
-   "duracion": 128
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Yo soy Rocky",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3276&pid=583",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F583%2Fprimario.png?alt=media",
-   "duracion": 128
   },
   {
    "fuente": "cinexo",
@@ -148,30 +40,6 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Recen por mí: La historia de Francisco",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3335&pid=585",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F585%2Fprimario.png?alt=media",
-   "duracion": 110
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Recen por mí: La historia de Francisco",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3336&pid=585",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F585%2Fprimario.png?alt=media",
-   "duracion": 110
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
    "titulo": "Carne",
    "diaDeCine": "2026-11-22",
    "inicio": "2026-11-22T22:30",
@@ -180,18 +48,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3384&pid=586",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F586%2Fprimario.png?alt=media",
    "duracion": 115
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Minotauro",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:30",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3318&pid=587",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F587%2Fprimario.png?alt=media",
-   "duracion": 141
   },
   {
    "fuente": "cinexo",
@@ -1590,102 +1446,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1925&pid=524",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F524%2Fprimario.png?alt=media",
    "duracion": 165
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS EL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T18:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18788&pid=407",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F407%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS EL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18781&pid=407",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F407%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18809&pid=461",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F461%2Fprimario.png?alt=media",
-   "duracion": 100
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18823&pid=461",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F461%2Fprimario.png?alt=media",
-   "duracion": 100
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "PLUMAS OPERACIÓN RESCATE",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18830&pid=500",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F500%2Fprimario.png?alt=media",
-   "duracion": 94
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18837&pid=501",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F501%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T22:00",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18795&pid=501",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F501%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "RECEN POR MÍ: LA HISTORIA DE FRANCISCO",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18816&pid=502",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F502%2Fprimario.png?alt=media",
-   "duracion": 120
   },
   {
    "fuente": "cinexo",
