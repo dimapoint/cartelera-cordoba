@@ -1,86 +1,6 @@
 {
- "actualizado": "2026-11-20T17:52",
+ "actualizado": "2026-11-24T07:35",
  "funciones": [
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
-  },
   {
    "fuente": "cinemacenter",
    "cine": "altagracia",
@@ -105,46 +25,6 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T18:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T18:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T18:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T18:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-25",
    "inicio": "2026-11-25T18:40",
    "formato": "2D",
@@ -155,91 +35,11 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-25",
    "inicio": "2026-11-25T21:50",
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinemacenter.com.ar/ficha/6091"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "PLUMAS OPERACION RESCATE",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "PLUMAS OPERACION RESCATE",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "PLUMAS OPERACION RESCATE",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "PLUMAS OPERACION RESCATE",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
   },
   {
    "fuente": "cinemacenter",
@@ -255,46 +55,6 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6116"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6116"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6116"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6116"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-25",
    "inicio": "2026-11-25T19:30",
    "formato": "2D",
@@ -305,91 +65,11 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6117"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6117"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6117"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6117"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-25",
    "inicio": "2026-11-25T21:50",
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinemacenter.com.ar/ficha/6117"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "RECEN POR MI",
-   "diaDeCine": "2026-11-20",
-   "inicio": "2026-11-20T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6122"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "RECEN POR MI",
-   "diaDeCine": "2026-11-21",
-   "inicio": "2026-11-21T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6122"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "RECEN POR MI",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6122"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "RECEN POR MI",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6122"
   },
   {
    "fuente": "cinemacenter",

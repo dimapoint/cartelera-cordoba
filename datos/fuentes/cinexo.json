@@ -1,78 +1,6 @@
 {
- "actualizado": "2026-11-23T21:30",
+ "actualizado": "2026-11-24T07:35",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D+2D",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3059&pid=553",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F553%2Fprimario.png?alt=media",
-   "duracion": 150
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T22:10",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3049&pid=576",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Yo soy Rocky",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T22:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3279&pid=583",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F583%2Fprimario.png?alt=media",
-   "duracion": 128
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "La asistente de la morgue",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T22:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3347&pid=584",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F584%2Fprimario.png?alt=media",
-   "duracion": 95
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Carne",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T22:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3385&pid=586",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F586%2Fprimario.png?alt=media",
-   "duracion": 115
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Minotauro",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:30",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3319&pid=587",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F587%2Fprimario.png?alt=media",
-   "duracion": 141
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -2838,42 +2766,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=1925&pid=524",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F524%2Fprimario.png?alt=media",
    "duracion": 165
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "LOS JUEGOS EL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18782&pid=407",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F407%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T22:00",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18796&pid=501",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F501%2Fprimario.png?alt=media",
-   "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "RECEN POR MÍ: LA HISTORIA DE FRANCISCO",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18817&pid=502",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F502%2Fprimario.png?alt=media",
-   "duracion": 120
   },
   {
    "fuente": "cinexo",
