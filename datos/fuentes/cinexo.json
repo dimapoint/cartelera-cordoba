@@ -1,30 +1,6 @@
 {
- "actualizado": "2026-11-24T07:35",
+ "actualizado": "2026-11-24T19:51",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Coyote vs Acme",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T14:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3327&pid=497",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F497%2Fprimario.png?alt=media",
-   "duracion": 110
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El corazón de la bestia",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3311&pid=522",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -64,30 +40,6 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Godzilla Minus Zero",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3372&pid=569",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F569%2Fprimario.png?alt=media",
-   "duracion": 135
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T15:10",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3393&pid=576",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
    "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D + 2D XL",
    "diaDeCine": "2026-11-24",
    "inicio": "2026-11-24T19:00",
@@ -114,47 +66,12 @@
    "cine": "lastipas",
    "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
    "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T15:40",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3294&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
-   "duracion": 116
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
-   "diaDeCine": "2026-11-24",
    "inicio": "2026-11-24T18:20",
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3295&pid=580",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
    "duracion": 116
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Plumas: Operación rescate",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T15:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3365&pid=582",
-   "duracion": 84
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Yo soy Rocky",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T17:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3358&pid=583",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F583%2Fprimario.png?alt=media",
-   "duracion": 128
   },
   {
    "fuente": "cinexo",
@@ -191,18 +108,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3348&pid=584",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F584%2Fprimario.png?alt=media",
    "duracion": 95
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Recen por mí: La historia de Francisco",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3339&pid=585",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F585%2Fprimario.png?alt=media",
-   "duracion": 110
   },
   {
    "fuente": "cinexo",
@@ -500,6 +405,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3566&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -511,6 +417,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3567&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -666,6 +573,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3627&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -677,6 +585,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3606&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -688,6 +597,7 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3599&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -723,6 +633,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3568&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -734,6 +645,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3569&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -889,6 +801,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3628&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -900,6 +813,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3607&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -911,6 +825,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3600&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -958,6 +873,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3597&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -969,6 +885,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3570&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -980,6 +897,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3571&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1147,6 +1065,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3629&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1158,6 +1077,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3608&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -1169,6 +1089,7 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3601&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -1216,6 +1137,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3598&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1227,6 +1149,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3572&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1238,6 +1161,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3573&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1405,6 +1329,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3630&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1416,6 +1341,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3609&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -1427,6 +1353,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3602&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -1462,6 +1389,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3574&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1473,6 +1401,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3575&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1628,6 +1557,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3631&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1639,6 +1569,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3610&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -1650,6 +1581,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3603&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -1685,6 +1617,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3576&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1696,6 +1629,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3577&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1851,6 +1785,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3632&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1862,6 +1797,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3611&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -1873,6 +1809,7 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3604&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -1908,6 +1845,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3578&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -1919,6 +1857,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3579&pid=550",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -2074,6 +2013,7 @@
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3633&pid=588",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
   },
   {
@@ -2085,6 +2025,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3612&pid=589",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
    "duracion": 195
   },
   {
@@ -2096,6 +2037,7 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3605&pid=590",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
   },
   {
@@ -2796,36 +2738,12 @@
    "cine": "altagracia",
    "titulo": "EL GATO CON SOMBRERO",
    "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18811&pid=461",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F461%2Fprimario.png?alt=media",
-   "duracion": 100
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-24",
    "inicio": "2026-11-24T19:00",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18825&pid=461",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F461%2Fprimario.png?alt=media",
    "duracion": 100
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "PLUMAS OPERACIÓN RESCATE",
-   "diaDeCine": "2026-11-24",
-   "inicio": "2026-11-24T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18832&pid=500",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F500%2Fprimario.png?alt=media",
-   "duracion": 94
   },
   {
    "fuente": "cinexo",
