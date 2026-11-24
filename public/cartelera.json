@@ -1,13 +1,13 @@
 {
- "generado": "2026-11-22T23:05",
+ "generado": "2026-11-23T21:30",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-22T23:05"
+   "actualizado": "2026-11-23T21:30"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-22T23:05"
+   "actualizado": "2026-11-23T21:30"
   },
   "cinemacenter": {
    "ok": false,
@@ -17,18 +17,18 @@
  },
  "peliculas": [
   {
-   "id": "tt34384661",
-   "titulo": "GODZILLA MINUS ZERO",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
-   "duracion": 135,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: ja)"
-  },
-  {
    "id": "tt32558705",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt11995650",
+   "titulo": "YO SOY ROCKY",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
+   "duracion": 127,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -39,6 +39,22 @@
    "duracion": 115,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt15799564",
+   "titulo": "CABALLO SALVAJE NUEVE",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
+   "duracion": 118,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idiomas es, en; título original)"
+  },
+  {
+   "id": "tt34384661",
+   "titulo": "GODZILLA MINUS ZERO",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012759.jpg",
+   "duracion": 135,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: ja)"
   },
   {
    "id": "tt2321555",
@@ -55,22 +71,6 @@
    "duracion": 132,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt11995650",
-   "titulo": "YO SOY ROCKY",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt15799564",
-   "titulo": "CABALLO SALVAJE NUEVE",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013379.jpg",
-   "duracion": 118,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idiomas es, en; título original)"
   },
   {
    "id": "tt13609648",
@@ -129,6 +129,14 @@
    "decididoPor": "Anexo de películas argentinas"
   },
   {
+   "id": "tt37118301",
+   "titulo": "Minotauro",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F587%2Fprimario.png?alt=media",
+   "duracion": 141,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: ru)"
+  },
+  {
    "id": "tt1756855",
    "titulo": "Coyote vs Acme",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F497%2Fprimario.png?alt=media",
@@ -161,20 +169,26 @@
    "decididoPor": "Anexo de películas argentinas"
   },
   {
-   "id": "tt37118301",
-   "titulo": "Minotauro",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F587%2Fprimario.png?alt=media",
-   "duracion": 141,
+   "id": "tt38077943",
+   "titulo": "Hechizo: Bienvenidos a Hexe",
+   "duracion": 103,
    "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: ru)"
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt27988879",
+   "titulo": "Ramayana: El nacimiento de una leyenda",
+   "duracion": 195,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: hi)"
   }
  ],
  "funciones": [
   {
    "cine": "altagracia",
    "pelicula": "tt31520900",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T16:50",
+   "diaDeCine": "2026-11-23",
+   "inicio": "2026-11-23T16:50",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6111",
@@ -186,8 +200,8 @@
   {
    "cine": "altagracia",
    "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T17:00",
+   "diaDeCine": "2026-11-23",
+   "inicio": "2026-11-23T17:00",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6078",
@@ -199,8 +213,8 @@
   {
    "cine": "altagracia",
    "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T18:40",
+   "diaDeCine": "2026-11-23",
+   "inicio": "2026-11-23T18:40",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6090",
@@ -212,8 +226,8 @@
   {
    "cine": "altagracia",
    "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:00",
+   "diaDeCine": "2026-11-23",
+   "inicio": "2026-11-23T19:00",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6078",
@@ -225,8 +239,8 @@
   {
    "cine": "altagracia",
    "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T19:30",
+   "diaDeCine": "2026-11-23",
+   "inicio": "2026-11-23T19:30",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6116",
@@ -236,766 +250,6 @@
    }
   },
   {
-   "cine": "altagracia",
-   "pelicula": "tt37194968",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6122",
-   "estado": "una_fuente",
-   "segun": {
-    "cinemacenter": "CAST"
-   }
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6091",
-   "estado": "una_fuente",
-   "segun": {
-    "cinemacenter": "SUB"
-   }
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T21:50",
-   "formato": "2D",
-   "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6117",
-   "estado": "una_fuente",
-   "segun": {
-    "cinemacenter": "SUB"
-   }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T22:10",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3047&pid=576",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt36647890",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T22:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3346&pid=584",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T22:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3277&pid=583",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "titulo:carne",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T22:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3384&pid=586",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt34384661",
-   "diaDeCine": "2026-11-22",
-   "inicio": "2026-11-22T23:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/godzilla-minus-zero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T12:00",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T12:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T13:00",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T13:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T13:05",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T13:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T13:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T13:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt15799564",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/caballo-salvaje-nueve",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:30",
-   "formato": "3D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3300&pid=549",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt34384661",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3352&pid=569",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt1756855",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T14:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3326&pid=497",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt31520900",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3364&pid=582",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:10",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3392&pid=576",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:20",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T15:40",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3292&pid=580",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:20",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt31520900",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18831&pid=500",
-   "estado": "ok",
-   "segun": {
-    "cinexo": "CAST",
-    "cinemacenter": "CAST"
-   }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt7526136",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3309&pid=522",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18810&pid=461",
-   "estado": "ok",
-   "segun": {
-    "cinexo": "CAST",
-    "cinemacenter": "CAST"
-   }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt34384661",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3371&pid=569",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:05",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3357&pid=583",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt37194968",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3337&pid=585",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:30",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:50",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T17:55",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T18:20",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3293&pid=580",
-   "estado": "ok"
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T18:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18789&pid=407",
-   "estado": "ok",
-   "segun": {
-    "cinexo": "CAST",
-    "cinemacenter": "CAST"
-   }
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T18:40",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T18:40",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18824&pid=461",
-   "estado": "ok",
-   "segun": {
-    "cinexo": "CAST",
-    "cinemacenter": "CAST"
-   }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:00",
-   "formato": "4D",
-   "version": "SUB",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3048&pid=576",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt7526136",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3310&pid=522",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3278&pid=583",
-   "estado": "ok"
-  },
-  {
-   "cine": "altagracia",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18838&pid=501",
-   "estado": "ok",
-   "segun": {
-    "cinexo": "CAST",
-    "cinemacenter": "CAST"
-   }
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:40",
-   "formato": "2D · D-BOX",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:40",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt37194968",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3338&pid=585",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T19:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt2321555",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T20:00",
-   "formato": "3D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3398&pid=549",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt2056785",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T20:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/wildwood-el-bosque-salvaje",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt13609648",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T20:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/sensatez-y-sentimiento",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/ebenezer-los-fantasmas-de-navidad",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T20:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
    "cine": "lastipas",
    "pelicula": "tt32558705",
    "diaDeCine": "2026-11-23",
@@ -1003,28 +257,6 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3059&pid=553",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -1049,17 +281,6 @@
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3319&pid=587",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-23",
-   "inicio": "2026-11-23T21:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -2240,17 +1461,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T14:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt11995650",
    "diaDeCine": "2026-11-25",
    "inicio": "2026-11-25T14:00",
@@ -2258,6 +1468,17 @@
    "version": "CAST",
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-25",
+   "inicio": "2026-11-25T14:00",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -3059,6 +2280,26 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3473&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3634&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-26",
@@ -3078,6 +2319,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3606&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3566&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3429&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3501&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3474&pid=551",
    "estado": "ok"
   },
   {
@@ -3100,6 +2391,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T18:10",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3635&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3567&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3430&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3538&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3552&pid=551",
    "estado": "ok"
   },
   {
@@ -3114,6 +2455,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3475&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-26",
@@ -3125,6 +2476,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3627&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3599&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3553&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3422&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-11-26",
@@ -3133,6 +2524,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3476&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3539&pid=583",
    "estado": "ok"
   },
   {
@@ -3180,6 +2591,26 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3477&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3636&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-27",
@@ -3199,6 +2630,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3607&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3568&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3431&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3502&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3478&pid=551",
    "estado": "ok"
   },
   {
@@ -3221,6 +2702,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T18:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3637&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3569&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3432&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3540&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3554&pid=551",
    "estado": "ok"
   },
   {
@@ -3235,6 +2766,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3479&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-27",
@@ -3246,6 +2787,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3628&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T21:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3600&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T21:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3555&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3423&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-11-27",
@@ -3254,6 +2835,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3480&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3541&pid=583",
    "estado": "ok"
   },
   {
@@ -3301,6 +2902,56 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T13:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3597&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt2321555",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T14:30",
+   "formato": "3D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3443&pid=549",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T14:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3508&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3481&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3638&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-28",
@@ -3320,6 +2971,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3608&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3570&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3433&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3503&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3482&pid=551",
    "estado": "ok"
   },
   {
@@ -3342,6 +3043,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T18:10",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3639&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3571&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3434&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3542&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3556&pid=551",
    "estado": "ok"
   },
   {
@@ -3356,6 +3107,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3483&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-28",
@@ -3367,6 +3128,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3629&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3601&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3557&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3424&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-11-28",
@@ -3375,6 +3176,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3484&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3543&pid=583",
    "estado": "ok"
   },
   {
@@ -3422,6 +3243,56 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T13:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3598&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt2321555",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T14:30",
+   "formato": "3D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3444&pid=549",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T14:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3509&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3485&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3640&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-29",
@@ -3441,6 +3312,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3609&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3572&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3435&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3504&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3486&pid=551",
    "estado": "ok"
   },
   {
@@ -3463,6 +3384,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T18:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3641&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3573&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3436&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3544&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3558&pid=551",
    "estado": "ok"
   },
   {
@@ -3477,6 +3448,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3487&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-29",
@@ -3488,6 +3469,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3630&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T21:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3602&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T21:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3559&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3425&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-11-29",
@@ -3496,6 +3517,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3488&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3545&pid=583",
    "estado": "ok"
   },
   {
@@ -3543,6 +3584,26 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3489&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3642&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-30",
@@ -3562,6 +3623,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3610&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3574&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3437&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3505&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3490&pid=551",
    "estado": "ok"
   },
   {
@@ -3584,6 +3695,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T18:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3643&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3575&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3438&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3546&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3560&pid=551",
    "estado": "ok"
   },
   {
@@ -3598,6 +3759,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3491&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-11-30",
@@ -3609,6 +3780,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3631&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T21:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3603&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T21:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3561&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3426&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-11-30",
@@ -3617,6 +3828,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3492&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3547&pid=583",
    "estado": "ok"
   },
   {
@@ -3664,6 +3895,26 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3493&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3644&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-12-01",
@@ -3683,6 +3934,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3611&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3576&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3439&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3506&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3494&pid=551",
    "estado": "ok"
   },
   {
@@ -3705,6 +4006,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T18:10",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3645&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3577&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3440&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3548&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3562&pid=551",
    "estado": "ok"
   },
   {
@@ -3719,6 +4070,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3495&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-12-01",
@@ -3730,6 +4091,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3632&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3604&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T21:50",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3563&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3427&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-12-01",
@@ -3738,6 +4139,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3496&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3549&pid=583",
    "estado": "ok"
   },
   {
@@ -3785,6 +4206,26 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T14:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3497&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T15:00",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3646&pid=553",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-12-02",
@@ -3804,6 +4245,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt27988879",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T15:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3612&pid=589",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T16:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3578&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3441&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38773219",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T16:50",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3507&pid=580",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T17:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3498&pid=551",
    "estado": "ok"
   },
   {
@@ -3826,6 +4317,56 @@
    "version": "CAST",
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T18:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3647&pid=553",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:00",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3579&pid=550",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt7526136",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3442&pid=522",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:20",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3550&pid=583",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3564&pid=551",
    "estado": "ok"
   },
   {
@@ -3840,6 +4381,16 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T20:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3499&pid=551",
+   "estado": "ok"
+  },
+  {
    "cine": "nuevocentro",
    "pelicula": "tt34966140",
    "diaDeCine": "2026-12-02",
@@ -3851,6 +4402,46 @@
    "estado": "ok"
   },
   {
+   "cine": "lastipas",
+   "pelicula": "tt38077943",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T21:30",
+   "formato": "4D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3633&pid=588",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt45368240",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T21:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3605&pid=590",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T21:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3565&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T22:00",
+   "formato": "4D",
+   "version": "SUB",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3428&pid=576",
+   "estado": "ok"
+  },
+  {
    "cine": "patioolmos",
    "pelicula": "tt45368240",
    "diaDeCine": "2026-12-02",
@@ -3859,6 +4450,26 @@
    "version": "SUB",
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt34966140",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3500&pid=551",
+   "estado": "ok"
+  },
+  {
+   "cine": "lastipas",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T22:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3551&pid=583",
    "estado": "ok"
   },
   {
@@ -4640,6 +5251,17 @@
    "cine": "nuevocentro",
    "pelicula": "tt21357150",
    "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T11:30",
+   "formato": "3D · D-BOX",
+   "version": "CAST",
+   "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-17",
    "inicio": "2026-12-17T12:10",
    "formato": "2D",
    "version": "CAST",
@@ -5087,6 +5709,17 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T11:30",
+   "formato": "3D · D-BOX",
+   "version": "CAST",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
@@ -5552,6 +6185,17 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T11:30",
+   "formato": "3D · D-BOX",
+   "version": "CAST",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
@@ -6028,6 +6672,17 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T11:30",
+   "formato": "3D · D-BOX",
+   "version": "CAST",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },
