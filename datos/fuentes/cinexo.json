@@ -1,18 +1,6 @@
 {
- "actualizado": "2026-11-26T06:03",
+ "actualizado": "2026-11-26T19:02",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El corazón de la bestia",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3429&pid=522",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -30,48 +18,12 @@
    "cine": "lastipas",
    "titulo": "Hechizo: Bienvenidos a Hexe 4D+3D XL",
    "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T16:00",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3566&pid=550",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
-   "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Hechizo: Bienvenidos a Hexe 4D+3D XL",
-   "diaDeCine": "2026-11-26",
    "inicio": "2026-11-26T19:00",
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3567&pid=550",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "La nueva Focker",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T14:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3473&pid=551",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F551%2Fprimario.png?alt=media",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "La nueva Focker",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3474&pid=551",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F551%2Fprimario.png?alt=media",
-   "duracion": 105
   },
   {
    "fuente": "cinexo",
@@ -126,18 +78,6 @@
    "cine": "lastipas",
    "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D+2D",
    "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T15:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3634&pid=553",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F553%2Fprimario.png?alt=media",
-   "duracion": 150
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D+2D",
-   "diaDeCine": "2026-11-26",
    "inicio": "2026-11-26T18:10",
    "formato": "2D",
    "version": "SUB",
@@ -156,18 +96,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3422&pid=576",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
    "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T16:50",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3501&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
-   "duracion": 116
   },
   {
    "fuente": "cinexo",
@@ -204,18 +132,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3627&pid=588",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ramayana: El nacimiento de una leyenda",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T15:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3606&pid=589",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
-   "duracion": 195
   },
   {
    "fuente": "cinexo",
@@ -388,13 +304,13 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-27",
    "inicio": "2026-11-27T16:50",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3502&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3502&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
@@ -452,7 +368,7 @@
    "diaDeCine": "2026-11-27",
    "inicio": "2026-11-27T21:40",
    "formato": "2D",
-   "version": "CAST",
+   "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3600&pid=590",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
@@ -640,25 +556,25 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-28",
    "inicio": "2026-11-28T14:30",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3508&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3508&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-28",
    "inicio": "2026-11-28T16:50",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3503&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3503&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
@@ -904,25 +820,25 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-29",
    "inicio": "2026-11-29T14:30",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3509&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3509&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-29",
    "inicio": "2026-11-29T16:50",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3504&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3504&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
@@ -980,7 +896,7 @@
    "diaDeCine": "2026-11-29",
    "inicio": "2026-11-29T21:40",
    "formato": "2D",
-   "version": "CAST",
+   "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3602&pid=590",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
@@ -1144,13 +1060,13 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-11-30",
    "inicio": "2026-11-30T16:50",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3505&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3505&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
@@ -1208,7 +1124,7 @@
    "diaDeCine": "2026-11-30",
    "inicio": "2026-11-30T21:40",
    "formato": "2D",
-   "version": "CAST",
+   "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3603&pid=590",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
@@ -1372,13 +1288,13 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-12-01",
    "inicio": "2026-12-01T16:50",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3506&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3506&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
@@ -1600,13 +1516,13 @@
   {
    "fuente": "cinexo",
    "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad 4D+2D",
+   "titulo": "Ebenezer: Los fantasmas de Navidad",
    "diaDeCine": "2026-12-02",
    "inicio": "2026-12-02T16:50",
-   "formato": "4D",
+   "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3507&pid=580",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F580%2Fprimario.png?alt=media",
+   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3507&pid=577",
+   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
    "duracion": 116
   },
   {
@@ -1664,7 +1580,7 @@
    "diaDeCine": "2026-12-02",
    "inicio": "2026-12-02T21:40",
    "formato": "2D",
-   "version": "CAST",
+   "version": "SUB",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3605&pid=590",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F590%2Fprimario.png?alt=media",
    "duracion": 174
@@ -2361,30 +2277,6 @@
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18841&pid=407",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F407%2Fprimario.png?alt=media",
    "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18890&pid=461",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F461%2Fprimario.png?alt=media",
-   "duracion": 100
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "HECHIZO: BIENVENIDOS A HEZE",
-   "diaDeCine": "2026-11-26",
-   "inicio": "2026-11-26T17:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18862&pid=491",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F491%2Fprimario.png?alt=media",
-   "duracion": 94
   },
   {
    "fuente": "cinexo",

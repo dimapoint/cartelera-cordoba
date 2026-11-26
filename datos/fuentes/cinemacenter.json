@@ -1,12 +1,12 @@
 {
- "actualizado": "2026-11-25T19:04",
+ "actualizado": "2026-11-26T19:02",
  "funciones": [
   {
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T17:00",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T16:50",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6078"
@@ -15,8 +15,48 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T19:00",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "EL GATO CON SOMBRERO",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "EL GATO CON SOMBRERO",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "EL GATO CON SOMBRERO",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T16:50",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "EL GATO CON SOMBRERO",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T16:50",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6078"
@@ -25,8 +65,8 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T18:40",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T18:30",
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cinemacenter.com.ar/ficha/6090"
@@ -35,8 +75,58 @@
    "fuente": "cinemacenter",
    "cine": "altagracia",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T21:50",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T18:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T18:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T18:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T18:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T18:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6090"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T21:40",
    "formato": "2D",
    "version": "SUB",
    "compra": "https://www.cinemacenter.com.ar/ficha/6091"
@@ -44,43 +134,363 @@
   {
    "fuente": "cinemacenter",
    "cine": "altagracia",
-   "titulo": "PLUMAS OPERACION RESCATE",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6111"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T19:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6116"
-  },
-  {
-   "fuente": "cinemacenter",
-   "cine": "altagracia",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T21:50",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T21:40",
    "formato": "2D",
    "version": "SUB",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6117"
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
   },
   {
    "fuente": "cinemacenter",
    "cine": "altagracia",
-   "titulo": "RECEN POR MI",
-   "diaDeCine": "2026-11-25",
-   "inicio": "2026-11-25T21:30",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T21:40",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6091"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T19:10",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinemacenter.com.ar/ficha/6122"
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6129"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6130"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6130"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6130"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6130"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6130"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T22:00",
+   "formato": "2D",
+   "version": "SUB",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6130"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T17:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-26",
+   "inicio": "2026-11-26T21:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T17:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T21:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T17:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T21:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T17:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T21:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T17:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T21:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T17:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T19:40",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
+  },
+  {
+   "fuente": "cinemacenter",
+   "cine": "altagracia",
+   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T21:30",
+   "formato": "2D",
+   "version": "CAST",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132"
   }
  ],
- "cubreHasta": "2026-11-25"
+ "cubreHasta": "2026-12-02"
 }
