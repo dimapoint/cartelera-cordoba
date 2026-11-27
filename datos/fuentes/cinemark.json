@@ -1,123 +1,6 @@
 {
- "actualizado": "2026-11-27T16:37",
+ "actualizado": "2026-11-27T18:45",
  "funciones": [
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013448.jpg",
-   "duracion": 109
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013448.jpg",
-   "duracion": 109
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:35",
-   "formato": "3D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013448.jpg",
-   "duracion": 109
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:45",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:45",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013448.jpg",
-   "duracion": 109
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:05",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:40",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
@@ -328,19 +211,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "PUEDES VERLO TODO",
    "diaDeCine": "2026-11-27",
@@ -354,13 +224,13 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
+   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T22:30",
+   "inicio": "2026-11-27T22:20",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 2",
+   "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
@@ -377,6 +247,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -407,19 +290,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-27",
    "inicio": "2026-11-27T23:00",
@@ -429,6 +299,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -484,19 +367,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-11-28",
@@ -504,6 +374,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -1095,19 +978,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "PUEDES VERLO TODO",
-   "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
-   "duracion": 174
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-28",
@@ -1118,6 +988,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "PUEDES VERLO TODO",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T22:20",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
+   "duracion": 174
   },
   {
    "fuente": "cinemark",
@@ -1174,19 +1057,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-28",
    "inicio": "2026-11-28T23:00",
@@ -1196,6 +1066,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "YO SOY ROCKY",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
+   "duracion": 127
   },
   {
    "fuente": "cinemark",
@@ -1251,19 +1134,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-29",
-   "inicio": "2026-11-29T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-11-29",
@@ -1271,6 +1141,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -1888,19 +1771,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-29",
-   "inicio": "2026-11-29T22:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-29",
@@ -1911,6 +1781,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
   },
   {
    "fuente": "cinemark",
@@ -2629,19 +2512,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-30",
-   "inicio": "2026-11-30T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "PUEDES VERLO TODO",
    "diaDeCine": "2026-11-30",
@@ -2655,13 +2525,13 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
+   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-30",
-   "inicio": "2026-11-30T22:30",
+   "inicio": "2026-11-30T22:20",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 2",
+   "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
@@ -2678,6 +2548,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -2708,19 +2591,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-30",
-   "inicio": "2026-11-30T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-30",
    "inicio": "2026-11-30T23:00",
@@ -2730,6 +2600,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -2785,19 +2668,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-12-01",
@@ -2805,6 +2675,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -3396,19 +3279,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "PUEDES VERLO TODO",
-   "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
-   "duracion": 174
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-12-01",
@@ -3419,6 +3289,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "PUEDES VERLO TODO",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T22:20",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
+   "duracion": 174
   },
   {
    "fuente": "cinemark",
@@ -3475,19 +3358,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-12-01",
    "inicio": "2026-12-01T23:00",
@@ -3497,6 +3367,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "YO SOY ROCKY",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
+   "duracion": 127
   },
   {
    "fuente": "cinemark",
@@ -3552,19 +3435,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-12-02",
-   "inicio": "2026-12-02T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-12-02",
@@ -3572,6 +3442,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -4332,19 +4215,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "SPIDER-MAN: UN (NUEVO) NUEVO DÍA",
-   "diaDeCine": "2026-12-04",
-   "inicio": "2026-12-04T22:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/spider-man-un-nuevo-nuevo-dia",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013504.jpg",
-   "duracion": 163
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "SPIDER-MAN: UN (NUEVO) NUEVO DÍA",
    "diaDeCine": "2026-12-04",
@@ -4352,6 +4222,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/spider-man-un-nuevo-nuevo-dia",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013504.jpg",
+   "duracion": 163
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "SPIDER-MAN: UN (NUEVO) NUEVO DÍA",
+   "diaDeCine": "2026-12-04",
+   "inicio": "2026-12-04T22:00",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/spider-man-un-nuevo-nuevo-dia",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013504.jpg",
    "duracion": 163
@@ -4410,19 +4293,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "SPIDER-MAN: UN (NUEVO) NUEVO DÍA",
-   "diaDeCine": "2026-12-06",
-   "inicio": "2026-12-06T22:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/spider-man-un-nuevo-nuevo-dia",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013504.jpg",
-   "duracion": 163
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "SPIDER-MAN: UN (NUEVO) NUEVO DÍA",
    "diaDeCine": "2026-12-06",
@@ -4430,6 +4300,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/spider-man-un-nuevo-nuevo-dia",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013504.jpg",
+   "duracion": 163
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "SPIDER-MAN: UN (NUEVO) NUEVO DÍA",
+   "diaDeCine": "2026-12-06",
+   "inicio": "2026-12-06T22:00",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/spider-man-un-nuevo-nuevo-dia",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013504.jpg",
    "duracion": 163
@@ -4770,7 +4653,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4783,7 +4666,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4796,7 +4679,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4809,7 +4692,7 @@
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4822,7 +4705,20 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-15",
+   "inicio": "2026-12-16T00:40",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4835,7 +4731,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4848,7 +4744,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4861,7 +4757,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4874,7 +4770,7 @@
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4887,7 +4783,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4900,7 +4796,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4913,7 +4809,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4939,7 +4835,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4952,7 +4848,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4965,7 +4861,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4978,7 +4874,7 @@
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -4991,7 +4887,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5004,7 +4900,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5017,7 +4913,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5030,7 +4926,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5056,7 +4952,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5069,7 +4965,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5082,7 +4978,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5095,7 +4991,7 @@
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5108,7 +5004,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5121,20 +5017,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-16",
-   "inicio": "2026-12-16T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5147,7 +5030,20 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-16",
+   "inicio": "2026-12-16T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5173,7 +5069,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5186,7 +5082,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5199,7 +5095,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5212,7 +5108,7 @@
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5225,7 +5121,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5238,7 +5134,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5264,7 +5160,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5277,7 +5173,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5303,7 +5199,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5316,7 +5212,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5329,7 +5225,7 @@
    "sala": "Sala 6",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5342,7 +5238,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5355,7 +5251,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5368,7 +5264,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5394,7 +5290,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5407,7 +5303,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5420,7 +5316,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5433,7 +5329,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5446,7 +5342,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5459,7 +5355,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5472,7 +5368,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5485,7 +5381,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5511,7 +5407,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5524,7 +5420,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5537,7 +5433,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5550,7 +5446,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5563,7 +5459,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5576,7 +5472,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5593,19 +5489,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-17",
-   "inicio": "2026-12-17T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-17",
@@ -5615,7 +5498,20 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-17",
+   "inicio": "2026-12-17T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5628,7 +5524,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5641,7 +5537,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5654,7 +5550,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5667,7 +5563,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5680,7 +5576,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5693,7 +5589,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5732,7 +5628,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5745,7 +5641,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5758,7 +5654,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5771,7 +5667,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5784,7 +5680,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5797,7 +5693,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5823,7 +5719,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5836,7 +5732,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5849,7 +5745,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5862,7 +5758,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5875,7 +5771,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5888,7 +5784,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5901,7 +5797,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5914,7 +5810,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5940,7 +5836,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5953,7 +5849,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5966,7 +5862,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5979,7 +5875,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -5992,7 +5888,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6005,7 +5901,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6022,19 +5918,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-18",
-   "inicio": "2026-12-18T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-18",
@@ -6044,7 +5927,20 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6057,7 +5953,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6070,7 +5966,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6083,7 +5979,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6096,7 +5992,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6109,7 +6005,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6122,7 +6018,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6161,7 +6057,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6174,7 +6070,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6187,7 +6083,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6200,7 +6096,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6213,7 +6109,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6226,7 +6122,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6239,7 +6135,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6252,7 +6148,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6278,7 +6174,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6291,7 +6187,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6304,7 +6200,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6317,7 +6213,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6330,7 +6226,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6343,7 +6239,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6356,7 +6252,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6369,7 +6265,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6395,7 +6291,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6408,7 +6304,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6421,7 +6317,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6434,7 +6330,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6447,7 +6343,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6460,7 +6356,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6486,7 +6382,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6499,7 +6395,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6512,7 +6408,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6525,7 +6421,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6538,7 +6434,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6551,7 +6447,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6564,7 +6460,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6577,7 +6473,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6616,7 +6512,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6629,7 +6525,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6642,7 +6538,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6655,7 +6551,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6668,7 +6564,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6681,7 +6577,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6694,7 +6590,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6707,7 +6603,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6720,7 +6616,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6746,7 +6642,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6759,7 +6655,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6772,7 +6668,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6785,7 +6681,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6798,7 +6694,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6811,7 +6707,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6824,7 +6720,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6837,7 +6733,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6863,7 +6759,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6876,7 +6772,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6889,7 +6785,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6902,7 +6798,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6915,7 +6811,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6928,7 +6824,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6945,19 +6841,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-20",
-   "inicio": "2026-12-20T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-20",
@@ -6967,7 +6850,20 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6980,7 +6876,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -6993,7 +6889,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7006,7 +6902,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7019,7 +6915,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7032,7 +6928,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7045,7 +6941,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7084,7 +6980,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7097,7 +6993,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7110,7 +7006,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7123,7 +7019,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7136,7 +7032,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7162,7 +7058,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7175,7 +7071,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7188,7 +7084,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7201,7 +7097,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7214,7 +7110,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7227,7 +7123,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7240,7 +7136,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7253,7 +7149,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7279,7 +7175,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7292,7 +7188,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7305,7 +7201,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7318,7 +7214,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7331,7 +7227,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7344,7 +7240,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7370,7 +7266,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7383,7 +7279,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7396,7 +7292,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7409,7 +7305,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7422,7 +7318,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7435,7 +7331,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7448,7 +7344,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7461,7 +7357,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7500,7 +7396,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7513,7 +7409,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7526,7 +7422,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7539,7 +7435,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7552,7 +7448,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7578,7 +7474,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7591,7 +7487,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7604,7 +7500,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7617,7 +7513,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7630,7 +7526,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7643,7 +7539,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7656,7 +7552,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7669,7 +7565,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7695,7 +7591,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7708,7 +7604,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7721,7 +7617,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7734,7 +7630,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7747,7 +7643,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7760,7 +7656,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7786,7 +7682,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7799,7 +7695,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7812,7 +7708,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7825,7 +7721,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7838,7 +7734,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7851,7 +7747,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7864,7 +7760,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7877,7 +7773,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7916,7 +7812,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7929,7 +7825,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7942,7 +7838,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7955,7 +7851,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7968,7 +7864,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -7994,7 +7890,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8007,7 +7903,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8020,7 +7916,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8033,7 +7929,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8046,7 +7942,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8059,7 +7955,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8072,7 +7968,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8085,7 +7981,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8111,7 +8007,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8124,7 +8020,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8137,7 +8033,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8150,7 +8046,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8163,7 +8059,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8176,7 +8072,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8193,19 +8089,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-23",
-   "inicio": "2026-12-23T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-23",
@@ -8215,7 +8098,20 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-23",
+   "inicio": "2026-12-23T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8228,7 +8124,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8241,7 +8137,7 @@
    "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8254,7 +8150,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8267,7 +8163,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8280,7 +8176,7 @@
    "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8293,7 +8189,7 @@
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8332,7 +8228,7 @@
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8345,7 +8241,7 @@
    "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",
@@ -8358,7 +8254,7 @@
    "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
+   "duracion": 150
   },
   {
    "fuente": "cinemark",

@@ -1,17 +1,18 @@
 {
- "generado": "2026-11-27T16:37",
+ "generado": "2026-11-27T18:45",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-27T16:37"
+   "actualizado": "2026-11-27T18:45"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-27T16:37"
+   "actualizado": "2026-11-27T18:45"
   },
   "cinemacenter": {
-   "ok": true,
-   "actualizado": "2026-11-27T16:37"
+   "ok": false,
+   "actualizado": "2026-11-27T16:37",
+   "error": "The operation timed out. en https://www.cinemacenter.com.ar/horarios"
   }
  },
  "peliculas": [
@@ -20,22 +21,6 @@
    "titulo": "HECHIZO: BIENVENIDOS A HEXE",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F491%2Fprimario.png?alt=media",
    "duracion": 94,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt34966140",
-   "titulo": "LA NUEVA FOCKER",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105,
-   "idiomaOriginal": "otro",
-   "decididoPor": "Wikidata (idioma original: en)"
-  },
-  {
-   "id": "tt32558705",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -52,6 +37,22 @@
    "titulo": "YO SOY ROCKY",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt32558705",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158,
+   "idiomaOriginal": "otro",
+   "decididoPor": "Wikidata (idioma original: en)"
+  },
+  {
+   "id": "tt34966140",
+   "titulo": "LA NUEVA FOCKER",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -107,7 +108,7 @@
    "id": "tt21357150",
    "titulo": "AVENGERS: DOOMSDAY",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165,
+   "duracion": 150,
    "idiomaOriginal": "otro",
    "decididoPor": "Wikidata (idioma original: en)"
   },
@@ -138,80 +139,17 @@
  ],
  "funciones": [
   {
-   "cine": "lastipas",
-   "pelicula": "tt38077943",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:00",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3568&pid=550",
-   "estado": "ok"
-  },
-  {
    "cine": "altagracia",
    "pelicula": "tt2321555",
    "diaDeCine": "2026-11-27",
    "inicio": "2026-11-27T16:50",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18891&pid=461",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6078",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt7526136",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3431&pid=522",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt38773219",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3502&pid=577",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38077943",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 6",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt34966140",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3478&pid=551",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt38077943",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "estado": "ok"
   },
   {
    "cine": "altagracia",
@@ -220,67 +158,11 @@
    "inicio": "2026-11-27T17:30",
    "formato": "2D",
    "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18864&pid=491",
-   "estado": "ok",
+   "compra": "https://www.cinemacenter.com.ar/ficha/6132",
+   "estado": "una_fuente",
    "segun": {
-    "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38077943",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:35",
-   "formato": "3D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "estado": "ok"
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt34966140",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:45",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt34966140",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:45",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38077943",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:00",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 2",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:05",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 7",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
   },
   {
    "cine": "lastipas",
@@ -290,17 +172,6 @@
    "formato": "2D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3637&pid=553",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -316,17 +187,6 @@
     "cinexo": "CAST",
     "cinemacenter": "CAST"
    }
-  },
-  {
-   "cine": "nuevocentro",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T18:40",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
   },
   {
    "cine": "patioolmos",
@@ -752,17 +612,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt11995650",
    "diaDeCine": "2026-11-27",
    "inicio": "2026-11-27T23:00",
@@ -770,6 +619,17 @@
    "version": "SUB",
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -1733,17 +1593,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt32558705",
    "diaDeCine": "2026-11-28",
    "inicio": "2026-11-28T23:00",
@@ -1751,6 +1600,17 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "estado": "ok"
   },
   {
@@ -3665,17 +3525,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-30",
-   "inicio": "2026-11-30T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt11995650",
    "diaDeCine": "2026-11-30",
    "inicio": "2026-11-30T23:00",
@@ -3683,6 +3532,17 @@
    "version": "SUB",
    "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt32558705",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "estado": "ok"
   },
   {
@@ -4543,17 +4403,6 @@
   },
   {
    "cine": "patioolmos",
-   "pelicula": "tt11995650",
-   "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
    "pelicula": "tt32558705",
    "diaDeCine": "2026-12-01",
    "inicio": "2026-12-01T23:00",
@@ -4561,6 +4410,17 @@
    "version": "SUB",
    "sala": "Sala 5",
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "estado": "ok"
+  },
+  {
+   "cine": "patioolmos",
+   "pelicula": "tt11995650",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "estado": "ok"
   },
   {
@@ -6037,6 +5897,17 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "estado": "ok"
+  },
+  {
+   "cine": "nuevocentro",
+   "pelicula": "tt21357150",
+   "diaDeCine": "2026-12-15",
+   "inicio": "2026-12-16T00:40",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "estado": "ok"
   },

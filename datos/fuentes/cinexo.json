@@ -1,18 +1,6 @@
 {
- "actualizado": "2026-11-27T16:37",
+ "actualizado": "2026-11-27T18:45",
  "funciones": [
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "El corazón de la bestia",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3431&pid=522",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F522%2Fprimario.png?alt=media",
-   "duracion": 102
-  },
   {
    "fuente": "cinexo",
    "cine": "lastipas",
@@ -30,36 +18,12 @@
    "cine": "lastipas",
    "titulo": "Hechizo: Bienvenidos a Hexe 4D+3D XL",
    "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:00",
-   "formato": "4D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3568&pid=550",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
-   "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Hechizo: Bienvenidos a Hexe 4D+3D XL",
-   "diaDeCine": "2026-11-27",
    "inicio": "2026-11-27T19:00",
    "formato": "4D",
    "version": "CAST",
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3569&pid=550",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "La nueva Focker",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:20",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3478&pid=551",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F551%2Fprimario.png?alt=media",
-   "duracion": 105
   },
   {
    "fuente": "cinexo",
@@ -132,18 +96,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3423&pid=576",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F576%2Fprimario.png?alt=media",
    "duracion": 158
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ebenezer: Los fantasmas de Navidad",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3502&pid=577",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F577%2Fprimario.png?alt=media",
-   "duracion": 116
   },
   {
    "fuente": "cinexo",
@@ -2097,30 +2049,6 @@
    "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18842&pid=407",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F407%2Fprimario.png?alt=media",
    "duracion": 120
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18891&pid=461",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F461%2Fprimario.png?alt=media",
-   "duracion": 100
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "altagracia",
-   "titulo": "HECHIZO: BIENVENIDOS A HEZE",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T17:30",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cinealtagracia.com.ar/es-AR/compra?cid=4000&fid=18864&pid=491",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F4000%2F491%2Fprimario.png?alt=media",
-   "duracion": 94
   },
   {
    "fuente": "cinexo",
