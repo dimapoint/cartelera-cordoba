@@ -1,58 +1,6 @@
 {
- "actualizado": "2026-11-27T15:57",
+ "actualizado": "2026-11-27T16:23",
  "funciones": [
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:10",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:20",
-   "formato": "2D · D-BOX",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "EL GATO CON SOMBRERO",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T16:20",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/el-gato-con-sombrero",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012620.jpg",
-   "duracion": 114
-  },
   {
    "fuente": "cinemark",
    "cine": "nuevocentro",
@@ -419,19 +367,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T22:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-27",
@@ -442,6 +377,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-27",
+   "inicio": "2026-11-27T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
   },
   {
    "fuente": "cinemark",
@@ -1160,19 +1108,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "PUEDES VERLO TODO",
    "diaDeCine": "2026-11-28",
@@ -1186,13 +1121,13 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
+   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T22:30",
+   "inicio": "2026-11-28T22:20",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 2",
+   "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
@@ -1209,6 +1144,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -1239,19 +1187,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-11-28",
-   "inicio": "2026-11-28T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-11-28",
    "inicio": "2026-11-28T23:00",
@@ -1261,6 +1196,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-11-28",
+   "inicio": "2026-11-28T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -1316,19 +1264,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-29",
-   "inicio": "2026-11-29T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-11-29",
@@ -1336,6 +1271,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -1927,19 +1875,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "PUEDES VERLO TODO",
-   "diaDeCine": "2026-11-29",
-   "inicio": "2026-11-29T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
-   "duracion": 174
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-29",
@@ -1950,6 +1885,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "PUEDES VERLO TODO",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T22:20",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
+   "duracion": 174
   },
   {
    "fuente": "cinemark",
@@ -2006,19 +1954,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-11-29",
-   "inicio": "2026-11-29T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-29",
    "inicio": "2026-11-29T23:00",
@@ -2028,6 +1963,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "YO SOY ROCKY",
+   "diaDeCine": "2026-11-29",
+   "inicio": "2026-11-29T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
+   "duracion": 127
   },
   {
    "fuente": "cinemark",
@@ -2083,19 +2031,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-30",
-   "inicio": "2026-11-30T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-11-30",
@@ -2103,6 +2038,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 3",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -2720,19 +2668,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-11-30",
-   "inicio": "2026-11-30T22:30",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 3",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-11-30",
@@ -2743,6 +2678,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-11-30",
+   "inicio": "2026-11-30T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
   },
   {
    "fuente": "cinemark",
@@ -3461,19 +3409,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 1",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "PUEDES VERLO TODO",
    "diaDeCine": "2026-12-01",
@@ -3487,13 +3422,13 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
+   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T22:30",
+   "inicio": "2026-12-01T22:20",
    "formato": "2D",
    "version": "SUB",
-   "sala": "Sala 2",
+   "sala": "Sala 1",
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
@@ -3510,6 +3445,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T22:30",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 2",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -3540,19 +3488,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
-   "diaDeCine": "2026-12-01",
-   "inicio": "2026-12-01T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
-   "duracion": 158
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "YO SOY ROCKY",
    "diaDeCine": "2026-12-01",
    "inicio": "2026-12-01T23:00",
@@ -3562,6 +3497,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
    "duracion": 127
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
+   "diaDeCine": "2026-12-01",
+   "inicio": "2026-12-01T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
+   "duracion": 158
   },
   {
    "fuente": "cinemark",
@@ -3617,19 +3565,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "LA NUEVA FOCKER",
-   "diaDeCine": "2026-12-02",
-   "inicio": "2026-12-02T12:50",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
-   "duracion": 105
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LA NUEVA FOCKER",
    "diaDeCine": "2026-12-02",
@@ -3637,6 +3572,19 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 3",
+   "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
+   "duracion": 105
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "LA NUEVA FOCKER",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T12:50",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/la-nueva-focker",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013425.jpg",
    "duracion": 105
@@ -4228,19 +4176,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "PUEDES VERLO TODO",
-   "diaDeCine": "2026-12-02",
-   "inicio": "2026-12-02T22:20",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
-   "duracion": 174
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-12-02",
@@ -4251,6 +4186,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "PUEDES VERLO TODO",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T22:20",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 5",
+   "compra": "https://www.cinemark.com.ar/pelicula/puedes-verlo-todo",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013413.jpg",
+   "duracion": 174
   },
   {
    "fuente": "cinemark",
@@ -4307,19 +4255,6 @@
   {
    "fuente": "cinemark",
    "cine": "patioolmos",
-   "titulo": "YO SOY ROCKY",
-   "diaDeCine": "2026-12-02",
-   "inicio": "2026-12-02T23:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
-   "duracion": 127
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
    "titulo": "LOS JUEGOS DEL HAMBRE: AMANECER EN LA COSECHA",
    "diaDeCine": "2026-12-02",
    "inicio": "2026-12-02T23:00",
@@ -4329,6 +4264,19 @@
    "compra": "https://www.cinemark.com.ar/pelicula/los-juegos-del-hambre-amanecer-en-la-cosecha",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013363.jpg",
    "duracion": 158
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "YO SOY ROCKY",
+   "diaDeCine": "2026-12-02",
+   "inicio": "2026-12-02T23:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/yo-soy-rocky",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013365.jpg",
+   "duracion": 127
   },
   {
    "fuente": "cinemark",
@@ -6087,19 +6035,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-18",
-   "inicio": "2026-12-18T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-18",
@@ -6107,6 +6042,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-18",
+   "inicio": "2026-12-18T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -6542,19 +6490,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-19",
-   "inicio": "2026-12-19T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-19",
@@ -6562,6 +6497,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-19",
+   "inicio": "2026-12-19T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7010,19 +6958,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-20",
-   "inicio": "2026-12-20T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "nuevocentro",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-20",
@@ -7030,6 +6965,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "patioolmos",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-20",
+   "inicio": "2026-12-20T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 8",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -7426,19 +7374,6 @@
   },
   {
    "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "AVENGERS: DOOMSDAY",
-   "diaDeCine": "2026-12-21",
-   "inicio": "2026-12-21T19:10",
-   "formato": "2D",
-   "version": "CAST",
-   "sala": "Sala 4",
-   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
-   "duracion": 165
-  },
-  {
-   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "AVENGERS: DOOMSDAY",
    "diaDeCine": "2026-12-21",
@@ -7446,6 +7381,19 @@
    "formato": "2D",
    "version": "CAST",
    "sala": "Sala 8",
+   "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
+   "duracion": 165
+  },
+  {
+   "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "AVENGERS: DOOMSDAY",
+   "diaDeCine": "2026-12-21",
+   "inicio": "2026-12-21T19:10",
+   "formato": "2D",
+   "version": "CAST",
+   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/avengers-doomsday",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00012878.jpg",
    "duracion": 165
@@ -8427,6 +8375,19 @@
   },
   {
    "fuente": "cinemark",
+   "cine": "nuevocentro",
+   "titulo": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA",
+   "diaDeCine": "2026-12-29",
+   "inicio": "2026-12-29T14:00",
+   "formato": "2D",
+   "version": "SUB",
+   "sala": "Sala 4",
+   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
+   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
+   "duracion": 195
+  },
+  {
+   "fuente": "cinemark",
    "cine": "patioolmos",
    "titulo": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA",
    "diaDeCine": "2026-12-29",
@@ -8447,19 +8408,6 @@
    "formato": "2D",
    "version": "SUB",
    "sala": "Sala 5",
-   "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
-   "duracion": 195
-  },
-  {
-   "fuente": "cinemark",
-   "cine": "nuevocentro",
-   "titulo": "BTS WORLD TOUR 'ARIRANG' IN JAKARTA",
-   "diaDeCine": "2026-12-29",
-   "inicio": "2026-12-29T14:00",
-   "formato": "2D",
-   "version": "SUB",
-   "sala": "Sala 4",
    "compra": "https://www.cinemark.com.ar/pelicula/bts-world-tour-arirang-in-jakarta",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013348.jpg",
    "duracion": 195
