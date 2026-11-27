@@ -1,18 +1,17 @@
 {
- "generado": "2026-11-27T15:31",
+ "generado": "2026-11-27T15:37",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-27T15:31"
+   "actualizado": "2026-11-27T15:37"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-27T15:31"
+   "actualizado": "2026-11-27T15:37"
   },
   "cinemacenter": {
-   "ok": false,
-   "actualizado": "2026-11-27T15:28",
-   "error": "The operation timed out. en https://www.cinemacenter.com.ar/horarios"
+   "ok": true,
+   "actualizado": "2026-11-27T15:37"
   }
  },
  "peliculas": [
