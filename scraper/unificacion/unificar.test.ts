@@ -155,6 +155,11 @@ describe("unificar", () => {
     expect(peliculas[0]).toMatchObject({ id: "titulo:algo nuevo", titulo: "ALGO NUEVO", idiomaOriginal: "desconocido" })
   })
 
+  test("el año que publica el cine queda en el título, para distinguir el reestreno", async () => {
+    const { peliculas } = await correr([cruda({ fuente: "cinemark", cine: "nuevocentro", titulo: "DUNA (2021) - 2D SUB" })])
+    expect(peliculas[0].titulo).toBe("DUNA (2021)")
+  })
+
   test("ordena por hora de inicio", async () => {
     const { funciones } = await correr([
       cruda({ cine: "lastipas", inicio: "2026-11-18T22:00" }),

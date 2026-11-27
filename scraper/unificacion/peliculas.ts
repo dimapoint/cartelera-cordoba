@@ -4,6 +4,13 @@ import { claveDe, limpiarTitulo } from "../texto"
 
 const SIN_DECISION: Decision = { idiomaOriginal: "desconocido", decididoPor: "sin datos" }
 
+/** Título limpio para la página; conserva el año explícito para distinguir "DUNA (2021)" de las secuelas. */
+function tituloVisible(crudo: string): string {
+  const { titulo, banderas } = limpiarTitulo(crudo)
+  const anio = banderas.find((bandera) => bandera.startsWith("anio_"))?.slice("anio_".length)
+  return anio ? `${titulo} (${anio})` : titulo
+}
+
 /**
  * Identifica la película de cada función. Dos títulos distintos con el mismo id de IMDb
  * son la misma película; sin IMDb, decide el título normalizado.
@@ -22,7 +29,7 @@ export function crearRegistroPeliculas(decisiones: Map<string, Decision>) {
       } else {
         peliculas.set(id, {
           id,
-          titulo: limpiarTitulo(cruda.titulo).titulo,
+          titulo: tituloVisible(cruda.titulo),
           poster: cruda.poster,
           duracion: cruda.duracion,
           idiomaOriginal: decision.idiomaOriginal,
