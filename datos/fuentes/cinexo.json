@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T15:02",
+ "actualizado": "2026-11-27T15:10",
  "funciones": [
   {
    "fuente": "cinexo",
@@ -48,18 +48,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3569&pid=550",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F550%2Fprimario.png?alt=media",
    "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "La nueva Focker",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T14:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3477&pid=551",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F551%2Fprimario.png?alt=media",
-   "duracion": 105
   },
   {
    "fuente": "cinexo",
@@ -120,18 +108,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3480&pid=551",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F551%2Fprimario.png?alt=media",
    "duracion": 105
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Los juegos del hambre: Amanecer en la cosecha 4D+2D",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T15:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3636&pid=553",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F553%2Fprimario.png?alt=media",
-   "duracion": 150
   },
   {
    "fuente": "cinexo",

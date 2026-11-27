@@ -1,19 +1,6 @@
 {
- "actualizado": "2026-11-27T15:02",
+ "actualizado": "2026-11-27T15:10",
  "funciones": [
-  {
-   "fuente": "cinemark",
-   "cine": "patioolmos",
-   "titulo": "HECHIZO: BIENVENIDOS A HEXE",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T15:05",
-   "formato": "3D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013448.jpg",
-   "duracion": 109
-  },
   {
    "fuente": "cinemark",
    "cine": "nuevocentro",

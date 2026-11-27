@@ -1,18 +1,17 @@
 {
- "generado": "2026-11-27T15:02",
+ "generado": "2026-11-27T15:10",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-27T15:02"
+   "actualizado": "2026-11-27T15:10"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-27T15:02"
+   "actualizado": "2026-11-27T15:10"
   },
   "cinemacenter": {
-   "ok": false,
-   "actualizado": "2026-11-27T14:59",
-   "error": "The operation timed out. en https://www.cinemacenter.com.ar/horarios"
+   "ok": true,
+   "actualizado": "2026-11-27T15:10"
   }
  },
  "peliculas": [
@@ -138,37 +137,6 @@
   }
  ],
  "funciones": [
-  {
-   "cine": "lastipas",
-   "pelicula": "tt34966140",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T14:50",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3477&pid=551",
-   "estado": "ok"
-  },
-  {
-   "cine": "lastipas",
-   "pelicula": "tt32558705",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T15:00",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3636&pid=553",
-   "estado": "ok"
-  },
-  {
-   "cine": "patioolmos",
-   "pelicula": "tt38077943",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T15:05",
-   "formato": "3D",
-   "version": "CAST",
-   "sala": "Sala 8",
-   "compra": "https://www.cinemark.com.ar/pelicula/hechizo-bienvenidos-a-hexe",
-   "estado": "ok"
-  },
   {
    "cine": "nuevocentro",
    "pelicula": "tt32558705",
