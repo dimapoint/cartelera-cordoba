@@ -24,7 +24,7 @@ jobs:
       name: github-pages
       url: ${{ steps.publicar_reintento.outputs.page_url || steps.publicar.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - uses: oven-sh/setup-bun@v2
         with:
           bun-version: "1.4.3"
@@ -47,21 +47,21 @@ jobs:
           git diff --cached --quiet || (git commit -m "chore(datos): actualizar cartelera" && git pull --rebase -X theirs -q && git push)
 
       - run: bun run build
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: dist
       # deploy-pages a veces no encuentra el artefacto recién subido (lag de la API de GitHub):
       # se reintenta una vez tras una pausa antes de dar el deploy por fallido.
       - id: publicar
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         continue-on-error: true
       - name: Pausa antes de reintentar el deploy
         if: steps.publicar.outcome == 'failure'
         run: sleep 60
       - id: publicar_reintento
         if: steps.publicar.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
       - name: Avisar si alguna fuente falló
         if: steps.scraper.outcome == 'failure'
