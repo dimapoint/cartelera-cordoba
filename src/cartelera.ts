@@ -11,6 +11,14 @@ export function esVisible(funcion: Funcion, pelicula: Pelicula, verDudosas: bool
   return verDudosas && pelicula.idiomaOriginal === "desconocido"
 }
 
+/** Si alguna función de la cartelera solo se ve pidiendo las dudosas; si no hay ninguna, la casilla sobra. */
+export function hayDudosas(funciones: Funcion[], peliculas: Map<string, Pelicula>): boolean {
+  return funciones.some((funcion) => {
+    const pelicula = peliculas.get(funcion.pelicula)!
+    return esVisible(funcion, pelicula, true) && !esVisible(funcion, pelicula, false)
+  })
+}
+
 /** Fuentes caídas que sí importan: las opcionales no avisan en la página ni hacen fallar la Action. */
 export function fuentesCriticasCaidas(fuentes: Record<Fuente, EstadoFuente>): Fuente[] {
   return (Object.entries(fuentes) as [Fuente, EstadoFuente][])

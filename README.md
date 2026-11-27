@@ -31,7 +31,7 @@ Como en la cartelera de un diario, se anota solo lo que se sale de lo normal. Un
 |---|---|
 | `D-BOX`, `4D`, `3D`… | Formato distinto de 2D |
 | `cast.` | Hablada en castellano (película hispanohablante) |
-| `cast.?` | En castellano de una película cuyo idioma original no se pudo confirmar. Estas funciones quedan ocultas hasta que se tilda «Incluir castellano sin idioma confirmado» |
+| `cast.?` | En castellano de una película cuyo idioma original no se pudo confirmar. Estas funciones quedan ocultas hasta que se tilda «Mostrar funciones en castellano de películas sin idioma confirmado», una casilla que solo aparece cuando hay alguna |
 | `†` en rojo | Los dos sitios de Alta Gracia no coinciden en si la función es subtitulada o doblada |
 | `?` en gris | Figura en cinealtagracia.com.ar pero sin venta; ese día el cine suele estar cerrado |
 | `(solo cinealtagracia)`, `(solo Cinemacenter)` | La función figura en uno solo de los dos sitios de Alta Gracia, en la semana que publican ambos |

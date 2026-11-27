@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react"
-import { agruparPorPelicula, diasConFunciones, esVisible } from "./cartelera"
+import { agruparPorPelicula, diasConFunciones, esVisible, hayDudosas } from "./cartelera"
 import { CINES } from "./cines"
 import { AvisosFuentes } from "./componentes/AvisosFuentes"
 import { Cabecera } from "./componentes/Cabecera"
@@ -22,6 +22,7 @@ export function App() {
     () => (cartelera?.funciones ?? []).filter((funcion) => esVisible(funcion, peliculas.get(funcion.pelicula)!, verDudosas)),
     [cartelera, peliculas, verDudosas],
   )
+  const conDudosas = useMemo(() => hayDudosas(cartelera?.funciones ?? [], peliculas), [cartelera, peliculas])
   const dias = useMemo(() => diasConFunciones(visibles), [visibles])
   const dia = diaElegido && dias.includes(diaElegido) ? diaElegido : dias[0]
   const grupos = useMemo(() => (dia ? agruparPorPelicula(visibles, peliculas, dia, cinesElegidos) : []), [visibles, peliculas, dia, cinesElegidos])
@@ -49,7 +50,7 @@ export function App() {
       />
       <main className="contenedor">
         <AvisosFuentes fuentes={cartelera.fuentes} />
-        <FiltroDudosas verDudosas={verDudosas} alCambiarDudosas={setVerDudosas} />
+        {conDudosas && <FiltroDudosas verDudosas={verDudosas} alCambiarDudosas={setVerDudosas} />}
         {grupos.length === 0 && (
           <div className="vacio">
             <p className="vacio-titulo">No hay funciones en versión original</p>

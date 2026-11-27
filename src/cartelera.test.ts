@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { agruparDiasPorMes, agruparPorPelicula, diasConFunciones, esVisible, etiquetaDelDia, formatearMarca, fuentesCriticasCaidas } from "./cartelera"
+import { agruparDiasPorMes, agruparPorPelicula, diasConFunciones, esVisible, etiquetaDelDia, formatearMarca, fuentesCriticasCaidas, hayDudosas } from "./cartelera"
 import { ahoraEnCordoba, sumarDias } from "./fechas"
 import type { Cine, Funcion, IdiomaOriginal, Pelicula } from "./tipos"
 
@@ -26,6 +26,20 @@ describe("esVisible: la regla del usuario", () => {
   test("un conflicto donde algún sitio dice SUB se muestra, para que el aviso se vea", () => {
     expect(esVisible(funcion({ estado: "conflicto", segun: { cinexo: "CAST", cinemacenter: "SUB" } }), pelicula("otro"), false)).toBe(true)
   })
+})
+
+describe("hayDudosas: si la casilla tiene algo que mostrar", () => {
+  const peliculas = new Map([
+    ["tt1", pelicula("desconocido", "tt1")],
+    ["tt2", pelicula("es", "tt2")],
+    ["tt3", pelicula("otro", "tt3")],
+  ])
+  test("castellano de idioma desconocido es dudosa", () => expect(hayDudosas([funcion({ pelicula: "tt1" })], peliculas)).toBe(true))
+  test("subtitulada de idioma desconocido ya se ve: no cuenta", () => expect(hayDudosas([funcion({ pelicula: "tt1", version: "SUB" })], peliculas)).toBe(false))
+  test("castellano de hispanohablante o de extranjera no cambia con la casilla", () => {
+    expect(hayDudosas([funcion({ pelicula: "tt2" }), funcion({ pelicula: "tt3" })], peliculas)).toBe(false)
+  })
+  test("sin funciones no hay dudosas", () => expect(hayDudosas([], peliculas)).toBe(false))
 })
 
 describe("agruparPorPelicula", () => {

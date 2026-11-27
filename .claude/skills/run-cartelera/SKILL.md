@@ -143,4 +143,4 @@ Para rehacer los íconos tras tocar `public/icono.svg`: `bun run iconos` (usa Ed
 ## Troubleshooting
 
 - **`✗ cinexo: The operation timed out. (uso los datos de …)`**: el sitio tardó; ya hay reintentos. Volvé a correr `bun run actualizar`; la página mientras tanto avisa que muestra datos viejos.
-- **`Idioma desconocido: "…"`** en la salida del scraper: ni IMDb/Wikidata ni el anexo de películas argentinas lo resolvieron. Sus funciones en castellano quedan ocultas salvo con "Incluir castellano sin idioma confirmado". Fijalo en `datos/overrides.json`.
+- **`Idioma desconocido: "…"`** en la salida del scraper: ni IMDb/Wikidata ni el anexo de películas argentinas lo resolvieron. Sus funciones en castellano quedan ocultas salvo con "Mostrar funciones en castellano de películas sin idioma confirmado", una casilla que la página solo muestra cuando existe alguna función así (`hayDudosas` en `src/cartelera.ts`). Fijalo en `datos/overrides.json`.
