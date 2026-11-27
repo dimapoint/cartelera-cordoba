@@ -58,11 +58,19 @@ const estadoDelDia = (pagina: Page) =>
     avisosDeFuentes: [...document.querySelectorAll(".alerta")].map((nodo) => nodo.textContent),
   }))
 
+/** Anota un problema si el documento es más ancho que la ventana (la página se puede correr de costado). */
+async function revisarScrollHorizontal(pagina: Page, donde: string) {
+  const { documento, ventana } = await pagina.evaluate(() => ({ documento: document.documentElement.scrollWidth, ventana: document.documentElement.clientWidth }))
+  if (documento > ventana) problemas.push(`scroll horizontal en ${donde}: el documento mide ${documento}px y la ventana ${ventana}px`)
+}
+
 const navegador = await chromium.launch({ channel: process.env.NAVEGADOR ?? "msedge", headless: true })
 try {
   const escritorio = await navegador.newPage({ viewport: { width: 1100, height: 900 }, colorScheme: "dark" })
   await abrir(escritorio)
-  resumen.dias = await escritorio.$$eval(".dia", (nodos) => nodos.map((nodo) => nodo.textContent))
+  // Con muchos días en un mes, la tira tiene que bajar de renglón en vez de ensanchar la página.
+  await revisarScrollHorizontal(escritorio, "escritorio")
+  resumen.dias =await escritorio.$$eval(".dia", (nodos) => nodos.map((nodo) => nodo.textContent))
   resumen.primerDia = await estadoDelDia(escritorio)
   resumen.capturas = [await capturar(escritorio, "1-primer-dia")]
 
@@ -95,9 +103,13 @@ try {
 
   const celular = await navegador.newPage({ viewport: { width: 375, height: 812 }, colorScheme: "light", isMobile: true })
   await abrir(celular)
-  const anchoDocumento = await celular.evaluate(() => document.documentElement.scrollWidth)
-  if (anchoDocumento > 375) problemas.push(`scroll horizontal en celular: el documento mide ${anchoDocumento}px`)
+  await revisarScrollHorizontal(celular, "celular")
   ;(resumen.capturas as string[]).push(await capturar(celular, "4-celular-claro"))
+
+  // Entre 520 y 760 px la tira usa el diseño de escritorio con menos lugar.
+  const angosta = await navegador.newPage({ viewport: { width: 700, height: 900 }, colorScheme: "light" })
+  await abrir(angosta)
+  await revisarScrollHorizontal(angosta, "ventana de 700px")
 } catch (error) {
   problemas.push((error as Error).message)
 } finally {

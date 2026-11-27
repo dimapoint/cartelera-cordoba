@@ -67,7 +67,7 @@ curl -sf --retry 30 --retry-connrefused --retry-delay 1 -o /dev/null http://loca
 bun .claude/skills/run-cartelera/driver.ts
 ```
 
-Imprime un JSON con los días, el estado de cada vista (`tarjetas`, `funciones`, `cines`, `conflictos`, `sospechosas`, avisos de fuentes caídas) y `problemas` (respuestas HTTP ≥ 400, errores de consola, excepciones, scroll horizontal en celular, filtro de cines que no filtra). Sale con 1 si `problemas` no está vacío.
+Imprime un JSON con los días, el estado de cada vista (`tarjetas`, `funciones`, `cines`, `conflictos`, `sospechosas`, avisos de fuentes caídas) y `problemas` (respuestas HTTP ≥ 400, errores de consola, excepciones, scroll horizontal en escritorio de 1100 px, en una ventana de 700 px o en celular, filtro de cines que no filtra). Sale con 1 si `problemas` no está vacío.
 Capturas en `%TEMP%\cartelera-capturas\` (en Git Bash `/tmp` es `%TEMP%`: `/tmp/cartelera-capturas/`; otra carpeta como segundo argumento):
 `1-primer-dia.png` (escritorio oscuro), `2-segundo-dia.png`, `2b-ultimo-dia.png` (el día más lejano de la tira, donde están las preventas), `3-solo-alta-gracia.png` (filtro de cines), `4-celular-claro.png` (375 px). Mirarlas con Read. El JSON también trae `meses` (las etiquetas de la tira) y `ultimoDia`.
 Primer argumento opcional: otra URL (por ejemplo, la de GitHub Pages).
@@ -136,7 +136,7 @@ Para rehacer los íconos tras tocar `public/icono.svg`: `bun run iconos` (usa Ed
 - **Wikidata devuelve 403 con User-Agent de navegador**: usa `AGENTE_WIKIMEDIA`. El buscador de IMDb (`v3.sg.media-imdb.com`) no es oficial.
 - **Idioma original mal o película que sobra**: `datos/overrides.json`, por título como lo publica el cine: `{ "Cordobeces": { "ocultar": true } }` o `{ "X": { "idiomaOriginal": "es" } }`. Gana sobre todo lo demás.
 - **Capturas con pósters en blanco**: las imágenes son `loading=lazy`; el driver las fuerza a cargar antes de capturar y espera 300 ms.
-- **La tira de días agrupa por mes** (etiquetas "nov", "dic"; un renglón por mes en escritorio, una tira deslizable en celular). Las preventas de diciembre existen en los datos pero están lejos de hoy: para ver una, hacer clic en su día (por ejemplo, el 17/12) y comprobar que aparezcan Avengers y Duna.
+- **La tira de días agrupa por mes** (etiquetas "nov", "dic"; en escritorio un bloque por mes cuyos días bajan de renglón cuando no entran, en celular una tira deslizable). Si los días de un mes vuelven a ir en una sola fila sin corte, un mes con más de 12 días ensancha la página: el driver lo marca como scroll horizontal. Las preventas de diciembre existen en los datos pero están lejos de hoy: para ver una, hacer clic en su día (por ejemplo, el 17/12) y comprobar que aparezcan Avengers y Duna.
 - **La vista previa de Claude puede servir otra carpeta** si el proyecto se movió: si no aparecen los cambios, liberar el puerto 5173 y levantar `bun run dev` desde la carpeta correcta.
 - **Locators por `aria-pressed`** cambian al hacer clic: recorrer todos los `.chip` y mirar el atributo de cada uno.
 

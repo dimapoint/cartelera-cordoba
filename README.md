@@ -92,7 +92,7 @@ Para ver la página como la ve un usuario, con el servidor de desarrollo levanta
 bun .claude/skills/run-cartelera/driver.ts
 ```
 
-Usa el Edge o el Chrome instalado para recorrer los días y el filtro de cines, y sale con error si encuentra fallas de consola o scroll horizontal en celular. Las capturas quedan en la carpeta temporal del sistema. Los detalles, junto con las trampas conocidas de cada fuente, están en [`.claude/skills/run-cartelera/SKILL.md`](.claude/skills/run-cartelera/SKILL.md).
+Usa el Edge o el Chrome instalado para recorrer los días y el filtro de cines, y sale con error si encuentra fallas de consola o scroll horizontal, tanto en escritorio como en celular. Las capturas quedan en la carpeta temporal del sistema. Los detalles, junto con las trampas conocidas de cada fuente, están en [`.claude/skills/run-cartelera/SKILL.md`](.claude/skills/run-cartelera/SKILL.md).
 
 ## Corregir una película
 

@@ -88,10 +88,21 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   margin: 8px 0 0;
 }
 
-/* Un renglón por mes en escritorio; en celular una sola tira que se desliza. */
+/*
+ * En escritorio, un bloque por mes: los días bajan de renglón cuando no entran, en columnas
+ * del mismo ancho para todos los meses. En celular, una sola tira que se desliza.
+ */
 .dias { display: flex; flex-direction: column; border-bottom: 1px solid var(--filete); }
 .mes { display: flex; border-bottom: 1px solid var(--filete); }
 .mes:last-child { border-bottom: 0; }
+.mes-dias {
+  flex: 1;
+  min-width: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(52px, 1fr));
+  border-left: 1px solid var(--filete);
+  margin-bottom: -1px; /* el filete del último renglón se apoya sobre el del mes */
+}
 .mes-nombre {
   flex: none;
   width: 4.2rem;
@@ -108,9 +119,9 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   justify-items: center;
   min-width: 52px;
   padding: 8px 8px 7px;
-  border-left: 1px solid var(--filete);
+  border-right: 1px solid var(--filete);
+  border-bottom: 1px solid var(--filete);
 }
-.mes .dia:last-child { border-right: 1px solid var(--filete); }
 .dia-nombre { font: 500 0.62rem var(--mono); text-transform: uppercase; letter-spacing: 0.08em; color: var(--gris); }
 .dia-numero { font-size: 1.45rem; font-weight: 700; line-height: 1.05; font-variant-numeric: lining-nums tabular-nums; }
 .dia:hover .dia-numero { text-decoration: underline; text-underline-offset: 3px; }
@@ -210,6 +221,8 @@ a.horario:hover .hora { text-decoration: underline; text-underline-offset: 3px; 
   }
   .dias::-webkit-scrollbar { display: none; }
   .mes { flex: none; border-bottom: 0; }
+  .mes-dias { display: flex; margin-bottom: 0; }
+  .dia { border-bottom: 0; }
   .mes-nombre { width: 2.6rem; }
   .filtros { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 8px 16px 9px; }
   .filtros::-webkit-scrollbar { display: none; }
