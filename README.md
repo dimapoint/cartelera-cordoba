@@ -44,12 +44,12 @@ La página se puede instalar en el celular y abre sin conexión con los últimos
 Hay dos piezas. Un scraper en Bun baja los horarios, decide qué funciones sirven y escribe `public/cartelera.json`. Una página en React y Vite lee ese archivo y lo dibuja; no tiene backend.
 
 ```mermaid
-flowchart LR
-  A["Cinemark<br/>(JSON)"] --> D
-  B["Cinexo<br/>(API por fecha)"] --> D
-  C["Cinemacenter<br/>(HTML)"] --> D
-  D["Bajar fuentes<br/>resguardo en datos/fuentes"] --> E["Resolver idioma original<br/>cache en datos/idiomas.json"]
-  E --> F["Unificar<br/>cruce de Alta Gracia"]
+flowchart TD
+  A["Cinemark (JSON)"] --> D
+  B["Cinexo (API por fecha)"] --> D
+  C["Cinemacenter (HTML)"] --> D
+  D["Bajar fuentes, con resguardo en datos/fuentes"] --> E["Resolver idioma original, con cache en datos/idiomas.json"]
+  E --> F["Unificar y cruzar Alta Gracia"]
   F --> G{"Validar"}
   G -- pasa --> H["public/cartelera.json"]
   G -- no pasa --> I["Queda el JSON anterior"]
