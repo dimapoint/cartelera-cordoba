@@ -8,7 +8,7 @@ type Pendiente = { titulo: string; banderas: string[] }
 
 /** Fuentes externas; los tests las reemplazan para simular caídas sin red. */
 export type ClientesIdioma = {
-  buscarEnImdb: (titulo: string, anioMinimo: number) => Promise<string | undefined>
+  buscarEnImdb: (titulo: string, anioMinimo: number, anioMaximo?: number) => Promise<string | undefined>
   consultarWikidata: (idsImdb: string[]) => Promise<Map<string, FilaWikidata>>
   peliculasArgentinas: (anios: number[]) => Promise<Set<string>>
 }
@@ -57,6 +57,19 @@ function decisionConocida(override: Overrides[string] | undefined, banderas: str
   return enCache
 }
 
+/**
+ * Años en los que buscar en IMDb. Un año explícito en el título manda (con uno de margen, por la
+ * diferencia entre estreno mundial y local); un reestreno acepta cualquiera; si no, solo los últimos años.
+ */
+function rangoDeAnios(banderas: string[], anioActual: number): [number, number] {
+  const explicito = banderas.find((bandera) => bandera.startsWith("anio_"))
+  if (explicito) {
+    const anio = Number(explicito.slice(5))
+    return [anio - 1, anio + 1]
+  }
+  return [banderas.includes("reestreno") ? 0 : anioActual - 2, Infinity]
+}
+
 /** Consulta las fuentes externas para los títulos nuevos. Una fuente caída deja esos títulos sin decidir. */
 async function investigar(pendientes: Map<string, Pendiente>, anioActual: number, clientes: ClientesIdioma): Promise<Map<string, Decision>> {
   const resultado = new Map<string, Decision>()
@@ -65,7 +78,8 @@ async function investigar(pendientes: Map<string, Pendiente>, anioActual: number
   const imdbPorClave = new Map<string, string>()
   for (const [clave, { titulo, banderas }] of pendientes) {
     try {
-      const imdb = await clientes.buscarEnImdb(titulo, banderas.includes("reestreno") ? 0 : anioActual - 2)
+      const [desde, hasta] = rangoDeAnios(banderas, anioActual)
+      const imdb = await clientes.buscarEnImdb(titulo, desde, hasta)
       if (imdb) imdbPorClave.set(clave, imdb)
     } catch (error) {
       console.warn(`IMDb no respondió para "${titulo}": ${(error as Error).message}`)

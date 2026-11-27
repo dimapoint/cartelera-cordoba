@@ -35,6 +35,7 @@ describe("elegirSugerencia", () => {
   ]
   test("descarta homónimos viejos, cortos y personas", () => expect(elegirSugerencia(sugerencias, 2024)).toBe("tt3"))
   test("en un reestreno acepta cualquier año", () => expect(elegirSugerencia(sugerencias, 0)).toBe("tt1"))
+  test("con año máximo descarta las posteriores", () => expect(elegirSugerencia(sugerencias, 2020, 2022)).toBeUndefined())
   test("sin candidatas no inventa", () => expect(elegirSugerencia([{ id: "tt2", qid: "short", y: 2025 }], 2024)).toBeUndefined())
 })
 
@@ -54,10 +55,10 @@ describe("leerAnexo", () => {
 
 /** Clientes falsos que anotan cada consulta. */
 function clientesFalsos(respuestas: { imdb?: Record<string, string>; wikidata?: Record<string, FilaWikidata>; argentinas?: string[] } = {}) {
-  const consultas = { imdb: [] as [string, number][], wikidata: [] as string[][], anexo: 0 }
+  const consultas = { imdb: [] as [string, number, number?][], wikidata: [] as string[][], anexo: 0 }
   const clientes: ClientesIdioma = {
-    buscarEnImdb: async (titulo, anioMinimo) => {
-      consultas.imdb.push([titulo, anioMinimo])
+    buscarEnImdb: async (titulo, anioMinimo, anioMaximo) => {
+      consultas.imdb.push([titulo, anioMinimo, anioMaximo])
       if (titulo === "ROTA") throw new Error("HTTP 503")
       return respuestas.imdb?.[titulo]
     },
@@ -105,14 +106,24 @@ describe("resolverIdiomas", () => {
   test("el mismo título con distintos sufijos se consulta una sola vez", async () => {
     const { clientes, consultas } = clientesFalsos({ imdb: { "MADRE SINIESTRA": "tt1" }, wikidata: { tt1: { idiomas: ["en"], idiomasTitulo: [] } } })
     await resolverIdiomas(["MADRE SINIESTRA - 2D SUB", "MADRE SINIESTRA - 2D CAST", "Madre siniestra"], {}, {}, HOY, clientes)
-    expect(consultas.imdb).toEqual([["MADRE SINIESTRA", 2024]])
+    expect(consultas.imdb).toEqual([["MADRE SINIESTRA", 2024, Infinity]])
     expect(consultas.wikidata).toEqual([["tt1"]])
   })
 
   test("un reestreno busca sin límite de año", async () => {
     const { clientes, consultas } = clientesFalsos()
     await resolverIdiomas(["ROCKY 50° ANIVERSARIO"], {}, {}, HOY, clientes)
-    expect(consultas.imdb[0]).toEqual(["ROCKY", 0])
+    expect(consultas.imdb[0]).toEqual(["ROCKY", 0, Infinity])
+  })
+
+  test("el año del título acota la búsqueda: el reestreno no se confunde con la película nueva", async () => {
+    // "DUNA (2021)" buscado desde 2024 devolvía Duna: Parte Tres y las dos se unían en una sola película.
+    const { clientes, consultas } = clientesFalsos()
+    await resolverIdiomas(["DUNA (2021)", "DUNA: PARTE TRES"], {}, {}, HOY, clientes)
+    expect(consultas.imdb).toEqual([
+      ["DUNA", 2020, 2022],
+      ["DUNA: PARTE TRES", 2024, Infinity],
+    ])
   })
 
   test("si IMDb falla para un título, ese queda desconocido sin cachear y los demás se resuelven", async () => {

@@ -6,6 +6,7 @@ const MARCAS = new Set([
   "E-MOTION", "DIG", "INFINITY", "VISION", "HD",
 ])
 const PARENTESIS = /\s*[\(\[]([^\)\]]*)[\)\]]\s*/g
+const ANIO = /^\s*((?:19|20)\d{2})\s*$/
 const REESTRENO = /\bRE[\s-]?ESTRENO\b|\bANIVERSARIO\b|\bREMASTERIZAD[AO]\b|\bVERSI[OÓ]N EXTENDIDA\b/i
 const ANIVERSARIO = /\s+\d+\s*°?\s*ANIVERSARIO\s*$|\s+-\s*\d+\s*AÑOS\s*$/i
 const EVENTO = /\b(WORLD TOUR|TOUR|EN VIVO|LIVE|CONCIERTO|OPERA|BALLET|BOLSHOI)\b|ÓPERA/i
@@ -28,7 +29,10 @@ export function limpiarTitulo(crudo: string): { titulo: string; banderas: string
   let titulo = crudo.normalize("NFC").trim()
   const banderas = new Set<string>()
   for (const [, contenido] of titulo.matchAll(PARENTESIS)) {
-    if (REESTRENO.test(contenido)) banderas.add("reestreno")
+    const anio = contenido.match(ANIO)
+    // "DUNA (2021)": el año distingue el reestreno de la película nueva con el mismo nombre.
+    if (anio) banderas.add(`anio_${anio[1]}`)
+    else if (REESTRENO.test(contenido)) banderas.add("reestreno")
     else if (/PRE[\s-]?ESTRENO|AVANT|PREMIERE|PREVENTA/i.test(contenido)) banderas.add("preestreno")
   }
   titulo = titulo.replace(PARENTESIS, " ").trim()

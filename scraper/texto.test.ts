@@ -12,6 +12,9 @@ describe("limpiarTitulo", () => {
     ["Spider-man: Un Nuevo Día 3D", "Spider-man: Un Nuevo Día", []],
     ["AVATAR - 3D SUB (SALA ATMOS)", "AVATAR", []],
     ["VOLVER AL FUTURO (PREESTRENO) - 2D SUB", "VOLVER AL FUTURO", ["preestreno"]],
+    // Cinemark distingue los reestrenos con el año entre paréntesis.
+    ["DUNA (2021)", "DUNA", ["anio_2021"]],
+    ["DUNA: PARTE DOS (2024) - 2D SUB", "DUNA: PARTE DOS", ["anio_2024"]],
     // No toca números ni guiones que son parte del título.
     ["TOY STORY 5 - 3D CAST", "TOY STORY 5", []],
     ["MISIÓN: IMPOSIBLE - SENTENCIA FINAL", "MISIÓN: IMPOSIBLE - SENTENCIA FINAL", []],

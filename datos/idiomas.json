@@ -196,16 +196,16 @@
   "imdb": "tt38077943",
   "resuelto": "2026-11-25"
  },
- "duna": {
-  "idiomaOriginal": "otro",
-  "decididoPor": "Wikidata (idioma original: en)",
-  "imdb": "tt31378509",
-  "resuelto": "2026-11-26"
- },
  "duna parte dos": {
   "idiomaOriginal": "otro",
   "decididoPor": "Wikidata (idioma original: en)",
   "imdb": "tt15239678",
   "resuelto": "2026-11-26"
+ },
+ "duna": {
+  "idiomaOriginal": "otro",
+  "decididoPor": "Wikidata (idioma original: en)",
+  "imdb": "tt1160419",
+  "resuelto": "2026-11-27"
  }
 }
