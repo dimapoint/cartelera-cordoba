@@ -1,17 +1,17 @@
 {
- "generado": "2026-11-27T15:37",
+ "generado": "2026-11-27T15:55",
  "fuentes": {
   "cinemark": {
    "ok": true,
-   "actualizado": "2026-11-27T15:37"
+   "actualizado": "2026-11-27T15:55"
   },
   "cinexo": {
    "ok": true,
-   "actualizado": "2026-11-27T15:37"
+   "actualizado": "2026-11-27T15:55"
   },
   "cinemacenter": {
    "ok": true,
-   "actualizado": "2026-11-27T15:37"
+   "actualizado": "2026-11-27T15:55"
   }
  },
  "peliculas": [
@@ -68,8 +68,8 @@
    "titulo": "ONE PIECE: DOBLE AVENTURA",
    "poster": "https://cdn.cinemark.com.ar/content/posters/HO00013514.jpg",
    "duracion": 124,
-   "idiomaOriginal": "desconocido",
-   "decididoPor": "sin datos"
+   "idiomaOriginal": "otro",
+   "decididoPor": "manual: anime japonés: programa doble con dos películas de 2001 y 2002"
   },
   {
    "id": "tt22084616",
@@ -137,16 +137,6 @@
   }
  ],
  "funciones": [
-  {
-   "cine": "lastipas",
-   "pelicula": "tt27988879",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T15:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3607&pid=589",
-   "estado": "ok"
-  },
   {
    "cine": "lastipas",
    "pelicula": "tt38077943",

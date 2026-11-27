@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27T15:37",
+ "actualizado": "2026-11-27T15:55",
  "funciones": [
   {
    "fuente": "cinexo",
@@ -180,18 +180,6 @@
    "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3628&pid=588",
    "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F588%2Fprimario.png?alt=media",
    "duracion": 103
-  },
-  {
-   "fuente": "cinexo",
-   "cine": "lastipas",
-   "titulo": "Ramayana: El nacimiento de una leyenda",
-   "diaDeCine": "2026-11-27",
-   "inicio": "2026-11-27T15:40",
-   "formato": "2D",
-   "version": "CAST",
-   "compra": "https://www.cordoba.lastipas.com.ar/es-AR/compra?cid=1009&fid=3607&pid=589",
-   "poster": "https://firebasestorage.googleapis.com/v0/b/cinexo-lastipas.appspot.com/o/Peliculas%2F1009%2F589%2Fprimario.png?alt=media",
-   "duracion": 195
   },
   {
    "fuente": "cinexo",
