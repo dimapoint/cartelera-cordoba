@@ -28,7 +28,7 @@ export function Cabecera({ generado, hoy, dias, dia, alElegirDia, cinesElegidos,
               <span className="mes-nombre">{grupo.nombre}</span>
               <div className="mes-dias">
                 {grupo.dias.map((opcion) => (
-                  <button key={opcion} className="dia" aria-pressed={opcion === dia} onClick={() => alElegirDia(opcion)}>
+                  <button key={opcion} className="dia" data-dia={opcion} aria-pressed={opcion === dia} onClick={() => alElegirDia(opcion)}>
                     <span className="dia-nombre">{etiquetaDelDia(opcion, hoy)}</span>
                     <span className="dia-numero">{Number(opcion.slice(8, 10))}</span>
                   </button>
